@@ -1,0 +1,987 @@
+tconst,director_name,writer_name
+tt0011414,David Kirkland,"John Emerson,Anita Loos"
+tt0011890,Roy William Neill,"Arthur F. Goodrich,Burns Mantle,Mary Murillo"
+tt0014341,"Buster Keaton,John G. Blystone","Jean C. Havez,Clyde Bruckman,Joseph A. Mitchell"
+tt0018054,Cecil B. DeMille,Jeanie Macpherson
+tt0024151,James Cruze,"Max Miller,Wells Root,Jack Jevne"
+tt0025981,Alan James,"Basil Dickey,Alan James"
+tt0027332,Howard Bretherton,"Clarence E. Mulford,Doris Schroeder,Gerald Geraghty"
+tt0027415,Howard Bretherton,"Clarence E. Mulford,Doris Schroeder,Vernon Smith"
+tt0028326,Ray Taylor,"J.E. Grinstead,Earle Snell"
+tt0028657,Ray Taylor,"Frances Guihan,Forrest Brown"
+tt0029994,Charles Lamont,"Arthur Hoerl,Monroe Shaff"
+tt0030392,Stanley Logan,"Clements Ripley,Michael Jacoby,Robert Buckner,Lawrence Kimble,Stephen Vincent Benet"
+tt0030399,Ladislao Vajda,"Miklos Kadar,László Kádár,Károly Nóti,Imre Éri-Halász"
+tt0035802,Hugo Bolander,"Ragnhild Prim,Harry Iseborg"
+tt0036126,"Mervyn LeRoy,Albert Lewin","Paul Osborn,Hans Rameau,Ève Curie,Walter Reisch,Aldous Huxley"
+tt0036400,Akira Kurosawa,"Akira Kurosawa,Tsuneo Tomita"
+tt0036980,Kajirô Yamamoto,"Kajirô Yamamoto,Kenta Yamazaki"
+tt0037256,Wesley Ruggles,"Marion Hargrove,Harry Kurnitz,Herman J. Mankiewicz"
+tt0037534,Henry King,"Lamar Trotti,Norman Reilly Raine,John Hersey"
+tt0038010,Fyodor Otsep,"Bella Daniel,Jean Desprez"
+tt0039391,"Otto Preminger,John M. Stahl","Philip Dunne,Ring Lardner Jr.,Jerome Cady,Kathleen Winsor"
+tt0040053,"Byron Paul,Kenneth Whelan,Bob Schwarz,Clarence Schimmel,Robert Precht,John Wray,Tim Kiley,John Moffitt,Robert Bleyer","Norman Corwin,John Rapp,Lester A. White,Jerry Bresler,Lyn Duddy,Robert Precht,Robert Mott,Buddy Arnold,Joe Bigelow,Frank Shuster,Johnny Wayne,Jerry Juhl"
+tt0041468,Manuel Romero,"Enrique Cadícamo,Francisco García Jiménez,Manuel Romero"
+tt0042106,"James V. Kern,Ernest D. Glucksman,Sid Smith,Charles Isaacs,Sid Kuller,Jim Jordan,Mortimer Offner,Garry Simpson,Nat Hiken,Dee Englebach,Joseph Santley,Grey Lockwood,Buzz Kulik,Tim Whelan,Dick Berger,Coby Ruskin","Ben Blue,Matt Brooks,Sam Carlton,Dick Chevillat,Eddie Davis,Stanley Davis,Sid Dorfman,Jack Elinson,Dee Englebach,Hal Fimberg,Marvin Fisher,George Foster,Morris Freedman,Billy Friedberg,Larry Gelbart,Ernest D. Glucksman,Hal Goodman,Mort Green,Paul Henning,Nat Hiken,Arnold Horwitt,Charles Isaacs,Charles Issacs,George Jessel,Larry Klein,Sid Kuller,Norman Lear,Charles Lee,Virginia Lee,Mannie Manheim,Larry Markes,Julie Oshins,Elon Packard,Aaron Ruben,Bob Schiller,Jerry Seelen,Danny Shapiro,Ed Simmons,Ray Singer,Arthur Stander,Ben Starr,Norman Sullivan,Danny Thomas,Snag Werris"
+tt0043762,David Butler,Earl Baldwin
+tt0044298,"Jim Gaines,Francesco Cordaro,John Howard,Joe Michaels,Casey Casseday,Kirk Tingblad,Lloyd Aur Norman,Duke Ellington,Katerina Monemvassitis","Jerry Juhl,Robert Cunniff,Sylvester L. Weaver Jr.,Cal Howard,Katie Couric,Jonathan Schuppe"
+tt0045793,Fred Zinnemann,"Daniel Taradash,James Jones"
+tt0048491,Joshua Logan,"Daniel Taradash,William Inge"
+tt0049800,Daniel Taradash,"Daniel Taradash,Elick Moll"
+tt0051972,Rangel Vulchanov,Valeri Petrov
+tt0055138,Leopoldo Torre Nilsson,"Beatriz Guido,Ricardo Luna,Ricardo Muñoz Suay,Leopoldo Torre Nilsson"
+tt0057188,Rafael J. Salvia,Jaime García Herranz
+tt0058439,Liviu Ciulei,"Titus Popovici,Liviu Rebreanu"
+tt0058643,Leopoldo Torre Nilsson,"Beatriz Guido,Ricardo Luna,Leopoldo Torre Nilsson,Ricardo Becher"
+tt0059090,Ion Popescu-Gopo,"Ion Creanga,Ion Popescu-Gopo"
+tt0059470,Bernhard Wicki,"Daniel Taradash,Werner Jörg Lüddecke,Walon Green"
+tt0060025,"Eric Price,Ron Taylor,Albie Thoms,Ed Devereaux,Dennis Hill,Lee Robinson,Eric Fullilove,Max Varnel,Peter Maxwell","Ross Napier,Ted Roberts,Joy Cavill,Lee Robinson,Denys Burrows,Ed Devereaux,Moya Wood,Carol Odell,Joan Levy,Rae Glasser,Warren Glasser,James Workman,Tony Booth,J. Benn Darrow,Dennis Hill,Creswick Jenkinson,Michael Wright,Maureen Walsh,Scotty Denholm,Suzanne Baker,Peter Finnane,Peter Kay,Kay Keavney,John McCallum,Will Pryor,Ron Taylor,Margaret Trist,John Warwick,Rene Devereaux,Alex McDonald,Phyllis McLean,Ron McLean,Richard Raper,Stephen Rhodes,Martyn Sanderson,Valerie Taylor,Albie Thoms,Alan Veitch,Brian Wright,Stewart A. Fist,Bill Lambert,Harry Woollerton"
+tt0060910,Otakar Vávra,"Frantisek Hrubín,Otakar Vávra"
+tt0061634,J. Lee Thompson,"Robin Estridge,Dennis Murphy"
+tt0062890,Don Weis,"James Fritzell,Everett Greenbaum,John Fenton Murray"
+tt0063585,John Flynn,Dennis Murphy
+tt0063823,George Dunning,"Lee Minoff,John Lennon,Paul McCartney,Al Brodax,Jack Mendelsohn,Erich Segal,Roger McGough"
+tt0063925,"Coby Ruskin,Ross Martin,Richard Michaels,Ezra Stone,Gordon Wiles,Jud Taylor,Howard Morris,Peter Baldwin,George Tyne,Joshua Shelley,Alan Rafkin,Richard Kinon,Terry Becker,Allen Baron,James Sheldon,William F. Claxton,E.W. Swackhamer,Hugh A. Robertson,Danny Simon,Hy Averback,William Wiard,Sam Strangis,Jack Donohue,Ross Bowman,Jeffrey Hayden,Norman Abbott,Leslie H. Martinson,Jack Arnold,Robert Birnbaum,Harry Falk,Arnold Margolin,Herbert Kenwith,Bill Hobin,Hal Cooper,Frank Buxton,Joseph Barbera,Seymour Robbie,Jerry London,Marc Daniels,Krishna Shah,Lee Philips,Murray Golden,Jerry Paris,Stuart Margolin,Harry Harris,Jim Parker,William Hanna,Hollingsworth Morse,Bruce Bilson,Jerrold Bernstein,Gary Nelson,Oscar Rudolph,Charles R. Rondeau","Arnold Horwitt,Larry Markes,Bob Schiller,Ray Singer,James Fritzell,Everett Greenbaum,John Fenton Murray,Garry Marshall,Jerry Belson,Roy Kammerman,Jerry Rannow,Greg Strangis,R.S. Allen,Ed Scharlach,Harvey Bullock,Peggy Elliott,Bill Idelson,Harvey Miller,Doug Tibbles,Terry Ryan,George Kirgo,Gene Thompson,Dick Bensfield,Perry Grant,Lloyd Garver,Ken Hecht,Bob Rodgers,Bernie Kahn,Dale McRaven,David Ketchum,Bruce Shelly,Charlotte Brown,Ron Friedman,Norman Lessing,Skip Webster,Bruce Howard,Arnold Margolin,Jim Parker,Arnold Peyser,Lois Peyser,David Davis,Harry Dolan,Dave Evans,Bud Freeman,Lorenzo Music,Harry Winkler,Lila Garrett,Susan Harris,Joe Michael Terry,Lynne Farr,Phil Shuken,Bill Box,Allan Burns,Alan Dinehart,Tom Wade,Stan Dreben,Jack Winter,Rubin Carson,Dick Gautier,Michael Leeson,Steve Zacharias,John Baskin,Joseph Bonaduce,Bernie Orenstein,Roger Shulman,Saul Turteltaub,Robert Garland,Nate Monaster,George Tibbles,George Yanok,Stanley Adams,Gwen Bagni,Louise Bryant,Helen Damico,James Damico,Paul Dubov,Michael Elias,Aubrey Goodman,Robert Goodwin,Deborah Haber,Doris Hursley,Frank Hursley,Alan Mandel,Lloyd J. Schwartz,Frank Shaw,Larry Siegel,Neil Simon,George F. Slavin,Roland Wolpert,Earl Barret,William Bickley,William F. Brown,Bob Brunner,Oliver Crawford,Valerie Harper,Carl Kleinschmitt,Heywood Kling,Ferdinand Leon,Phil Mishkin,Peter Myerson,Iris Rainer,Sidney Reznick,Rick Richards,Richard Schaal,Susan Silver,Barry Trivers,Bob Weiskopf,Jim Abell,Don Boyle,Bob Carroll Jr.,Dee Caruso,Martin Cohan,Madelyn Davis,Chet Dowling,Gerald Gardner,David P. Harmon,Stan Hart,S.A. Long,Laurence Marks,John Strong,Burt Styler,Paul Wayne,Barbara Avedon,Frank Buxton,Calvin Clements Jr.,Les Colodny,Joyce Eliason,Bob Fisher,Joseph Hoffman,Dennis Klein,Arthur Marx,Joe Mooney,Maurice Richlin,Milt Rosen,Stanley Ralph Ross,Lynn Roth,Ken Shapiro,Toni Van Horne,Helene Winer,Don Appell,Eric Bercovici,Johnny Bonaduce,Wally Dalton,Jerry Davis,Lee Erwin,David Evans,Alvin R. Friedman,Marilyn Hall,Brooke Harris,Jeff Harris,William J. Keenan,Sandy Krinski,Bernie Kukoff,Alfred Lewis Levitt,Helen Levitt,Norman Mark,Winston Moss,Warren S. Murray,George O'Hanlon,Lan O'Kun,Gene Perret,Howard Rayfiel,Mickey Rose,Lou Shaw,Tony Webster,Alex Barris,Arlene Stadd,Leonard Stadd,Charles Stewart,Christine Tibbles,Joseph Barbera,William Hanna,Terry Music"
+tt0063932,"Stan Harris,Stan Jacobson","Richard Schaal,Carl Gottlieb,Tony Hendra,Stan Jacobson,David Steinberg,Nick Ullett,Tom Whedon"
+tt0064546,Otakar Vávra,"Otakar Vávra,Václav Kaplický,Ester Krumbachová"
+tt0064553,"Iosif Shapiro,Grigoriy Kozintsev","Grigoriy Kozintsev,Boris Pasternak,William Shakespeare"
+tt0065506,Jean Herman,"Henri Charrière,Jean Herman,J.B. Beellsolell"
+tt0065632,Claude Fournier,"Claude Fournier,Marie-José Raymond"
+tt0065891,Denis Héroux,Yves Thériault
+tt0065987,Krsto Papic,"Mirko Kovac,Krsto Papic"
+tt0066463,Barry Shear,"Dennis Murphy,Joel Oliansky,Mann Rubin"
+tt0066717,"Perry Rosemond,Art Fisher","Paul Wayne,Chris Bearde,Allan Blye,Bob Arnott,George Burditt,Phil Hahn,Coslough Johnson,Bob Einstein,Steve Martin,Jim Mulligan,Earl Brown,Jack Hanrahan"
+tt0067791,Rod Amateau,"Alec Coppel,Denis Norden"
+tt0068280,Ossie Davis,J.E. Franklin
+tt0068639,E.W. Swackhamer,"John McGreevey,Frederick Kohner"
+tt0069496,Stuart Millar,"Hal Borland,Robert Dozier"
+tt0069810,Raj Kapoor,"Khwaja Ahmad Abbas,Jainendra Jain,V.P. Sathe"
+tt0069978,Radu Gabrea,Fanus Neagu
+tt0069982,Otakar Vávra,"Otakar Vávra,Miloslav Fábera"
+tt0070253,Pramod Chakravorty,"Sachin Bhowmick,Gulshan Nanda,Ehsan Rizvi"
+tt0070903,Sydney Pollack,"Arthur Laurents,Francis Ford Coppola,David Rayfiel,Dalton Trumbo"
+tt0071315,Roman Polanski,"Robert Towne,Roman Polanski"
+tt0071651,Andrei Blaier,Andrei Blaier
+tt0072026,K.S. Prakash Rao,"Inder Raj Anand,Kausalya Devi Koduri,K.S. Prakash Rao,Raj Baldev Raj"
+tt0072247,"Mette Knudsen,Elisabeth Rygaard,Li Vilstrup","Mette Knudsen,Elisabeth Rygaard,Li Vilstrup"
+tt0072281,Richard Lester,"George MacDonald Fraser,Alexandre Dumas"
+tt0073442,Leonid Gaidai,"Vladlen Bakhnov,Leonid Gaidai,Mikhail Zoschenko"
+tt0073813,Axel Corti,Michael Scharang
+tt0074423,Luigi Comencini,"Carlo Fruttero,Franco Lucentini,Agenore Incrocci,Furio Scarpelli"
+tt0074539,Peyo,"Peyo,Yvan Delporte"
+tt0074653,Cliff Roquemore,"Jerry Jones,Rudy Ray Moore,Ben A. Taylor,Jimmy Lynch"
+tt0074949,Rajkumar Kohli,"Inder Raj Anand,Jaggi Rampal,Charandas Shokh,Rajendra Singh 'Atish'"
+tt0074964,Peter Bogdanovich,"W.D. Richter,Peter Bogdanovich"
+tt0075147,Richard Lester,James Goldman
+tt0075585,"Ezra Stone,George Tyne,Jeffrey Hayden,Arthur H. Nadel","Howard Rayfiel,Allen Ducovny,Samuel A. Peeples,Martha Humphreys,Jack Paritz,Ted Pedersen,Lynn Barker,Susan Dworski,Don Heckman,Marianne Mosner,Peter Packer,Martin Roth,Robert Specht,Tom Swale"
+tt0077362,Hal Ashby,"Waldo Salt,Robert C. Jones,Nancy Dowd,Rudy Wurlitzer"
+tt0078087,Joe Dante,"Richard Robinson,John Sayles"
+tt0078355,Zeki Ökten,Yilmaz Güney
+tt0078446,"Tommy Chong,Lou Adler","Tommy Chong,Cheech Marin"
+tt0078559,John Reardon,"Anna Raeburn,Len Richmond,Stan Hey,Andrew Nickolds"
+tt0078740,David Lowell Rich,"Arthur Hailey,Jennings Lang,Eric Roth"
+tt0079321,Fielder Cook,"Maya Angelou,Leonora Thuna"
+tt0079520,Noel Black,"Raynold Gideon,Bruce A. Evans,Stuart Margolin"
+tt0079550,Ronald Neame,"Stanley Mann,Edmund H. North"
+tt0079659,Lordan Zafranovic,"Mirko Kovac,Filip David,Stipe Gurdulic,Mato Jaksic,Ranko Munitic,Lordan Zafranovic"
+tt0079750,Yevgeni Tatarsky,"Edgar Dubrovsky,Robert Louis Stevenson"
+tt0080516,Peter Medak,"Russell Hunter,William Gray,Diana Maddox"
+tt0080596,John 'Bud' Cardos,"Wayne Schmidt,J. Larry Carroll,David Schmoeller,Steve Neill"
+tt0080664,Rafael Romero Marchent,"Rafael Romero Marchent,Joaquín Luis Romero Marchent"
+tt0081416,René Allio,"René Allio,Janine Peyre"
+tt0081766,Mike Jittlov,"Mike Jittlov,Richard Kaye,Deven Chierighino"
+tt0081851,Stuart Allen,"Richard Gordon,Ralph Thomas"
+tt0081857,"Katerina Monemvassitis,Whitney Wallace,James Rosenfield,Marc Silver,Norman H. Strassner,Canaan Rubin,Brian K. Roberts,Bob Port,Ann Lewis,Eric S. Gray,Dan Funk,Joseph Freed,Scott Firestone,Miguel Enciso,Cheri Brownlee,Christopher Bavelles,Lauren Zima,Brad Magon,Brenda Rodriguez,Anthony Caleca,Ron de Moraes,Frank Radice,Jim Ziegler,Steve Hirsen,Brian Campbell,Stephen R. Powell,Stan Feingold,Peter Brown,Ryan Neary,Jim Sheehan,Dennis Coleman,Alicia Ulrich,Ali McCallister,Earnest Winborne,Edward Asiano,Stacey Chamberlain,Jay Larkins","Charles Cook,Jim Ziegler,Andrew Epstein,Andy Friendly,Felidette Blausucci,Sharon Hoffman,Ray Slaboda,Bob Flick,Bill Olson,Dick Wilson,Heidi Clements,Anthony Caleca,Ann Lewis,Scott Firestone,Alfred Masini,Wayne Warga"
+tt0082198,John Milius,"Robert E. Howard,John Milius,Oliver Stone,Edward Summer"
+tt0083143,Christian Lara,"Danielle Amerel,Florence Brunois,Emmanuelle Denis,Christian Lara,Sophie Marjerfeld-Siritzky,Merryl Rouchon"
+tt0083863,Francis Leroi,"Francis Leroi,Owen T. Rozmann"
+tt0084316,Hal Needham,"Bob Kachler,James Whittaker,Al Ruddy,Hal Needham,Andre Morgan"
+tt0084464,Alfred Sole,"Jaime Barton Klein,Richard Whitley"
+tt0084707,Alan J. Pakula,"William Styron,Alan J. Pakula"
+tt0084726,Nicholas Meyer,"Samuel A. Peeples,Gene Roddenberry,Harve Bennett,Jack B. Sowards,Nicholas Meyer"
+tt0084861,Gary Sherman,"Sandy Howard,Kenneth Peters,Robert Vincent O'Neil,Gary Sherman"
+tt0085110,"James Sheldon,Hollingsworth Morse,Dennis Donnelly,Michael Hamilton,Barry Crane,Vincent McEveety,John Newland,Corey Allen,Bernard L. Kowalski,Georg Fenady,Alf Kjellin,Lawrence Levy,Max Gail","Lynn Barker,Philip DeGuere Jr.,Bob Shayne,James Crocker,Paul A. Magistretti,Joe Gannon,Phil Combest,Andrew Guerdat,Steve Kreinberg,Tom Sawyer,Arthur Weingarten,Craig Buck,Don Buday,Jill Gordon,Tim Maschler,Jack Laird,Clyde Ware"
+tt0085380,Martin Ritt,"Marjorie Kinnan Rawlings,Dalene Young"
+tt0085737,Francesco Prosperi,Piero Regnoli
+tt0085747,Ivan Nagy,"Cynthia Whitcomb,Walter Halsey Davis"
+tt0086340,Jack Hill,"Jim Wynorski,Jack Hill"
+tt0086729,"Kevin Burston,Sally Brady,Leigh Spence","John Flanagan,Gary Reilly,Kym Goldsworthy,Ian Rochford,Bill Young,Hugh Stuckey,Ken Matthews,David Witt,Dave Cummings,Joan Flanagan,Stephen Quinn,Neil Stewart,Steve J. Spears"
+tt0086837,Peter Hyams,"Arthur C. Clarke,Peter Hyams"
+tt0086890,Alain Resnais,Jean Gruault
+tt0087175,Joseph Ruben,"David Loughery,Chuck Russell,Joseph Ruben"
+tt0087303,Tonino Ricci,"Jaime Comas Gil,Eugenio Benito"
+tt0087592,David Winters,"Judd Hamilton,David Winters,Tom Klassen"
+tt0088478,"Joe Dante,Peter Hyams,Todd Holland,Donald Petrie,Clint Eastwood,Robert Markowitz,Ken Kwapis,Paul Michael Glaser,Bob Balaban,Tom Holland,Steven Spielberg,Timothy Hutton,Robert Stevens,Nick Castle,Norman Reynolds,Kevin Reynolds,Paul Bartel,Danny DeVito,Irvin Kershner,Phil Joanou,J. Michael Riva,Michael D. Moore,Joan Darling,Lesli Linka Glatter,William Dear,Martin Scorsese,Tobe Hooper,Robert Zemeckis,Graham Baker,Matthew Robbins,Thomas Carter,Burt Reynolds,Mick Garris,Bob Clark,Brad Bird","Steven Spielberg,Joshua Brand,John Falsey,Mick Garris,Richard Matheson,Stu Krieger,Brad Bird,Gail Parent,Kevin Parent,Earl Pomerantz,Paul Bartel,Richard Christian Matheson,Tom McLoughlin,Michael De Guzman,Frank Deese,Douglas Lloyd McIntosh,Menno Meyjes,Jim Bissell,Pierre R. Debs,Robert C. Fox,Bob Gale,Lowell Ganz,Todd Holland,Timothy Hutton,Babaloo Mandel,Michael McDowell,Joseph Minion,Julie Moskowitz,Rockne S. O'Bannon,Peter Z. Orton,Anne Spielberg,Gary Stephens,Jacob Epstein,Jack Finney,Frank Kerr,Bruce Kirschbaum,Daniel Lindley,Ali Marie Matheson,John Meyer,Tom Szollosi"
+tt0088512,"John Greening,Michael Owen Morris,Steve Finn,Karl Neilson,Clive Arnold,Jamie Annett,Philip Casson,Peter Rose,Richard Platt,Lance Kneeshaw,Richard Lynn,Tim Mercier,Jennie Darnell,Paul Annett,Mark Sendell,David Moor,Nic Phillips,Nicholas Prosser,John Howlett,Geoff Feld,Jo Johnson,Ian White,Toby Frow,David Tucker,Garth Tucker,Rupert Such,Graeme Hattrick,Sue Butterworth,John Dower,Dominic Keavey,Mervyn Cumming,Gwennan Sage,Laurence Wilson,William Slater,Emma Bridgeman-Williams,Mickey Jones,Sophie Lifschutz,Rebecca Gatward,Penelope Shales,Lee Salisbury,Bill Hays,David Kester,Laurence Wilson,Audrey Cooke,Angie de Chastelai Smith,Daniel Wilson,Steve Goldie,Sue Dunderdale,Jane Ashmore,Robert Gabriel,Chris Jury,Colin Wratten,Kate Saxon,Brett Fallis,Mike Gibbon,Waris Islam,Philip Draycott,Nigel Douglas,Thomas Hescott,Matthew Robinson,Piotr Szkopiak,Tim Leandro,Chris Richards,Adrian Bean,Julia Smith,Chris Clough,Tom Kingdon,Alice Troughton,Chris Lovett,Barry Letts,Charles Beeson,Rob Evans,Chris Miller,Michael Keillor,Antonia Bird,Jonathan Wright-Miller,Indra Bhose,Claire Winyard,Jon East,Henry Foster,Julie Edwards,Andy Hay,Alex Kalymnios,Jerry Smith,Conor Morrissey,Tony Virgo,Terry Iland,Chris Fallon,Nicky Higgens,Gill Wilkinson,Peter Edwards,Leonard Lewis,Mike Dormer,Keith Boak,Michael Buffong,Stephen Butcher,Jeff Naylor,Paul Wroblewski,Michael Samuels,Jeremy Ancock,Romey Allison,Mike Lloyd,Matthew Evans,Steve Shill,Susan Tully,Richard Dale,William Sinclair,Sean Healy,James Larkin,Sarah Esdaile,Margy Kinmonth,Julian Holmes,Stewart Edwards,Lisa Clarke,Darrol Blake,David Innes Edwards,Jean Stewart,Stephen Garwood,Sallie Aprahamian,Francesca Joseph,Matthew Evans,Richard Holthouse,Johnathan Young,Laura Way,Alan Wareing,Gerald Blake,Tony McHale,Roger Gartland,Beryl Richards,Stephen Moore,Ali Yassine,S.J. Clarkson,Terry Dyddgen-Jones,Ian Barber,Reza Moradi,Afia Nkrumah,Neil Alderton,Will Brenton,Chris McGill,Bren Simson,Jim Shields,Helen Caldwell,Jim Goddard,Graeme Harper,Geoff Harris,Dearbhla Walsh,Sarah Punshon,Brian Morgan,Malcolm Taylor,Peter Moffatt,Frank Cox,John Bruce,Brian Stirner,Bill Gilmour,Dermot Boyd,Albert Barber,Joy Perino,Clare Kilner,Tom Hooper,Ian Brown,Jeremy Silberston,Andrew Morgan,Jeremy Woolf,Sue Bysh,Jonathan Dent,Justin Chadwick,Nick Jones,Christiana Ebohon,Topher Campbell,Bruce Webb,Ron Craddock,Anthony Garrick,Michael Kerrigan,Douglas Argent,Paul Unwin,Ronald Wilson,Richard Laxton,Misha Williams,Haldane Duncan,Dez McCarthy,Nick Copus,Karen Kelly,Jonathan Marks,Jeremy Raison,Sven Arnstein,Caroline Jeffries,Edward Bazalgette,Nick Cohen,Liz Gill,Simon Massey,Christopher McGill,Hannah Quinn,Edward Dick,Matt Holt,Nickie Lister,Kay Patrick,Christopher Hodson,John Darnell,Michael E. Briant,Jeremy Brock,David Richardson,Bill Britten,David Mason,Karen Stowe,Ray Kilby,Paul Carney,Kenneth Glenaan,Pip Short,Menhaj Huda,James Kent,James Erskine,Ian White,Sheila Atha,Mike Barnes,Paul Harrison,David Andrews,Simon Meyers,Maggie Ford,Philippa Langdale,Helen Caldwell,Anne Ross Muir,Dominic Santana,Richard Davidson,Vivienne Cozens,Peter Boisseau,David Crozier,Michael Ferguson,Alister Hallum,Nick Read,Marc Jobst,Deborah Paige,Jaden Clark,Sarah Hooper,Vito Rocco,Jon Sen,Martin Gent","Tony Holland,Julia Smith,Rob Gittins,Jeff Povey,Edward Sellek,Christopher Reason,Katie Douglas,Katie Bourne,Matthew Campbell,Carey Andrews,Simon Ashdown,Pete Lawson,Tony McHale,Tony Jordan,Jerome Bucchan-Nelson,Art Young,Daran Little,Colin Wyatt,Matt Evans,Gillian Richmond,Lauren Klee,Dave Payne,Bill Lyons,Jon East,Robert Perry,Richard Davidson,Sarah Phelps,Patrick Homes,Annie Wood,Gabriel Robertson,Tom Williams,Nicholas Hicks-Beach,Steve Casey,Deborah Cook,Wendy Granditer,James Payne,Gabbie Asher,Jesse O'Mahoney,Ian Aldwinckle,Rory Nugent,Rio Fanning,Sean O'Connor,Susan Boyd,Peter Mattessi,Richard Lazarus,Julia Honour,Jaden Clark,Charlie Humphreys,Jane Hollowood,Joanne Maguire,Kim Revill,Jonny O'Neill,Gilly Fraser,Julie Wassmer,Henry R. Swindell,Emer Kenny,Richard Zajdlic,Alison Fisher,Jake Riddell,Jenny Robins,Barrie Shore,Lynne Dallow,Keith Temple,Mark Catley,Gerry Huxham,Matthew Graham,Julia Gilbert,Bridget Colgan,Mark Hiser,Colin Brake,Mark Clompus,Rachel Flowerday,Daisy Coulam,Anya Reiss,Ashley Pharoah,Tony Basgallop,Andrew Taft,Si Spencer,Len Collin,Anji Loman Field,Al Ashton,Jenny Lecoat,Chris Parker,Juliet Ace,Rosemary Mason,Paula Webb,Natalie Mitchell,Simon Winstone,Robin Mukherjee,Leo Richardson,Julian Perkins,Shaun Duggan,Spenser Frearson,Rebecca Wojciechowski,Perrie Balthazar,Paul Quiney,Liane Aukin,Ming Ho,Lisa Evans,Paul Mari,Mark Stevenson,Lisselle Kayla,Simon J. Ashford,Sharon Marshall,Tony Etchells,Rachel Anthony,Ann-Marie di Mambro,Pippa McCarthy,Matthew Barry,David Joss Buckley,James Melody,Sally Abbott,Madeleine Clifford,Johnny Candon,Lilie Ferrari,Helen Blizard,Jo O'Keefe,Laura Watson,Michael Russell,Jake Lushington,Dare Aiyegbayo,Michael Begley,Gemma Copping,Brendan J. Cassin,Michael Jenner,Lucy Gannon,Davey Jones,Simon Norman,Poz Watson,John Maynard,Arnold Yarrow,Andrew Collins,Pete McTighe,Lindsay Williams,Laura Poliakoff,Robert Goldsbrough,Gary Brown,David Lloyd,Gaby Chiappe,Ben Vanstone,Emilia di Girolamo,Jessica Lea,Valerie Georgeson,Lucy Blincoe,Bob Ritchie,Paul Matthew Thompson,Liz Lake,Matthew Hurt,Yasmeen Khan,Peter Batt,Andrew Holden,Doug Briggs,Chris Murray,Lin Coghlan,Nick Warburton,Kevin Rundle,Gert Thomas,Paul Campbell,Heather Robson,Glen McCoy,Billy Hamon,Bev Doyle,Linda Dearsley,Steve Waye,Barry McCarthy,Gurpreet Bhatti,Mark Johnson,Patrea Smallacombe,Jane Marlow,Robert Butler,Sumerah Srivastav,Philip Wright,Ayshe Raif,Mark Wheatley,Jyoti Patel,Jez Simons,Tim Vaughan,Kolton Lee,Matthew Baylis,Chris Webb,Jane McNulty,Marc Pye,Polly Eden,Dana Fainaru,Kathrine Smith,Nathan Cockerill,Tom Needham,Sally Tatchell,Gavin James Bower,Alex Straker,Andrew Rattenbury,Lorraine Newman,Jim Hawkins,Sarah Daniels,Jane Galletly,Paul Doust,Sallie Aprahamian,Nick Crittenden,Carol Noble,Ben Cooper,Oliver Dennis,Paul Coates,Stephanie Lloyd Jones,Dominique Moloney,Lena Rae,Karen Laws,Rob Williams,Bohdan Poraj,Josh Freedman Berthoud,Darren Rapier,Lisa Gifford,Lisa McMullin,Philip Lawrence,Ben Wadey,Allan Swift,David Ashton,John Lewis,Helen Millar,Duncan Gould,Sian Orrells,David Fox,Catherine Cooke,Alison Watt,Tanika Gupta,Wendy Lee,Nick Reed,Richard Stockwell,Nick Saltrese,Simon Moss,Christopher Smith,Debbie O'Malley,James McIntyre,Stephen Keyworth,Al Smith,Fiona Evans,Eirene Houston,Angela Corner,Tim Price,Peter McKenna,Fiona Peek,Roy Boulter,Kenny Emson,Kelly Jones,Sarah Hooper,Jamie Roche,Sydney Thompson,Paul Walker,Angela Murray,Michael Begley,Chris Anstis,Harry Duffin,David Hopkins,Tony Bilbow,Guido Casale,Julia Schofield,John Drew,Christopher Penfold,Tony Grounds,Judy Forshaw,Lesley Davies,Barry Thomas,Jonathan Myerson,Helen Slavin,Mark Davies Markham,Marc Peirson,Kate Wright,Katie Baxendale,Lindsey Hill,Paul Dodgson,John Brennan,Nazrin Choudhury,Matthew Cooper,Garry Tyler,Ann Monks,Tom Ogden,Emma Goodwin,Susan Wilkins,Ian Kershaw,Abi Bown,Jeff Young,Tom Chaplin,Angela Clarke,Samina Baig,Philip Gawthorne,Michael Wynne,Carrie-Anne Brackstone,Ray Brooking,Michael Levine,Danny Stack,Shazia Rashid,Nicola Wilson,Tom Higgins,Kit Lambert,Andrew Mettam,Jon Sen,Cat Jones,Maya Sondhi,Phil Clymer,Tim Stimpson,Bria Thomas,Thea Ward,Robert Evans,Martin Scott,Craig Sheldon,Michael Owen Morris,John Crisp,Tony Dennis,Frances Galleymore,Hugh Miller,Christopher Russell,John Barrington,Jack Lewis,Christopher Mattocks,John Oakden,Robin Allen,Maureen Chadwick,Shirley Cooklin,Carl Rigg,Mark Thomas,Graeme Curry,Peter Hammond,Trish Cooke,Sean Egan,Michael Ellis,John Milne,Grazyna Monvid,Margaret Simpson,John Chambers,Anthony Forbes,Stephen Stratford,Louise Berridge,Catherine Hayes,Kevin Hood,Shelley Miller,James Stevenson,Angela Turvey,Raymond Dixon,Chris Fewtrell,Zeddy Lawrence,Stuart Morris,Allan Sutherland,Roy Gaunt,Mark Illis,Clare McIntyre,Stephen Tredre,Gil Brailey,Ben Foster,Fred Lawless,Trevor Suthers,Edel Brosnan,Tim O'Mara,Tony Simon,Danny Miller,Dan Sefton,Katharine Way,Tony Graham,Christine Murphy,Ross Anderson,Stephen McAteer,Paul Rose,Catherine Tregenna,Sandy Boyce,Marcus Goodwin,Aileen Goss,Kate Henry,Martin Jameson,Chris O'Connell,Chris Boiling,Andrew Cornish,Sasha Hails,Geoff Lindsey,Doug Lucie,Bradley Quirk,Paul Jenkins,Patrick Wilde,Abby Ajayi,Stephen John Hallett,Justin Young,Sonali Bhattacharyya,Tom Bidwell,Martin Brocklebank,Kay Hartnett,Simon Vinnicombe,Matthew Broughton,Tahsin Guner,Natasha Langridge,David Lawrence,Paul Logue,Kirstie Swain,Ben Tagoe,Gina Dallow,Nick Fisher,Pete Jordi Wood,Rachael New,David Aiyegbayo,David McManus,Chris Clenshaw,Joanna Toye,Ian White,John Hickman,Harry Holmes,Carol Parker,Philip Lawrence,Natalie Mitchell,Shannon Fitzgerald,Sarah-Louise Hawkins,Colin McKeown"
+tt0088556,"Peter Baldwin,Allen Baron,Ed Feldman","Anna Raeburn,Len Richmond,Bob Colleary,Sam Denoff,Laura Levine,Susan Seeger"
+tt0088609,Mark Stuart,"Brian Cooke,Vince Powell,Alex Shearer,Ian Davidson,Andrew Marshall,David Renwick,Peter Vincent"
+tt0088621,"Jean Stewart,Richard Holthouse,Haldane Duncan,James Henry,Alan J.W. Bell,Graham Theakston,Mary McMurray,Derek Lister,Gordon Flemyng,Jim McCann,Ian Knox,Douglas Mackinnon,Justin Molotnikov,Bill Anderson,Adrian McDowall,Andy Goddard,Sarah Hellings,Mike Vardy,Alan Macmillan,Laurence Moody,Ian Madden,Brian Kelly,Mike Alexander,Patrick Harkins,Michael Brayshaw,Morag Fullarton,Peter Barber-Fleming,Danny Hiller,Marcus D.F. White","Ann-Marie di Mambro,Michael Jenner,Lena Rae,James McIntyre,John Milne,Paul Logue,Glenn Chandler,Stuart Hepburn,Robert Fraser,Mike Cullen,Barry Appleton,Richard Maher,John Brown,David Kane,Julie Dixon,Chris Dolan,Mark Greig,Steve Griffiths,Martin McCardie,Ian Madden,Julian Jones,Russell Lewis,Robert Smith,Phil Ford,Julian Spilsbury,Danny McCahon,Nick Doughty,Peter Mills,Brian McGill,Daniel Boyle,Charlie Fletcher,Julie White,Tony Philpott,Stephen Brady,Morag Fullarton,Matt Harvey,Dominic Morgan,Declan Croghan,Steve Lightfoot"
+tt0088634,"Bruce Bilson,Joe Dante,Noel Black,Peter Medak,John Milius,J.D. Feigelson,William Friedkin,Kenneth Gilbert,Paul Lynch,Sturla Gunnarsson,Brad Turner,Rick Friedberg,Jim Purdy,Sigmund Neufeld Jr.,Theodore J. Flicker,Randy Bradshaw,Don Carlos Dunaway,Gus Trikonis,Alan Smithee,Bruce Pittman,Gilbert Cates,Allan King,David Steinberg,Allan Kroeker,Martha Coolidge,Douglas Jackson,Otta Hanus,Robert Downey Sr.,Allan Arkush,John D. Hancock,Ralph L. Thomas,Steve DiMarco,Tommy Lee Wallace,Ben Bolt,Thomas J. Wright,Bradford May,Atom Egoyan,Curtis Harrington,Paul Tucker,Bill Duke,Sheldon Larry,René Bonnière,Jeannot Szwarc,Bruce Malmuth,Martin Lavut,Philip DeGuere Jr.,Wes Craven,Gilbert M. Shilton,Eric Till,Jim McBride,Gil Bettman,Shelley Levinson,Claudia Weill,Gerd Oswald,Bill Norton,Ryszard Bugajski","Lan O'Kun,Lynn Barker,Philip DeGuere Jr.,James Crocker,Joe Gannon,Arthur C. Clarke,Richard Matheson,Rockne S. O'Bannon,Rod Serling,Alan Brennert,J. Michael Straczynski,Paul Chitlik,Jeremy Bertrand Finch,Harlan Ellison,George R.R. Martin,Haskell Barkin,Michael Cassutt,Gerrit Graham,Chris Hubbell,Rebecca Parr Cioffi,Martin Pasko,Steven Barnes,Charles Beaumont,Ray Bradbury,Anne Collins,J.D. Feigelson,Donald Todd,Michael Reaves,David Gerrold,Patrice Messina,Theodore Sturgeon,Cal Willingham,David Carren,Chip Duncan,Joe Haldeman,Richard Krzemien,William M. Lee,Robert R. McCammon,Henry Slesar,William F. Wu,Greg Bear,Steven Bochco,Robert Crais,Phyllis Eisenstein,Les Enloe,Charles E. Fritch,Arthur Gray,Robert Hunter,Stephen King,Bryce Maritano,Terry Matz,Gordon Mitchell,Carter Scholz,J. Neil Schulman,Mary Sheldon,Sidney Sheldon,Robert Silverberg,Tommy Lee Wallace,Roger Zelazny,Virginia Aldridge,Ron Cobb,J.M. DeMatteis,Parke Godwin,Anthony Lawrence,Nancy Lawrence,Robin Love,Ed Redlich,Tom J. Astle,Tom Palmer,Ralph Phillips,William Selby,Jeff Stuart,Bob Underwood,Robert Walden,Will Bermender,William Froug,Tom Godwin,George Clayton Johnson,Christy Marx"
+tt0088878,Alphonse Beni,"A.R. Baumont,Alphonse Beni"
+tt0088893,Pierre Goupil,Pierre Goupil
+tt0089310,Ken Burns,Geoffrey C. Ward
+tt0089496,Alan Sharp,Alan Sharp
+tt0089730,Howard Storm,"Dimitri Villard,David Hines,Jeffrey Hause,Jonathan Roberts"
+tt0089839,George Bowers,"Gordon Mitchell,Ken Segall,Alan Wenkus"
+tt0089849,Raoul Ruiz,Raoul Ruiz
+tt0090168,J.S. Cardone,J.S. Cardone
+tt0090215,Rauni Mollberg,"Veikko Aaltonen,Väinö Linna,Rauni Mollberg"
+tt0090466,"E.W. Swackhamer,Donald Petrie,Allan Arkush,Ben Bolt,Shelley Levinson,Richard Compton,Win Phelps,Elodie Keene,Tom Moore,Rick Wallace,Mark Tinker,John Pasquin,Sam Weisman,Gabrielle Beaumont,David Carson,Oz Scott,Gregory Hoblit,Sharron Miller,Helaine Head,Sandy Smolan,Rob Thompson,Steven Robman,Menachem Binetski,Miles Watkins,Edwin Sherin,Mervin B. Dayan,Paul Lazarus,Dan Lerner,Jan Eliasberg,Leslie Hill,William M. Finkelstein,Gary Weis,Michael Schultz,Victor Lobl,Charles Haid,Marisa Silver,Brad Silberling,Janet Greek,Jeffrey D. Brown,Arthur Allan Seidelman,Johanna Demetrakas,Max Tash,Eric Laneuville,Phillip M. Goldfarb,Alice West,Kim Friedman,Anson Williams,Paul Schneider,John Patterson,Nell Cox,Jonathan Sanger,Michael Zinberg,James C. Hart,Mimi Leder,Randy Roberts,Dennis Dugan,Andre R. Guttfreund,Michael Katleman,Michael Fresco","Jacob Epstein,Alan Brennert,Steven Bochco,Robert Crais,Terry Louise Fisher,David E. Kelley,William M. Finkelstein,Paul Manning,Anne Kenney,Julie Martin,Patricia Green,Michele Gallery,Judith Feldman,Sarah Woodside Gallagher,Carol Flint,Judith Parker,Roger Lowenstein,Peter Schneider,Cynthia Saunders,John Masius,John Tinker,Paul Haggis,Marshall Goldberg,John Hill,Jennifer Flackett,Robert Cochran,Christopher Keyser,Amy Lippman,Barry M. Schkolnick,Stephen Katz,Bryce Zabel,Theresa Rebeck,Charles H. Eglee,Channing Gibson,Les Carter,Allison Hock,John Schulian,Susan Sisko,Joe Cacaci,John Jay Osborn Jr.,Tony Schwartz,William Stadiem,Daniel Ben-Zvi,Douglas McGrath,Joe Shulkin,John Romano,John Bensink,Matt Kiene,Joe Reinkemeyer,Melinda M. Snodgrass,Steve Brown,Janis Hirsch,David Milch,D. Keith Mano,Hugh O'Neill,Jean Gennis,Phyllis Murphy"
+tt0091603,Paul Nicholas,Paul Nicholas
+tt0091933,Patrick Poole,Patrick Poole
+tt0092479,Les Chatfield,Jim Hitchmough
+tt0092491,"Frank Strecker,Hans Stumpf,Franz Xaver Bogner","Franz Xaver Bogner,Helmut Eckl,Eynon Hanfstaengl,Reinfried Keilich,Towje Kleiner,Gunter Krää,Franz Xaver Sengmüller"
+tt0092613,Franco Rossi,"Vittorio Bonicelli,Edward Mannix,Franco Rossi,Francesco Scardamaglia"
+tt0092969,Peter Manoogian,"Stuart Kaminsky,Bobby Liddell"
+tt0093054,Jean-Claude Labrecque,"Guy Dufresne,Pierre Valcour"
+tt0093286,Larry Cohen,Larry Cohen
+tt0093405,Paul Weiland,"Jonathan Reynolds,Bill Cosby"
+tt0094415,"Stan Feingold,Sedg Tourison,Glenn Kirschbaum,Robert W. Brown,Nick Gomez,Gary Meyers,Mark Kohl,Tom Shelly,Michael Linder,Kenneth A. Carlson,Gavin Portnoy,David H. Butler,Glenn Weiss,Renée Rosenfeld,Chad Greulach,Esai Morales,Jeff Hare,Greg Yaitanes,Martin Kunert,Paul Abascal,Christian Faber,Holly Paige Joyner,Anna Daniels,Robert Hayes,Stephen Menick,Steve Klayman,Jeff Jensen,Janice Cooke,James Bruce,Greg Klein,Paul Jensen,Tom Finerty,Hollywood Heard,Jonathan Winfrey,James Bartolomeo,Peter Mullett,Joe Dea,Peter G. Gillespie,Kevin McMahon,Steve McCarthy,Jeff Winn,John Walsh,Benjamin Haslup,Christopher Coppola,Alexander Pikas,Jonathon Sellers,Thomas Makowski,Robin Saex Garbose,Robin U. Russin,Philippe Denham,Todd Robinson,Ron Zimmerman,Zachary Weintraub,Greg Klein,Ralph Hemecker,Jay Russell,Fred Peabody,Dan Kavanaugh,Evan A. Marshall,Dan Perez,George Hickenlooper,Craig H. Shepherd,Robert Houston,Paul Sparrow","Greg Scott,Peter G. Gillespie,David Braxton,Sharon Downey,Greg Klein,Virginia Williams,Fred Peabody,Karyn Kuchinsky,Karyn Kay,Robin U. Russin,Rebecca Campany,Marc Gerald,Peter Koper,Alissa Collins,Karen Daborowski,Angeline Hartmann,Sharon Denice,Jamie Friar,Mark Thierfelder,John Gordon Hill,Maria Gianfrancesco,Janis Mercer,Gretchen Hosbach,A. Hartmann,Leslie LeCount,Jon Leiberman,Gavin Portnoy,Greg Klein,Evan A. Marshall,Sedg Tourison,Jenna Griffiths,Diana Nolan,Chip Selby,Cindy Anderson,Keith Greenberg,Christie Napurano,Michelle Sigona,Carl Buehl,Steve Klayman,Gary Meyers,Meredith Preston,Ned Teitelbaum"
+tt0094416,"Bill Duke,Helaine Head,Robert Levi,David Grubin,Stephen Ives,Ric Burns,Barak Goodman,Rob Rapley,Adriana Bosch,Austin Hoyt,Robert Stone,Randall MacLowry,John Maggio,Elizabeth Deane,James A. DeVinney,Chana Gazit,Mark Zwonitzer,Stanley Nelson,Sarah Colt,David Espar,Robert Kenner,Rocky Collins,Marilyn Mellowes,Mark Davis,Sharon Grimberg,Li-Shin Yu,Ben Loeterman,Michael Rossi,Paul Stekler,Margaret Grossi,Patricia Garcia Rios,Tim Toidze,Irv Drasnin,Rory Kennedy,Laurens Grant,Thomas Lennon,David Belton,Aysyuak Yumagulov,Jamila Wignot,Orlando Bagwell,Dan Sturman,Christine Lesiak,David Heilbroner,Nancy Porter,Bill Guttentag,Kate Davis,Thomas Ott,Zvi Dor-Ner,David Steward,Carlos Sandoval,Lisa Ades,Peter Miller,Carl Byker,Dustinn Craig,Michael Chin,Bernardo Ruiz,Peter Jones,Samuel D. Pollard,Chris Eyre,Axel Engstfeld,Caroline Toth,Susan Bellows,John Rubin,Stefan Mausbach,Alexander Berkel,Cathleen O'Connell,Callie T. Wiser,Peter Adler,Ilan Ziv,Michelle Ferrari,Hilary Klotz Steinman,Neil Goodwin,Michael Kloft,Edward Gray,Lutz Hachmeister,Phillip Whitehead,Riva Freifeld,Michael Epstein,Tracy Heather Strain,Kevin Kertscher,Kathy Conkwright,Linda Garmon,M Pink Christofalo,Noland Walker,Mel Bucklin,Marian Marzynski,Sue Williams,Laurie Kahn,Llewellyn M. Smith,Eric Stange,Mark Samels,Daniel McCabe,Annie Mumgaard,Andrea Kalin,Joseph Tovares,Mitch Wilson,Ricki Green,Daniel Anker,Gail Dolgin,Vicente Franco,Michael Simkin,Dave Pearce,Terry Sanders,Freida Lee Mock,Muffie Meyer,Mark Anderson,Michael Uys,Helen Whitney,Stephen Stept,Sheila Curran Bernard,Madison D. Lacy,Lexy Lovell,Louis J. Massiah,Terry Kay Rockefeller,Laurel Ladevich,Amanda Pollak,Sarah Holt,Margaret Drain,Jon Blair,Richard P. Rogers,Kirk Simon,Frank J. De Meo,Bill Kreutzmann,Robert Drew,Mickey Hart,Karen Goodman,Pat Ferrero,David Dugan,Marilyn Mulford,Craig B. Fisher,Connie Field,John W. Walter,George T. Nierenberg,Anthony Potter,Jeanne Jordan,Martha Sandlin,Janet Graham,Steven Ascher,William Greaves,Kenneth Levis,Marty Ostrow,Charles Guggenheim,Ann Tegnell,Bestor Cram,Pearl Bowser,Tom Weidlinger,Charlotte Zwerin,Tom Spain,Patchy Wheatley,Hector Galan,Lise Yasui,David Sutherland,Michael R. Lawrence,Lance Bird,Mark Bussler,John Crowley,Jacqueline Shearer,Tom Johnson","John McGreevey,Geoffrey C. Ward,Marcia Smith,Dave Pearce,Robert Stone,Henry Hampton,Sarah Colt,John Maggio,Irv Drasnin,Edward Gray,Marilyn Mellowes,Nancy Porter,Thomas Lennon,Martin Smith,Ken Chowder,Thomas Ott,Carl Byker,Sharon Grimberg,Stanley Nelson,Tom Weidlinger,Phillip Whitehead,Charles Guggenheim,Orlando Bagwell,Carl Charlson,Linda Garmon,Richard Ben Cramer,Laurie Kahn,Sue Williams,Llewellyn M. Smith,Dan T. Carter,Daniel McCabe,Robert Kenner,Michael Epstein,Robert McDonnell,John Mora,David Mrazek,Lonon F. Smith,Douglas Varchol,David Axelrod,David Axlerod,Noland Walker,Patricia Garcia Rios,Paul Taylor,Jane Barnes,Helen Whitney,Sheila Curran Bernard,Madison D. Lacy,Louis J. Massiah,Terry Kay Rockefeller,Jacqueline Shearer,Callie T. Wiser,Tom Jennings,Paul Taylor,Helen Ashton,Jon Blair,Beth Ferris,Craig B. Fisher,Martha Sandlin,Eric Sevareid,William Greaves,Mark Obenhaus,Eudora Welty,Elizabeth Dean,John Crowley,Robert Levi,Richard Snow,Julian Krainin,William Martin,David Sutherland,Peter Cook,Avon Kirkland,Richard Kluger,Tom Spain,Steve Bagwell,Marty Ostrow,Clyde Taylor,Steven Ascher,Jeanne Jordan,John W. Walter,Michael Chandler,Connie Field,Michael J. Moore,Marilyn Mulford,Pierre Berton,Ian Bodenham,Vivian Ducat,David Dugan,Richard Ellison,Karen Goodman,Elena Mannes,Bruce Palling,Andrew Pearson,Kirk Simon,Susan Steinberg,Judith Vecchione,Judy Crichton,Laurel Ulrich,Laurel Ladevich,Lexy Lovell,Richard Rhodes,James Sanders,Stephen Stept,Michael Uys,Bill Lattanzi,Freida Lee Mock,David Mzarek,Terry Sanders,Andrew Ward,Christine Zurbach,John M. Barry,Michael Beschloss,Kay Boyle,Andrew Carroll,Ken Emerson,Ricki Green,Randy MacLowry,Andrea Kalin,Lou Potter,Mark Samels,Joseph Tovares,Melissa Banta,Simon Schama,Eric Stange,David C. Taylor,Mel Bucklin,David Margolick,Marian Marzynski,Kathy Conkwright,Kevin Kertscher,Mary Makley,David Maraniss,Allen Rucker,Arthur Gelb,Barbara Gelb,Lutz Hachmeister,Michael Kloft,Robin Marantz Henig,Ilan Ziv,Peter Adler,Matthew Avery Sutton,Alexander Berkel,Gail Dolgin,Vicente Franco,Stefan Mausbach,John Rubin,Axel Engstfeld,Stephen Fitzmeyer,Samuel D. Pollard,Bernardo Ruiz,Walt Whitman,Dustinn Craig,Carlos Sandoval,Zvi Dor-Ner,Raymond Arsenault,David Carter,David Heilbroner,Bertrand M. Patenaude,David Belton,Drew Gilpin Faust,Mark Bailey,Keven McAlester,A. Brad Schwartz,Deborah Blum,Jill Jonnes,David Cunningham,Timothy Egan,David Murdock,Cathleen O'Connell,Sheila Rothman,Aaron R. Cohen,Candice Millard,Amanda Pollak,Don Kleszy,Doug Most,Brian Pearle,Kim Roberts,Michael Rossi,Eric Schlosser,Susan Bellows,Mark Zwonitzer,David Grubin,Austin Hoyt,Michelle Ferrari,Barak Goodman,Rob Rapley,Ric Burns,Paul Taylor,Adriana Bosch,Chana Gazit,Elizabeth Deane,Emma Lazarus,Rocky Collins,Steve Fayer,Stephen Ives,David Espar,James A. DeVinney,Randall MacLowry,Ronald Blumer,Christine Lesiak,Mark Davis,Ben Loeterman,Paul Stekler"
+tt0094481,"Leigh Spence,Philip East,Matthew Moore,Peter Barrett,Ali Ali,Brendan Maher,Bob Meillon,Jon Ossher,Nicholas Bufalo,Ian Gilmour,Riccardo Pellizzeri,Michael Sergi,Julian McSwiney,Peter Dodds,Russell Webb,Helen Gaynor,Steve Mann,Andrew Dillon,Ben Field,David Gould,Jet Wilkinson,Michael Ailwood,Jovita O'Shaughnessy,Brian Lennane,Geoffrey Cawthorn,Caroline Bell Booth,Nicky Marshall,Jennifer Perrott,Lynn Hegarty,Chris Langman,Richard Jasek,Lee Rogers,Frank Arnold,Sam Atwell,Peter Rawling,Geoffrey Nottage,Julie Money,Bill Hughes,Arnie Custo,Alan Coleman,Di Drew,Rebecca Barry,Rob Stewart,Jonathan Geraghty,Karl Zwicky,Jane Manning,Catherine Millar,Jason Holman,Andrew Prowse,Geoff Bennett,Helena Brooks,Paul Moloney,Andrew Friedman,Peter Andrikidis,Judith John-Story,Scott Pickett,Jeffrey Walker,Darlene Johnson,Peter Carstairs,Danny Raco,Kieran Murphy,Peter Phelps,Michael Offer,Aarne Neeme,Cameron Welsh,Mark Piper,Chris Martin-Jones,Brett Heath,Cath Roden,Chris Adshead,Viktors Ritelis,Peter T. Nathan,Scott Hartford-Davis,Sean Nash,Grant Brown,Tony Gardiner,Kane Guglielmi,Greg Shears,Gillian Arnold,Colin Budds,Louise Leitch,Ian Watson,Mandy Smith,Chris Shiel,Peter Sharp,Tina Butler,Lewis Fitz-Gerald,Richard Sarell,Graham Barton,Shirley Barrett,Tony Osicka","Peter Mattessi,Hannah Carroll Chapman,Margaret Wilson,Sarah Walker,Ray Harding,Sandy Webster,Sam Meikle,Boaz Stark,Sean Nash,Andrew Osborne,Bevan Lee,Greg Haddrick,Fiona Kelly,Fiona Bozic,Alister Webb,Nick King,Kit Oldfield,Brooke Wilson,Greg Stevens,Anthony Ellis,Dan Bennett,Faith McKinnon,James Walker,Greg Millin,Sharyn Rosenberg,Dave Worthington,Sue Hore,Mary Dagmar-Davies,Kate Bradley,Romina Accurso,Jason Herbison,Bruce Hancock,John Hugginson,Phil Lloyd,Louise Crane,Hamilton Budd,Shane Porteous,Ysabelle Dean,Fiona Hile,Holly Lyons,Stephen Vagg,Morgan Smith,Nicky Arnall,Trent Atkinson,Lily Taylor,Jenny Lewis,Zokov Nyste,Michelle Offen,Alison Nisselle,Maureen Ann Moran,Phil Sanders,Alexandra Cullen,Sarah Duffy,Paige Montague,Annette Moore,Sally Webb,Kelly Lefever,Edwina Searle,Cameron Welsh,Clare Atkins,Rachel Laverty,Kevin Roberts,Chelsea Cassio,Lyn Ogilvy,Alexa Wyatt,Sam Atwell,Anne Brooksbank,Glen Stevens,Tracey Doig,Kaneana May,Renee Broome,Jennifer Mellet,Tom Galbraith,Mardi McConnochie,Leon Saunders,Christopher Gist,Leigh McGrath,Neil Luxmoore,Lois Booton,Chris Phillips,Adam Dolman,Anna Bauweraerts,Felicity Packard,Cassandra Carter,Matt Anderson,Rick Held,Howard Griffiths,Sabour Bradley,Josh Mapleston,Colin Delaney,Graham Foreman,Elizabeth Coleman,John Coulter,Peter Neale,Anthony Morris,Alison Boadle,Gary Sewell,Rebecca Greensill,Eloise Healey,Andrew Gardner,Carla Kettner,Shaun Topp,Cath Roden,David Boutland,Judith Colquhoun,Michael Joshua,Scott Taylor,Coral Drouyn,Jeff Truman,Lesley Lewis,Claire Hanrahan,Emma Gordon,Freya Doney,Craig Wilkins,Katrina Foster,Lisa Williams,Mark Grzic,Alexandra Mills,David Lawrance,Lynette Jacob,Vincent Gil,Chris Roache,Rob Menzies,Meg Mappin,Vanessa Ballard,John Smith,Sarah Mayberry,Josephine Dee Barrett,Christine McCourt,Pru Colville,Maryam Master,Drew Proffitt,Tracey Trinder,Jason Smith,Christopher Burke,Gerard Peck,Roslyn Tuck,Jenny Sharp,Claire Carmichael,Michaeley O'Brien,Don Battye,Ray Kolle,Fin Edquist,Daniel Widdowson,Elizabeth Packett,Vicki Englund,Alan Hardy,Fiona Wood,Jasper Marlow,Magda Wozniak,Alessandra Brook,Galia Hardy,Chris McTrustry,Barbara Bishop,Bradley Souber,Peter Dick,Luke Devenish,Jane Schneider,Grace Blacket,David Allen,Michael Harvey,Denise Morgan,Charles A. Higgins,James Balian,Susan Bower,Kylie Needham,David Mesman,Les Knight,Mark Elder,Jennifer Smart,Jon Concannon,Ericka Dobbins,Jane Allen,Alex Papps,Justine Juel Gillmer,Stuart Page,Michael Adams,Mithila Gupta,Laura West,Tony Sheldon,Margaret Roberts,Margaret Rogers,Barbara Angell,Stephen Measday,Rod Rees,Simon Dodd,David Gould,Sue Castrique,Chris Davissen,Margaret Kelly,Linda Stainton,Jock Blair,Liz Evans,Justin Cheek,Andrea Lee Gillies,Matthew Hawkins,Paul Kooperman,Roz Hammond,Ericka Clay,Daniel Krige,Prudence Upton,Georgia Clark,Deborah Parsons,Sam Rugg,Trudi-Ann Tierney,Ryan Lappin,Rory Williamson,Adam Bowen,Mary Rachel Brown,Anika Herbert,Belinda Johns,Rene Zandveld,Laurent Auclair,Terence McCarthy,Luke McKenzie,Serge Lazareff,Blake Ayshford,Alan Bateman,Kirrilly Burton,Louise Crawford,Jane Eakin,Ina Haas,Glenda Hambly,Matthew Hile,Raymond Meiksa,Andy Muir,Gabrielle Somers,Matthew Tonna,Emily Vann"
+tt0094537,Anthony Parker,"Peter Tilbury,Andy Hamilton,Guy Jenkin,Barry Pilton,David Firth"
+tt0094869,Keith Gordon,"Robert Cormier,Keith Gordon"
+tt0094889,Roger Donaldson,Heywood Gould
+tt0095745,Karl Armstrong,"Karl Armstrong,Carrie Armstrong"
+tt0095774,Christopher Crowe,"Christopher Crowe,Jack Thibeau"
+tt0096078,Po-Chih Leong,"Dai-Chi Lau,Kong-wah Lee,Mo Li,Zevia Tong,Raymond Pak-Ming Wong"
+tt0097889,Steve De Jarnatt,Steve De Jarnatt
+tt0098052,Klaus Kinski,Klaus Kinski
+tt0098649,Larry Cohen,Larry Cohen
+tt0098896,"Riccardo Pellizzeri,Steve Mann,Lynn Hegarty,Geoffrey Nottage,Julie Money,Karl Zwicky,Scott Hartford-Davis,Shirley Barrett,Michael Carson,Michael Pattinson,Tony Tilse,Kate Woods,Paul Harmon,Graham Thorburn,Paul Faint,Ian Barry,Mike Smith,Ann Turner,Chris Thomson,Michael Jenkins,Rowan Woods,Ken Cameron,Peter Fisk","Greg Millin,Elizabeth Coleman,Chris Roache,Daniel Krige,Deborah Parsons,Glenda Hambly,Michael Brindley,Philip Cornford,Everett De Roche,Andrea Del Bosco,Christopher Lee,John Lonie,Rick Maier,Mary Morris,Richard Mortlock,David O'Brien,Debra Oswald,Andrew Prowse,Peter Schreck,Keith Thompson,Steve Wright"
+tt0098898,Christopher Menaul,Lynda La Plante
+tt0098946,"Xiaoyun Xia,Shuqin Huang","Shuqin Huang,Ling Ke,Zhong-Shu Qian,Xiongfei Sun,Chuande Tu"
+tt0099053,Guy Maddin,"John B. Harvie,Guy Maddin,George Toles"
+tt0099364,D.J. Webster,"Carey W. Hayes,Chad Hayes"
+tt0099389,Thaddeus O'Sullivan,"Sam Hanna Bell,David Rudkin"
+tt0099432,Alain Chartrand,Claude Meunier
+tt0099747,Sydney Pollack,"David Rayfiel,Judith Rascoe"
+tt0100007,Benny Wong,"Shi-Hsin Fu,Jan-Wing Chow,Benny Wong"
+tt0100192,Jeff Stein,"Rod Ash,Mark Curtiss,Linda Engelsiepen,Hilary Hinkle"
+tt0100389,Gianni Amelio,"Gianni Amelio,Vincenzo Cerami,Leonardo Sciascia,Alessandro Sermoneta"
+tt0100475,Bob Logan,Bob Logan
+tt0100477,"Hendel Butoy,Mike Gabriel","Jim Cox,Karey Kirkpatrick,Byron Simpson,Joe Ranft,Margery Sharp"
+tt0100645,George Erschbamer,"Michael Paseornek,John Dunning"
+tt0101084,"Drew Edwards,Johan Edström,Ken Kimmelman,Yvette Kaplan,Philippe Chauvelier,Carol Millican,Myrna Bushman,Marc Sevier,Jean-Pierre Jacquet,Tony Eastman,Paul Sparagano,John Paratore,Curtis Crawford,Howard Beckerman","Jim Jinkins,Will McRobb,Ken Scarborough,Alan J. Higgins,Joe Aaron,Matt Steinglass,Alan Silberberg,Joe Fallon,Dietrich Smith,Jacqueline Hirtz,Marcy Winograd,Andrew Steele,Lisa Melamed,Alicia Marie Schudt,Joe Stillman,Tim Grundmann,Evan Gore,Steve Higgins,Kenneth Lonergan,Andy Yerkes,Betty G. Birney,Beth Bornstein,M.K. Brown,Bradley Kesden,Alan Kingsberg,Kayte Kuch,Joey Murphy,John Pardee,Sheryl Scarborough,Skip Shepard,Judy Spencer,The Cheryl Family,Michele Hennessy,John Wohlbrook,David Campbell,Mark Dacus,Christine Ecklund,Dennis Garvey,Keith Hoffman,Patty Hume,Hilary Rollins,Michale Schaefer,Clark Taylor,Stephen Winer"
+tt0101092,"Lee H. Katzin,Dennis Berry","Michael Berlin,Ronald M. Cohen,Eric Estrin,Joseph J. Trento,Jean-Vincent Fournier"
+tt0101114,"John Reardon,Garth Tucker,Gwennan Sage,Steve Goldie,Sue Dunderdale,Piotr Szkopiak,Adrian Bean,Terry Iland,Matthew Evans,David Innes Edwards,Terry Dyddgen-Jones,Bren Simson,Graeme Harper,Albert Barber,Andrew Morgan,John Darnell,Pip Short,Alister Hallum,Gerry Mill,Roger Bamford,Jonas Grimås,Tim Dowd,Judith Dine,Paul Walker,Noreen Kershaw,Ken Horn,Gerry Poulson,Tom Cotter,Diana Patrick,Brian Farnham,Catherine Morshead,Terry Marcel,Frank W. Smith,Bob Mahoney,Bob Tomson,Baz Taylor,John Anderson,Ian Bevitt,Roger Cheveley,James Ormerod,Gavin Theoditis,Alan Grint,Ngozi Onwurah,Michael Cocker,James Hazeldine,Graham Moore,Graham Wetherell,Terence Daw,Geoff Wonfor,Matt Bloom,Declan O'Dwyer,Dominic Clemence,Stuart Davids,Anne Rose,Mark McKillop,Dominic Leclerc,Tony Prescott,Martin Curry,Eric Wendell","Rob Gittins,Gillian Richmond,Bill Lyons,Jane Hollowood,Keith Temple,Paul Quiney,Ming Ho,Helen Blizard,Michael Russell,Michael Jenner,Jane McNulty,Duncan Gould,Helen Slavin,Susan Wilkins,John Milne,James Stevenson,Stuart Morris,Gil Brailey,Phil Ford,Peter Mills,Nicholas Rhea,Johnny Byrne,Peter Gibbs,Andrew McCulloch,John Flanagan,Brian Finch,Neil McKay,Jonathan Critchley,Peter Barwood,Candy Denman,Mark Holloway,Shaun McKenna,David Lane,Douglas Watkinson,Ron Rose,Richard Monks,Veronica Henry,Freda Kelsall,Eric Wendell,David Martín,Adele Rose,Lizzie Mickery,Michael Hall,Colin MacDonald,John Martin Johnson,Michael Eaton,Alan Whiting,Barry Woodward,Peter Palliser,Steve Trafford,James Robson,John Stevenson,Peter Tinniswood,Guy Meredith,Garry Lyons,Simon Tyrrell,Carolyn Sally Jones,Anthony Read,Eric Deacon,Rob Heyland,Colin Shindler,Chris Thompson,Jayne Hollinson,Jeff Dodds,Tracy Brabin,Sarah Bagshaw,Adrian Bean,Philip Palmer,Patrick Harbinson"
+tt0101142,"Michael Owen Morris,Henry Foster,Matthew Evans,Jean Stewart,Bren Simson,Frank W. Smith,Clive Fleury,Anthony Garner,Richard Standeven,Richard Signy,Tony Dow,Simon Cellan Jones,Julian Jarrold,Julian Farino,Colm Villa","Julie Wassmer,Alison Fisher,Robin Mukherjee,Tony Etchells,Sarah Daniels,David Fox,Kevin Hood,Neil McKay,Steve Trafford,Paul Abbott,Peter Bowker,Allan Cubitt,Lawrence Gray,Susannah Hagan,Jacqueline Holborough,Ginnie Hole,Fiona Howe,John Kerr,Roy Mitchell,Philip Myall,Rosamond Orde-Powlett,Andy Smith,Sam Snape"
+tt0101175,"Eric Laneuville,Michael Zinberg,Kenneth D. Collins,Robert Singer,Armand Mastroianni,Fred Gerber,James A. Contner,James Quinn,Randy Zisk,Bill D'Elia,Jim Michaels,David Rosenbloom,James Hayman,Richard M. Rawlings Jr.,Peter Levin,Charles Robert Carner,Philip Sgriccia,Joe Napolitano","Roger Lowenstein,John Schulian,Melinda M. Snodgrass,Robert Singer,Kathy McCormick,Steven Smith,Ed Zuckerman,Barry Pullman,Michael Marks,Tracy Friedman,Allison Robbins,Randy Zisk,Sharon Elizabeth Doyle,David Ehrman"
+tt0101178,"Tom McGrath,Bill Wray,Chris Reccardi,Gregg Vanzo,John Kricfalusi,Jim Gomez,Craig Bartlett,Bob Camp,Ken Bruce,Peter Avanzino,Lynne Naylor,Ron Hughart,Steve Loter,Vincent Waller,Howard E. Baker,Jim Smith,Horseman Cao,Kelly Armstrong,Mike Kim,Arthur Filloy,Mark Marren,Tom Owens,Bong Hee Han","Will McRobb,John Kricfalusi,Bob Camp,Jim Gomez,Bill Wray,Ron Hauge,Jim Smith,Vincent Waller,Richard Pursel,Lynne Naylor,Vince Calandra,Chris Reccardi,Mitchell Kriegman,April March,Peter Avanzino,Mike Kim,Steve Mellor,Stephen DeStefano,Billy West,Douglas Petrie,Tom Minton"
+tt0101373,Hector Babenco,"Peter Matthiessen,Jean-Claude Carrière,Hector Babenco,Vincent Patrick"
+tt0101393,Ron Howard,Gregory Widen
+tt0101981,Yeung-Wah Kam,Pik Wah Lee
+tt0102006,Mats Arehn,Mats Arehn
+tt0102166,Sune Lund-Sørensen,"Bengt Palmers,Björn Skifs"
+tt0102630,Carlo Barsotti,Carlo Barsotti
+tt0103299,Hoi-Ching Cheung,"Wen-Hua Cheng,James Fung,Chi-Leung Shum,Anthony Tam"
+tt0103512,"Donald Petrie,Tom Moore,Oz Scott,Sandy Smolan,Dan Lerner,Michael Schultz,Dennis Dugan,Andre R. Guttfreund,Michael Fresco,Bill D'Elia,Joe Napolitano,Michael Lange,Michael Pressman,Ron Lagomarsino,Alan Myerson,Martin Davidson,Bethany Rooney,Elliot Silverstein,Dennis Smith,David Hugh Jones,Jonathan Pontell,Mel Damski,Kristoffer Tabori,Scott Paulin,James Frawley,Lorraine Senna,Daniel Attias,Jeremy Kagan,Joan Tewkesbury,Lou Antonio,Michael Nankin,Dennie Gordon,Tom Skerritt,Rachel Feldman,Richard Masur,Nancy Malone,Arvin Brown","David E. Kelley,Lawrence Meyers,Dawn Prestwich,Nicole Yorkin,David Assael,Kimberly Costello,Sonny Gordon,Michael Sardo,Sean O'Byrne,Christine Pettit,Rosanne Welch,Ursula Wendel"
+tt0103549,"Scott Firestone,Joe Dea,Carl Buehl,Patrick Taulère,Greg Cooke,Christopher Carson,R.P. Sekon,Paul Nichols,Richard L. Schmidt,Essy Niknejad,John Jopson,Steven Feld,Sean McNamara","Susan Michaels,Linda Moulton Howe"
+tt0103926,Guy Maddin,"Guy Maddin,George Toles"
+tt0104553,Clifton Ko,"Raymond Pak-Ming Wong,Philip Cheng,Roman Cheung,Ting-Ting Choi,Vincent Kok,Lik-Chi Lee,Chang-Yat Man,Nga-Si Woo,Suet Lai Woo,Jan Yiu Yeung"
+tt0104990,Kenny Ortega,"Bob Tzudiker,Noni White"
+tt0105117,Shem Bitterman,Shem Bitterman
+tt0105530,Michael Kennedy,J. Stephen Maunder
+tt0106042,"Thierry Petit,Luc Goldenberg,Christophe Barbier,Caroline Huppert,René Manzor,Bernard Uzan,Yvan Butler,Pierre Aknine,Eric Summer,Jérôme Navarro,Alain Bonnot,Klaus Biedermann,Bettina Woernle,Gilles Béhat,Didier Delaître,Christian Bonnet,Joyce Buñuel,Alain Wermus,Dominique Tabuteau,Élisabeth Rappeneau,Vincent Monnet,Marion Sarraut,Daniel Janneau,Jacob Berger,Josée Dayan,Jean-Michel Fages,Alain Choquart,Stéphane Kurc,Charlotte Brändström,Pascale Dallet","Alexis Lecaye,Charlotte Oubitza,Stéphane Kaminka,Pierre-Yves Mora,Jean-Baptiste Delafon,Alain Stern,Manon Dillys,Jean-Marie Chavent,Eric Kristy,François Peroche,Simon Jablonka,Jean-Marc Rudnicki,Thomas Luntz,Jean-André Yerlès,Frédéric Krivine,Thomas Saez,Béatrice Colombier,Robin Barataud,Jean Reynard,Fabienne Facco,Angèle Herry-Leclerc,Frederika Patard,Nadège de Miroschedji,Michèle Letellier,Dominique Lancelot,Michael Arnal,Uwe Erichsen,Joëlle Goron,Alain Krief,Alain Schwartzstein,Mireille Lanteri,Laurent Vachaud,Yves Mugny,Quentin Lemaire,Pierre Forette,Alexis Martin,Patrick Pessis,Thierry Wong,Marie Guilmineau,Laurence Condroyer,Paul Irrtum,Véronique Lecharpy,Pierre Aknine,Luc Goldenberg,Isabel Sebastian,Serge Adam,Eric Eider,Camille Bordes-Resnais,Fabrice de Costil,Thomas Perrier,Gilles Thomas,Marie-Pierre Thomas,Benoît Valère,Christophe Mordellet,Solen Roy-Pagenault,Emmanuelle Chamussy,Ivan Piettre,Anne Rambach,Marine Rambach,Armelle Robert,Sylvie Coquart,Brigitte Laude,Kristel Mudry,Sébastien Vitoux,Pascal Perbet"
+tt0106067,"Gary Sherman,Ellen S. Pressman,Deborah Reinisch,Mark Sobel,Christopher Leitch","Gary Sherman,Michael Berlin,Eric Estrin,Steve Feke,Peter Lance,Denise DeClue,Mark Levin,Emily Tracy,Rick Hull"
+tt0106145,"Corey Allen,Paul Lynch,Allan Kroeker,Gabrielle Beaumont,David Carson,Victor Lobl,Kim Friedman,Anson Williams,Jesús Salvador Treviño,Alexander Singer,Winrich Kolbe,Stephen L. Posey,Robert Scheerer,Rene Auberjonois,Robert Legato,LeVar Burton,Andrew Robinson,Jonathan West,Chip Chalmers,Michael Vejar,John T. Kretchmer,Allan Eastman,Tony Dow,Avery Brooks,Cliff Bole,Jonathan Frakes,David Livingston,Robert Wiemer,Reza Badiyi,James L. Conway,Michael Dorn,Alexander Siddig,Les Landau","Lynn Barker,Gene Roddenberry,James Crocker,David Gerrold,Rick Berman,Michael Piller,Robert Hewitt Wolfe,Ira Steven Behr,Ronald D. Moore,Hans Beimler,René Echevarria,Bradley Thompson,David Weddle,Peter Allan Fields,Jim Trombetta,Joe Menosky,Mark O'Connell,Hilary Bader,Michael Taylor,Evan Somers,Jeri Taylor,Naren Shankar,Richard Danus,Morgan Gendel,Jeanne Carrigan-Fauci,Frederick Rappaport,Lisa Rich,Gary Holland,Tom Benko,Gordon T. Dawson,Bill Dial,David Mack,John J. Ordover,Ethan H. Calk,Robert Lederman,David R. Long,Nicholas Corea,Toni Marberry,Jack Treviño,Pam Pietroforte,Bryan Fuller,Philip Kim,Steven Baum,Kurt Michael Bensmiller,Sally Caves,Nell McCue Crawford,William Crawford,Jill Donner,Don Carlos Dunaway,Gabe Essoe,D.C. Fontana,David Livingston,Michael McGreevey,Kelley Miles,Katharyn Powers,Sam Rolfe,Gerald Sanford,Hannah Louise Shearer,John Whelpley,Gene Wolande,John Wright,Andrea Moore Alton,Paul Robert Coyle,Jeff King,Flip Kobler,Mike Krohn,Philip LaZebnik,D. Thomas Maio,Richard Manning,Cindy Marcus,Christopher Teague,Steve Warnek,David S. Cohen,Christian Ford,Bob Gillan,Lisa Klink,John Shirley,Roger Soffer,Martin A. Winer,Majel Barrett,Robert J. Bolivar,George A. Brozak,Rick Cason,Louis P. DeSantis,Jane Espenson,Barbara J. Lee,Jenifer A. Lee,Daniel Keys Moran,Brice Parker,L.J. Strom,Pam Wigginton,Truly Barr Clark,Jimmy Diggs,Scott J. Neal,Edmund Newton,Robbin L. Slocum,Gabrielle G. Stanton,Harry Werksman,Marc Scott Zicree,Spike Steingasser,Jose Molina,William N. Stape"
+tt0106611,Jon Turteltaub,"Lynn Siefert,Michael Ritchie,Tommy Swerdlow,Michael Goldberg"
+tt0106843,Steven L. Austin,"David Huey,Phil M. Noir"
+tt0107318,Robert Ellis Miller,Paul Monash
+tt0107597,John Eyres,"Stephen Lister,Eric Poppen"
+tt0107659,Gene Quintano,"Don Holley,Tori Tellem,Gene Quintano"
+tt0107875,József Gémes,"Robin Lyons,George MacDonald"
+tt0107999,Graeme Clifford,"Robert Dillon,Michael Thomas"
+tt0108027,Jan Hrebejk,"Jan Hrebejk,Petr Jarchovský,Petr Sabach"
+tt0108265,Thomas Carter,Jonathan Marc Feldman
+tt0108277,T.J. Scott,"J. Stephen Maunder,Richard M. Samuels,T.J. Scott"
+tt0108551,Brian Gibson,"Tina Turner,Kurt Loder,Kate Lanier"
+tt0108560,Ted Demme,"Doctor Dré,Ed Lover,Seth Greenland"
+tt0108578,Talun Hsu,"James Merendino,Steve Tymon"
+tt0108724,"Jerry London,Donald Petrie,Claudia Weill,Mark Tinker,Oz Scott,Sandy Smolan,Michael Schultz,James C. Hart,Randy Roberts,Dennis Dugan,Randy Zisk,Bill D'Elia,Peter Levin,Joe Napolitano,Michael Pressman,Martin Davidson,David Hugh Jones,Mel Damski,Kristoffer Tabori,James Frawley,Jeremy Kagan,Joan Tewkesbury,Lou Antonio,Dennie Gordon,Arvin Brown,Kenny Ortega,Jesús Salvador Treviño,Michael Dinner,Stephen Cragg,Rob Corn,Adam Arkin,Martha Mitchell,James R. Bagdonas,John Heath,Thomas Schlamme,Michael W. Watkins,Patrick R. Norris,Mark Harmon,Tim Hunter,Steve Miner,Michael Engler,Rodman Flender,Peter Berg,Jim Charleston,David Semel,Frank De Palma,Christine Lahti,Richard E. Gershman,Robert Berlinger,Tony Bill,Steve Gomer,Jerry Levine,Jay Tobias","David E. Kelley,Patricia Green,John Tinker,Dawn Prestwich,Nicole Yorkin,Josh Reims,Jennifer Levin,David Amann,Sara B. Cooper,Dennis Cooper,Ian Biederman,Kevin Arkadie,Tim Kring,Remi Aubuchon,Michael Nankin,Linda McGibney,Henry Bromell,Michael Braverman,Thomas M. Heric,Peter Berg,Mary A. Byrd,Robert Burgos,Marcelle Clements,Alicia Martin,Stephen Beck,Marjorie David,Toni Graphia,Wayne W. Grody,Kim Newton,Gareth Wootton,Linda Klein,Jessie Nelson,Joe Blake,Barbara Hall,Zachary Martin,Kevin Ward,Kerry Lenhart,Jan Oxenberg,John J. Sakmar,Joshua Stern,Randy Anderson,Gardner Stern,Chris Mundy"
+tt0108894,"Oz Scott,Steven Robman,Jan Eliasberg,Daniel Attias,Lou Antonio,Dennie Gordon,Arvin Brown,Ellen S. Pressman,Stephen Cragg,Patrick R. Norris,Michael Engler,Rodman Flender,David Semel,Ken Topolsky,Scott Brazil,Jonathan Prince,Richard Pearce,Eric Jewett,Christian P. Della Penna,Brian Mertes,Vicki Jackson-Lemay,Julianna Lavin,Brad Lachman,Kevin Inch,Keith Samples,David Dworetzky,Joe Ann Fogle,Adam Nimoy,Joe Pennella,Danny Leiner,Harry Winer,Davis Guggenheim,Susannah Grant,Matthew Fox,Peter O'Fallon","Christopher Keyser,Amy Lippman,John Romano,Lisa Melamed,Ian Biederman,Julia Dahl,Allan Heinberg,P.K. Simonds,Mark Richard,Tom Garrigus,Susannah Grant,Mark B. Perry,Catherine Butterfield,Mimi Schmir,W.K. Scott Meyer,Tammy Ader,Melissa Rosenberg,Melissa Gould,Mitchell Burgess,Robin Green,Ann Lewis Hamilton,Mark Richard,Chris Levinson,Ellen Herman,Hollis Rich,Karen Krenis,Garry Bormet,David Leaf,Daniel Peterson,Robin Schiff,Emily Whitesell"
+tt0109144,Phillip J. Roth,"Phillip J. Roth,Gian-Carlo Scandiuzzi,Ron Schmidt"
+tt0109723,Anne Goursaud,"Halle Eaton,Nicole Coady,Rick Bitzelberger"
+tt0110630,Shinji Sômai,"Kazumi Yumoto,Yôzô Tanaka"
+tt0111601,André Forcier,"Patrice Arbour,André Forcier,Jacques Marcotte"
+tt0111706,Amos Kollek,Amos Kollek
+tt0112451,Kim Bass,Don Lamoreaux
+tt0112715,Frank Marshall,"Michael Crichton,John Patrick Shanley"
+tt0112853,Paul Wynne,Paul Wynne
+tt0113094,Jackie Garth,Randall Fontana
+tt0113375,Phil Davis,"James Bannon,Vincent O'Connell"
+tt0113736,Sam Irvin,"Neil Ruttenberg,Brent V. Friedman"
+tt0114478,Wayne Wang,Paul Auster
+tt0114582,Siu-Hung Leung,Keith W. Strandberg
+tt0115291,"Ken Finkleman,Daniel J. Murphy","Ken Finkleman,George F. Walker"
+tt0115349,"Sandy Smolan,Andre R. Guttfreund,James Frawley,Lorraine Senna,Arvin Brown,Kenny Ortega,Patrick R. Norris,Victor Du Bois,Paris Barclay,Donna Deitch,Brian Grant,Mike Fash,Alan Metzger","Anne Kenney,Hollis Rich,Stephen Brackley,Sam Egan,Naomi Janzen,Pamela K. Long,Edward Tivnan,Gary R. Johnson,Brenda Lilly,Josh Talbot"
+tt0116142,Jackie Garth,Vernon Lumley
+tt0116242,Woody Allen,Woody Allen
+tt0116346,Elio Quiroga,Elio Quiroga
+tt0116823,Howard Franklin,"Roy Blount Jr.,Pen Densham,Garry Williams"
+tt0117069,Gustavo Mosquera R.,"Pedro Cristiani,Gabriel Lifschitz,Arturo Oñatavia,Natalia Urruty,María Ángeles Mira,Gustavo Mosquera R.,Armin Deutsch"
+tt0117544,Merzak Allouache,"Merzak Allouache,Caroline Thivel"
+tt0117969,Gillies MacKinnon,Billy Roche
+tt0118270,"Helen Gaynor,Andrew Prowse,Viktors Ritelis,Scott Hartford-Davis,Tony Tilse,Kate Woods,Mike Smith,Gregor Jordan,Kate Dennis,Russell Burton","Anthony Ellis,Greg Millin,Annette Moore,Alexa Wyatt,Chris Phillips,Tracey Trinder,Susan Bower,Daniel Krige,Christopher Lee,Rick Maier,Tony McNamara,Rhett Walton,Simon Baré,Paul Brown,Grant Fraser,Gregor Jordan,Jacquelin Perske,Dave Warner,Steve Worland"
+tt0118364,"Gerren Keith,Steven Levitan,Jean Sagal,Philip Charles MacKenzie,Jeff Melman,John Fortenberry,Leonard R. Garner Jr.,Richard Boden,Pamela Fryman,Peter Bonerz,Ken Levine,Darryl Bates,Matthew Diamond,Kevin C. Slattery,Dana De Vally Piazza,Craig Zisk,Gail Mancuso,Lee Shallat Chemel","Steven Levitan,Sivert Glarum,Michael Jamin,Brian Reich,Pam Brady,Jessica Kaminsky,Joe Port,Joe Wiseman,Marsh McCall,David Guarascio,Moses Port,David Hemingson,Susan Dickes,Jack Burditt,Eileen Conn,Andrew Gordon,Tom Martin,Maria A. Brown,Tom Maxwell,Don Woodard,Brett Baer,Dave Finkel,David Walpert,Kell Cahoon,Tom Saunders,Danny Zuker,Howard Gewirtz,Jeff Judah,Gabe Sachs,Ali Adler,Donick Cary,Paul A. Kaplan,Mark Torgove,Stephen Engel,Michael Gara,Ross McCall,Aaron Peters,Hillel Abrams,Michael Lisbe,Stephen Lloyd,John Peaslee,Judd Pillot,Jon Pollack,Nate Reger,Ellen Byron,Marc Abrams,Michael Benson,Mike Reynolds,David Spancer,Robert Cohen,Jeff Lowell,David Nichols,Taylor Hamra,Erica Rothschild,Lisa Kappman,Lissa Kapstrom,Aaron Korsh,Vivien Mejia"
+tt0118460,Mick Garris,Stephen King
+tt0118463,"Rickard Petrelius,Daniel Lind Lagerlöf,Martin Asphaug,Kristian Petri","Lars Bill Lundholm,Gunilla Linn Persson"
+tt0118484,"Stuart Silver,Anthony Morina,Roger Inman,Dennis Steinmetz,Ian Toporoff,Rick Bennewitz,Gary Tomlin,Phideaux Xavier,Phyllis Guarnaccia,Scott Riggs,Grant A. Johnson,Rae Kraus,Peter Brinkerhoff,Andrew Lee,Carla Mangia Sherwood","Josh Talbot,Josh Griffith,Robert Guza Jr.,Charles Pratt Jr.,Rick Draughon,Christopher Dunn,Michelle Poteet Lisanti,Lisa Seidman,Elizabeth Snyder,M.M. Shelly Moore,Linda Schreyer,Meg Bennett,Mick Curran,Christopher Whitesell,Deborah Zoe Dawson,Paula Cwikly,Margaret DePriest,Jane Atkins,Bruce Franklin Singer,Kathryn Baker,Beth Milstein,Anne Schoettle,Sandy Segal,Dana Herko,Sandy Siegel,Robert Zimmer Jr.,Janet Iacobuzio,Jodie Scholz,James E. Reilly,Richard Culliton,Ryan Carrassi,J. Robert Langston"
+tt0118745,Siu-Hung Leung,Keith W. Strandberg
+tt0118819,Pedro Almodóvar,"Pedro Almodóvar,Jorge Guerricaechevarría,Ray Loriga,Ruth Rendell"
+tt0119051,Lee Tamahori,David Mamet
+tt0119116,Luc Besson,"Luc Besson,Robert Mark Kamen"
+tt0119157,Rolf Losansky,"Christa Kozik,Rolf Losansky"
+tt0119210,Jeb Stuart,Jeb Stuart
+tt0119580,Larry Peerce,"Stephen Witkin,Lindsay Harrison"
+tt0119796,Mary Lambert,Ron Cutler
+tt0120374,Hermine Huntgeburth,"Horst Johann Sczerba,Volker Einrauch,Hermine Huntgeburth"
+tt0120495,Terence H. Winkless,"Dylan Kelsey Hadley,Ellen Raskin"
+tt0120865,Paul Quinn,Paul Quinn
+tt0121164,"Tim Burton,Mike Johnson","Tim Burton,Carlos Grangel,John August,Caroline Thompson,Pamela Pettler"
+tt0121631,Leopoldo Torres Ríos,"Leopoldo Torre Nilsson,Ricardo Lorenzo,Leopoldo Torres Ríos"
+tt0122439,Thomas Bahmann,"Thomas Bahmann,Hans Turner"
+tt0123215,Michael Winner,"Michael Winner,Nick Mead"
+tt0124102,John Pieplow,Dee Snider
+tt0124111,Bahrudin 'Bato' Cengic,"Bahrudin 'Bato' Cengic,Branko Vucicevic"
+tt0124809,Joseph McGrath,"Jack Hobbs,Joseph McGrath,Rod McLaren,Eric Morecambe,Ernie Wise"
+tt0126960,Mircea Muresan,Petre Salcudeanu
+tt0127370,"Danny Leiner,George Verschoor,Arthur Borman,Gary Auerbach,James Jones","Howard Kremer,James Jones,Brad 'Chip' Pope,Ben Kull,Jennifer MacLean,Michael Panes"
+tt0127559,Kim Finn,Kim Finn
+tt0127591,Kim Finn,Kim Finn
+tt0128591,Lynn Hamrick,"Patrick Braoudé,Gordon Cassidy"
+tt0128715,Rik Tazíner,Rik Tazíner
+tt0129893,Olivier Dahan,"Olivier Dahan,Olivier Massart"
+tt0130188,Iosif Kheifits,"Anton Chekhov,Iosif Kheifits"
+tt0135011,Laurent Boutonnat,Laurent Boutonnat
+tt0136748,Clóvis Vieira,"Aloisio Castro,José 'Zezo' Feliciano,Robin Geld,Clóvis Vieira"
+tt0138277,"Jacques Lagôa,João Alcântara,Lizânias Azevedo,Walter Avancini,Ajax Camacho","Walcyr Carrasco,José Carvalho,Agripa Vasconcelos"
+tt0138959,"Jorge Montesi,Bill Corcoran,Stephen Reizes,Scott Smith,Jason Furukawa,T.W. Peacocke,John Pozer,Alan Simmonds,Stephen Williams,Scott Summersgill,Michael DeCarlo,Anthony Atkins,Giles Walker,Anne Wheeler,Richard Leiterman,E. Jane Thompson,Peter Mitchell,Stacey Stewart Curtis,Julie Stewart,Penelope Buitenhuis,John L'Ecuyer,Robert Lee,Rod Pridy,Paul Fox,Gary Harvey","Carla Kettner,Matt MacLeod,Julia Keatley,Philip Keatley,James Phillips,Peter Mitchell,Shelley Eriksen,Laurie Finstad-Knizhnik,Derek Schreyer,Graham Clegg,Ian Weir,Marlene Matthews,Avrum Jacobson,Andrew Rai Berzins,Bob Carney,David Cole,Daegan Fryklind,Laurie Pearson,Dave Aitken,Dennis Foon,Robert Forsyth,Hart Hanson,John Hunter,Nobu Adilman,Susin Nielsen,Kelly Bernhardt,William Flaherty"
+tt0139165,Ernst Marischka,Ernst Marischka
+tt0140337,Jean-Marc Vallée,Claudia Santorelli
+tt0140587,Kevin DiNovis,Kevin DiNovis
+tt0141366,Rik Tazíner,Rik Tazíner
+tt0141842,"Peter Bogdanovich,Steve Shill,John Patterson,Nick Gomez,James Hayman,Lorraine Senna,Daniel Attias,Danny Leiner,Lee Tamahori,Timothy Van Patten,Martin Bruestle,Andy Wolk,Allen Coulter,Alan Taylor,Mike Figgis,Rodrigo García,Henry Bronchtein,Jack Bender,Matthew Penn,Steve Buscemi,David Nutter,Terence Winter,David Chase,Phil Abraham","Mitchell Burgess,Robin Green,David Chase,Terence Winter,Matthew Weiner,Frank Renzulli,Michael Imperioli,Todd A. Kessler,Diane Frolov,Andrew Schneider,Jason Cahill,Lawrence Konner,Joe Bosso,James Manos Jr.,Mark Saraceni,Salvatore Stabile,Timothy Van Patten,David Flebotte,Maria Laurino,Nick Santora,Michael Caleo,Toni Kalem"
+tt0143051,"Jacques Lagôa,Lizânias Azevedo,Walter Avancini,Ivan Zettel,Felipe Tenreiro,Luís Antônio Pilar","Gregório Bacic,Calixto de Inhamuns,Tairone Feitosa,Clóvis Levy,Menoti del Picchia,Douglas Salgado,Zeno Wilde,Yoya Wursch"
+tt0144315,Fred Olen Ray,"Sean O'Bannon,Peter Miller"
+tt0144724,"Ajax Camacho,Luís Antônio Pilar,Ricardo Waddington,Pedro Vasconcelos,Luiz Felipe Sá,Edson Spinello,Wolf Maya,Carlos Magalhães,Flávio Colatrello Jr.,Reynaldo Boury,Cláudio Boeckel,Gonzaga Blota,Natália Grimberg,Rafael Miranda,Roberto Vaz,Roberto Talma,Marcos Paulo,Paola Pol Balloussier,Tande Bressane,Marco Rodrigo,Mariana Richard,Felipe Louzada,Adriano Melo,Paulo Silvestrini,Alexandre Macedo,Caetano Caruso,Carlo Milani,Bruno Martins,João Boltshauser,Leonardo Nogueira,João Paulo Jabur,Vinicius Coimbra,Dennis Carvalho,Noa Bressane,Cristiano Marques,Luiz Henrique Rios,Mário Márcio Bandarra,José Alvarenga Jr.,Marcus Figueiredo","Emanuel Jacobina,Andréa Maltarolli,Rodrigo Salomão,Glória Barreto,Paulo Halm,Diego Miranda,Natália Sambrini,Rosane Svartman,Juliana Lins,Fabrício Santiago,Cláudia Sardinha,Márcio Wilson,Laura Rissin,Patrícia Moretzsohn,Ana Maria Moretzsohn,Ricardo Tiezzi,Gabriela Amaral,Andrea Rebelo,Giovana Moraes,Charles Peixoto,Jaqueline Vargas,Vitor Brandt,Cao Hamburger,Bruno Lima Penido,Luciana Pessanha,Mário Viana,Carolina Ziskind,Cristiane Dantas,Dino Cantelli,Zé Dassilva,Bruna Paixão,Juliana Peres,Lucio Manfredi,Guilherme Vasconcelos,Vinícius Vianna,Ingrid Zavarezzi,Claudio Lobato,Priscila Steinman,Carolina Massote,Cláudio Lisboa,Alessandra Poggi,Carolina Mata,Ricardo Linhares,Márcia Prates,Paula Amaral,João Brandão,Izabel de Oliveira,Sérgio Goldenberg,Flávia Lins e Silva,Mariana Mesquita,Ricardo Hofstetter,Chico Soares,Flávia Bessone,Cristianne Fridman,Miguel Paiva,Tiago Santiago,Ronaldo Santos"
+tt0144861,Enrique Carreras,"Ariel Cortazzo,Armando Moock"
+tt0145400,Bob Rafelson,"Robert B. Parker,Raymond Chandler,Tom Stoppard"
+tt0145529,David Giancola,David Giancola
+tt0145681,Phillip Noyce,"Jeffery Deaver,Jeremy Iacone"
+tt0146316,Simon West,"Sara B. Cooper,Mike Werb,Michael Colleary,Simon West,Patrick Massett,John Zinman"
+tt0146386,"Robert Kenner,John Rubin,Jonathan Grupper,Evy Barry,Ron Bowman,Nick Broomfield,Simon V. Kurian,Chris Sondreal,Peter Schnall,Adam Stepan,Marc Hoeferlin,Jean-Paul Janssen,Jon Else,Tria Thalman,Steven Hoggard,Paul Atkins,Pamela Caragol Wells,D.J. Roller,Jackie Mow,Tristram Miall,Elli Dutcher,Nick Stringer,Peter Yost,Tom Jennings,Paul Raimondi,Bob Landis,Michael Davie,Wynette Yao,Juan Reina,Jeff B. Harmon,Geoffrey Luck,Barney Broomfield,Kevin McCarey,Leslie Schwerin,Tucker Bowen,Paul Vander-Molen,J.J. Kelley,Jonathan Gruber,Allan Myers,Tony Gerber,Andrew Pike,Adrian Brenard,Kirk Wolfinger,Gregory Reading,Ian Denyer,Robert H. Gardner,Sean Fine,William Livingston,Mark Mannucci,Dave Linstrom,Anna Fitch,Micah Fink,William Martens,David Elisco,Ray Telles,Hank Nelson,Bonni Cohen,Gavan Daws,William Canning,Simon Boyce,James Lipscomb,Philip Day,Justin Milne,Jonathan Halperin,Jeanine Isabel Butler,John Mernit,David Hughes,Patrick Prentice,James Donald,Chris Lethbridge,Bruno Cusa,Bob Carmichael,John B. Bredar,Gareth Harvey,Jeff Morales,David Shadrack Smith,Ayse Toprak,Dana Kemp,Cara Biega,David Meyer,Max Salomon,Brian Breger,Eric Taylor,Eitan Weinreich,Peter Getzels,Todd Wendel,Thomas Lucas,Carsten Oblaender,Noel Dockstader,Kevin A. Peer,Lisa Kors,Beth Tanenhaus Winsten,Sue Houghton,Mark Stouffer,Marc Shaffer,Charles Patey,Lisa Quijano Wolfinger,Dennis Kibby","Tom Jennings,John Rubin,Anna Auster,James Barrat,Toby Beach,Jennifer Beman,Peter Bergen,Jaime Bernanke,Tucker Bowen,Ron Bowman,Simon Boyce,John B. Bredar,Brian Breger,Peter Bricca,Scott Bronstein,Jeanine Isabel Butler,Pamela Caragol Wells,Ann Carroll,Bonni Cohen,Kate Culpepper,Gavan Daws,Philip Day,Ian Denyer,Timothy Dilworth,Noel Dockstader,Michael Dolan,Nancy Donnelly,Elli Dutcher,David Elisco,Ed Fields,Micah Fink,Mark Finkelpearl,Anna Fitch,Gail Flannigan,Rodney Fox,Paul Gasek,Tony Gerber,Eleanor Grant,Jonathan Gruber,Jonathan Grupper,Jonathan Halperin,David Hamlin,John Haptas,Gareth Harvey,Ann Hayward,Steven Hoggard,French Horwitz,Sue Houghton,Carol Hughes,Noel Izon,Quinn Kanaly,David Keaton,Dana Kemp,Dennis Kibby,Gary Kinder,Kage Kleiner,Martin Koughan,Kris Kral,Bob Landis,Nancy LeBrun,Jody Lenkoski,Lisa Ling,James Lipscomb,Robert J. Loader,Tony Long,Thomas Lucas,Geoffrey Luck,C.J. Malley,Mark Mannucci,William Martens,Kevin McCarey,Jack McDonald,John Mernit,Tristram Miall,Hugh Miles,Charley Miller,Justin Milne,Andy Mitchell,Jackie Mow,Hank Nelson,Clare Nolan,Carsten Oblaender,Gary Parker,Andrew Paterson,Robert Pawloski,Kathleen Phelan,Aidan Pickering,Andrew Pike,Charles Poe,Patrick Prentice,Hank Putnam,Jeanne Rawlings,Carrie Regan,Donavan Reiff,John Rember,Audrey Salkeld,Max Salomon,Jim Schaal,Jody Schiliro,Leslie Schwerin,Gary Scurka,Marc Shaffer,Jeff Shear,David Shadrack Smith,Chris Sondreal,Paul Spillenger,Dixon Steele,Eric Strauss,Nick Stringer,Jorge Luis Sucksdorf,Steven R. Talley,Holly Taylor,Ray Telles,Tria Thalman,J.R.R. Tolkien,Alan Tomlinson,Mamta Trivedi,Alex Verville,Michael Watchulonis,Eitan Weinreich,Michael Welsh,Mike Welsh,Todd Wendel,Kevin Whelan,Jonathan Wickham,Michael Winship,Beth Tanenhaus Winsten,Kim Woodard,Peter Yost,Robert Zakin"
+tt0150167,Mark Pirro,Mark Pirro
+tt0151051,Alexa Visarion,"Ion Luca Caragiale,Alexa Visarion"
+tt0152241,Adrian Petringenaru,"Adrian Petringenaru,Eugen Uricaru"
+tt0154100,Noam Gonick,Noam Gonick
+tt0157218,Alan Tarrant,"Barry Cryer,Dave Freeman,Lew Schwarz,Dick Vosburgh"
+tt0157336,Savel Stiopul,Tudor Popescu
+tt0159881,"Clay Jacobsen,Kevin McCarthy,Dick Schneider","Merv Griffin,Mark Gaberman,Debbie Griffin,Harry Friedman,Jim Rhine,Robert McClenaghan,John Duarte,Michele Loud,Billy Wisse,Steve Tamerius,Matt Caruso,Bob Boden,Ryan Hopak,Gary Johnson,Matt Johnson,Carol Campbell,Jules Minton,Carlo Panno,Suzanne Jack,Ruth Deutsch,Harry Eisenberg,Kim Gruenenfelder,Barbara Heller,Michelle Johnson,Gary Lee,Andrew Price,Stephanie Spadaccini,Sean Wright,Steven Dorfman,Kathy Easterling,Jeff Pierson,Michele Silverman,Julieann Davis,Suzanne Stone,Victoria Haselton,Frederik Pohl IV"
+tt0162735,Nicholas Meyer,"Richard Gambino,Timothy Prager"
+tt0163447,Hermann Kugelstadt,Fritz Eckhardt
+tt0163452,Ferrão Katzenstein,António Torrado
+tt0164295,"Bill Hays,Malcolm Taylor,Peter Moffatt,James Ormerod,John Sichel,Don Leaver,John Scholz-Conway,John Cooper,Ian Fordyce,Alan Gibson,Robert Tronson,Dennis Vance,Peter Jefferies,Robert D. Cardona,Shaun O'Riordan","Brian Clemens,Terence Feely,Dennis Spooner,Luanshya Greer,Terry Nation"
+tt0164640,Fernando Merinero,Fernando Merinero
+tt0165001,"Nora Gerard,Ken Sable","Justin DiLauro,Thomas A. Harris,Craig Wilson,Conor Knighton,Charles Kuralt,Mel Lavine,Robert Northshield,Tom Harris,Steve Hartman,Lauren Barnello,Joseph L. Frandino,Ed Givnish,Remington Korper,George Pozderec,David Saltman"
+tt0165214,Robert Warmflash,Norbert Albertson Jr.
+tt0165446,Jean-Pierre Mocky,"Jacques Bacelon,Jean-Pierre Mocky,Alain Moury,Dominique Noguez"
+tt0165713,Jason Kittelberger,"Jason Kittelberger,Donna Strader"
+tt0166700,Adolfo Best-Maugard,"Adolfo Best-Maugard,Miguel Ruiz Moncada"
+tt0167260,Peter Jackson,"J.R.R. Tolkien,Fran Walsh,Philippa Boyens,Peter Jackson"
+tt0168172,Kevin Alyn Elders,"Moshe Diamant,Rudy Cohen,Andrew Miller,Andrew Lowery"
+tt0169406,Otakar Vávra,"Frantisek Hrubín,Otakar Vávra"
+tt0169504,"Joël Santoni,Alexandre Pidoux,Nicolas Herdt,Miguel Courtois","Laurent Vachaud,Pascale Breugnot,Joël Santoni,Alain Layrac,Ève Deboise,Joëlle Miquel,Danièle Thompson,Jérôme Le Mest,Dominique Deviosse-Nayrole,Jean-Carol Larrivé,Corinne Atlas,Laurent Mondy,Dominique Golfier,Nathalie Hugon,Sylvie Dervin,Olivier Dutaillis,Pierre Leyssieux,Othman Mahfoud,Marie-Luce David,Serge Lascar,Philippe Setbon,Xavier Douin,Christel Gonnard,David Pharao,Jean-Louis Tribes,Philippe Le Dem,Charlene Galan,Frédéric Garcia"
+tt0171491,Fadil Hadzic,Fadil Hadzic
+tt0172057,"Thierry Petit,Eric Summer,Vincent Monnet,Alain Choquart,Pascale Dallet,Frédéric Demont,Laurent Lévy,Denis Thybaud,Olivier Guignard,François Azria,Gilles Maillard,Alain Kitino,William Gotesman,Christophe Salachas,Franck Buchter,Jon Carnoy,Christian Vandelet,Michel Hassan,Philippe Roussel,Jean-Marc Thérin,Lin Dao,Jérôme-Cecil Auffret,Sylvie Ayme,Bruno Bouvier,Bernard Dubois,Adeline Darraux,Alain Smitti,Hervé Renoh,Franck Bonty,Luc Chalifour,Bénédicte Delmas,Antoine Lassaigne,Pascal Heylbroeck,Yann Michel,Vincent Garenq,Arnauld Mercadier,Bruno Garcia,Bruno Gantillon","Sylvie Coquart,James Adner,François Aramburu,Cristina Arellano,Sylvie Bailly,Patrick Bancarel,Jessica Bendinger,Blats,Adeline Blondieau,Jean Bobby,Elisabeth Bost,Grégory Boutboul,Pascal Breton,Olivier Brémond,Clémentine Champollion,Eugénie Dard,Patrice Dard,Laure Dawa-Longin,Lorène Delannoy,Patrick Delmas,Soline Delmas,Christophe Duchatelet,Jean-Christophe Establet,Tom Fauveau,Malika Ferdjoukh,Pascal Fontanille,Catherine Foussadier,Jeffrey Frohner,Pierre Geller,Claire Gilles,Simone Girard,Barbara Grinberg,Céline Guyot,Martin Guyot,Dodine Herry,Philippe Isard,Bernard Jeanjean,Nathalie Jeanselle,Alexandra Julhiet,Géraldine Keiflin,Stéphane Keller,Jeanne Lassalle,Thierry Lassalle,Brigitte Leclef,Martine Legrand,Fabienne Lesieur,Maryse León García,Fred Louf,Philippe Machu,Jean-Philippe Marier,Olivier Marvaud,Nicolas Mercier,Pascale Mémery,Michaël Océan,Olive Otin,Stéphane Palay,Benedicte Popper,Pierre-Yves Pruvost,Brice-Pascal Renault,Bernard Renucci,Roman Rey,Kaddour Riad,Elizabeth Rio,Agathe Robilliard,Régine Sabre,Daniel Salmon,Emmanuel Schaeffer,Béatrice Shalit,Eric Summer,Olga Tossecqk,Patrick Tringale,Nathalie Vailloud,Elsa Valensi,Sébastien Viaud,Jerôme Vignac,Caroline de Kergariou"
+tt0173158,Aurel Miheles,Alexandru Mitru
+tt0173588,"Didier Delaître,Bernard Dubois,Hervé Renoh,Hugues de Laugardière,Laurence Katrian","Annabelle Perrichon,François-Emmanuel Porché,Claude Scasso"
+tt0173602,Jean-Pierre Mocky,"Jean-Pierre Mocky,Michel Grisolia,André Ruellan"
+tt0173904,Benoît Lamy,"Benoît Lamy,Rudolph Pauli"
+tt0173957,Frederic Golchan,"Frederic Golchan,Guy de Maupassant"
+tt0176234,Werner Molinsky,Werner Molinsky
+tt0179009,Willy van Hemert,"Willy van Hemert,Anne de Vries"
+tt0180846,Jag Mundhra,"Greg Heffernan,Jag Mundhra"
+tt0180869,Jane Kavcic,"Jane Kavcic,Ivan Ribic,France Stiglic"
+tt0181984,Ben Younger,Ben Younger
+tt0182306,Ken Berris,"Ken Berris,Steven Moses,Don Nigro"
+tt0182408,"Graham Theakston,Simon Langton,Patrick Lau,Edward Bennett","Alan Whiting,Rob Heyland,Richard Carpenter,Matthew Hall,Baroness Emmuska Orczy"
+tt0183076,"Ben Reding,Dominik Reding","Ben Reding,Dominik Reding"
+tt0183341,Victor Lamp,"Ai-Wei Chen,William C.F. Lo"
+tt0183696,Lance Lindsay,"John Gazarian,Lance Lindsay"
+tt0183935,Fernando De Barros,"José Cañizares,Fernando De Barros,Thalma de Oliveira"
+tt0184090,"David Distinti,George Tzimopoulos,Charlie Heinz,Jeff Kay,Av Westin,Eric Siegel,Ann Benjamin","Roone Arledge,Noah Kotch,Shepard Boucher,John Berman,Matt Nelko,Dave Bloch,Charles Gibson,Bob Haberl,Alice Maggin,Matt Negrin,Lisa Ferri,Karen Mooney,David Muir,David Schoetz"
+tt0184334,Román Chalbaud,Román Chalbaud
+tt0186210,Hugo del Carril,Hugo del Carril
+tt0189307,"Arend Agthe,Renata Kaye,Wolf Armin Lange,Herwig Fischer,Jindrich Mann,Irina Popow,Dennis Jacobsen,Karl-Heinz Käfer,Andreas Morell,Klaus Hein Fischer,Daniel Acht,Max Winchester,Jens-Peter Behrend","Daniel Acht,Arend Agthe,Josef Becker,Götz Brandt,Thomas Brinx,Sybille Durian,Lissi Frank,Angelika Glitz,Sabine Keilich,Klaus Kordon,Anja Kömmerling,Alexandra Maxeiner,Helge May,Gudrun Mebs,Jens Maria Merz,Kathrin Nowak,Marion Rasche,Marcus Sauermann,Guido Schmelich,Almut Tina Schmidt,André Schmidt,Michael Schulden,Jens-Christian Seele,Tjong Khing Thé,David Ungureit,Ina Werner"
+tt0192897,"Michael Samuels,Jonathan Dent,Diana Henry,Bex Palmer,Bruce Thompson,Howard Brenner,Phil Chilvers,Dominic Brigstocke,Jane Lush,Caius Julyan,Rory Stallibrass,Liz Hartford,Michael Muncer,Sue Mallinson,Mitchell Symons,Marc Butler,Liz Ekberg,Paul Wooding,James Gould,Tessa Gogol,Mandy Cooper,Alexandra Beazley,Shaun Williams,Stephen Neal,Jill Marshall,Keith Stewart,Tom Brook,Archie Baron,Willa King,Heather Goodman,John Marley,Alice Feinstein,David Robertson,Emma Pollock,Anne Freer,Tony Tyley,Lara Hannay,Martin L. Bell,David Council,Julian Smith,Chris Mohr,David F. Turnbull,Julian Smith,Ken Griffin,Jane Prowse,Andrew Mackenzie,David G. Croft,Jonathan Hacker,Tom Brisley,Candida Pryce-Jones,Jenny Abbott",Barry Norman
+tt0193547,Zsombor Dyga,"Balázs Lovas,Clifford D. Simak"
+tt0194754,"Allen Secher,Ted Kay",Douglas L. Lieberman
+tt0195165,Steven E. de Souza,"Thomas B. Allen,Michael Lazarou,Steven E. de Souza"
+tt0198190,"Sturla Gunnarsson,Paul Faint,Jeff Morales,Louise Ferguson,Patrick Reed,Francis Delfour,Teresa MacInnes,Jeff Turner,Sébastien Tétrault,Chelsea Turner,Wayne Chong,Elise Swerhone,Marcy Cuttler,Jeff Semple,Scott Dobson,Roberto Verdecchia,Sue Turner,Niobe Thompson,Bruce Mohun,Jari Osborne,Gwyn Williams,Glynis Whiting,Chris Goldade,Andrew Nisker,Mauricio Dias,Tina Verma,Hadley Obodiac,Erna Buffie,David Wells,Gabit Baimbetov,Michael Boland,Scott Harper,Mike Downie,Lynn Booth,Susan Fleming,Lisa Ellenwood,Annette Mangaard,Mike Slee,Jean-François Méan,Robin Bicknell,Mark Everest,Stuart Elliott,Ray Burley,Ian Lagarde,Annamaria Talas,Judith Pyke,Jackie Carlos,Yannick Rose,Christine Nielsen,Ari A. Cohen,Martin Williams,Liam O'Rinn,Kent Nason,Michael McNamara,Jerry Thompson,Paul Lang,Pavel Tarasov,Gisela Kaufmann,Emma Usmanova,Tulio Schargel,Mayke Wagner,Ben Finney,Daniel Zuckerbrot,Vicktor Zaibert,Len Gildey,Bryce Sage,Ian Kirby,Donna Zuckerbrot,Nadine E. Schwartz,Dominique Lecuivre,Caroline Bacle,Michael Kot,Ryszard Hunka,Connie Edwards,Mary Margaret Frymire,Ian Herring,Andrew Manske,Leora Eisen,Hugh Piper,Leif Kaldor,Maureen Palmer,Susan Turner,Italo Costa,Guilhem Rondot,Michael Wadding,Simon Schneider,Su Rynard,Andrew Gregg,Carlo Massarella,Geoff D'Eon,Caroline Underwood,Yanick Rose,Roderick Deogrades,Volker Barth,Michael Allder,Mark Starowicz,Caitlin Starowicz,Haley Smith,Wendy Trueman,Christine McLean,Heinz Leger","Niobe Thompson,Roberto Verdecchia,Erna Buffie,Jeff Turner,Liam O'Rinn,Ari A. Cohen,Leora Eisen,Scott Harper,Tina Verma,Daniel Zuckerbrot,Michael McNamara,Jerry Thompson,Mike Downie,David Wells,Dugald Maudsley,Bryce Sage,Jackie Carlos,Ryszard Hunka,Geoff D'Eon,Allen Booth,Helen Slinger,Susan Fleming,Judith Pyke,Christine Nielsen,Lesley Evans Ogden,Caroline Underwood,Leonard Gilday,Julian Zuckerbrot,Janine Benyus,Sonya Pemberton,Fiona McHugh,Gisela Kaufmann,Rodrigo Astiz,Mauricio Dias,Didier Dutheil,Dominique Lecuivre,Tulio Schargel,Christopher Hume,Louise Lemelin,Glynis Whiting,Tom Radford,Wayne Chong,Bob Culbert,Marcy Cuttler,Scott Dobson,Charlotte Engel,Ian Gill,Bruce Mohun,Charlotte Odele,Lisa Ellenwood,Teresa MacInnes,Wendy MacKeigan,Annette Mangaard,Mary Munson,Kent Nason,Jon Povill,Mike Slee,Bruno Bucher,Andrew Gregg,Sturla Gunnarsson,Donna Zuckerbrot,Caroline Bacle,Roch Brunette,Maija Leivo,David Largman Murray,Maureen Palmer,Michael Wadding,Siobhan Flanagan,Michael Guilbault,Doug Hamilton,Sasha Hartmann,Mark Henderson,Christian McCuaig,Mitch McGoey,Justin Morris,Andrew Nisker,Sara Prieur,Patrick Reed,Adrienne Smith,Gwyn Williams,Monika Delmos,Meredith Hambrock,Simon Nasht,Ruth Roberts,Annamaria Talas,Allen J. Abel,Cheryl Alexander,Mary Margaret Frymire,Leif Kaldor,Linda Laughlin,Leslea Mair,Carlo Massarella,Christine McLean,Erin Oakes,Catharine Parke,Tom Ranson,Caitlin Starowicz,Mark Starowicz,Sophie Tessier,Laurel Toews,Christine Yoon,Michael Allder,Sally Blake,Aaron Floresco,Gail Gallant,David Gullason,Su Rynard,Simon Schneider,Allen Bailey,Amanda McConnell,Eileen Thalenberg"
+tt0198284,Cameron Thor,Thomas M. Kostigen
+tt0199248,"Fred Peabody,Tom Jennings,Scott Paddor,Robert Kirk,Jenny Kubo,Andy Papadopoulos,Colin Barratt,Rod Pyle,Sean Dash,Susan Smiley,Chris Benjamin,Dylan Robertson,Laura Casey,Laura Verklan,Jennifer Anderson,Tod Mesirow,Robert M. Wise,Jenny Ewig,Darryl Rehr,Savas Georgalis,Jeff Conroy,Brian Cavallaro,Taylor Downing,Yann Debonne,Martin O'Collins,Becky Smith,Geoffrey Madeja,Chris Harty,Scott Michnick,Wayne Grajeda,Rob Lihani,Steve Durgin,Anthony Lacques,Donna E. Lusitana,Jim Lindsay,Paul Nelson,Howard Dratch,David de Vries,John Logsdon,Jeff Scheftel,Jon Woods,Andrew Thomas,Bill Ferehawk","Fred Peabody,Douglas Varchol,Tom Jennings,Timothy Dilworth,Tony Long,Jorge Luis Sucksdorf,Steven R. Talley,Bruce Nash,Matthew P. Hickey,Luke Ellis,Beata Ziel,Anthony Lacques,Andrew Thomas,W. Scott Goldie,Henry Schipper,Robert E. Ziel,Jeff Scheftel,Kaylan Eggert,Noah Morowitz,Nancy Oey,LaMonte Westmoreland,Sean Dash,Ron Nelson,Jim Cirigliano,Kristina Djokic,Michael B. Christy,Jim Hense,Bob Petrella,Lee Schneider,Emily Lau,Jared Cook,Melissa Fuller,Todd Moss,Yann Debonne,Robert Beemer,Martin Kent,Mary Wallace,Holly O'Brien,Mark Mohr,Kathryn Christy,Adrian Maher,Phil Kruener,Savas Georgalis,Jeff Mercer,Terry Fitzpatrick,Alison Trinkl,Chris Mortensen,Chuck Hayes,Craig Constantine,Jeff Conroy,Shelley Ann Lawrence,Corrie Kaufman,Tom Yaroschuk,Larayne Decoeur,Aaron Kass,Andy Papadopoulos,Rod Pyle,Cindy Robinson,Gloria Morris,Jennifer Anderson,Phyllis Cannon,Lou DeCosta,Lauren Levine,Suzanne Mustacich,Allison Grodner,Donald Sellers,Robert Kirk,Rob Lihani,Ellen Mulligan,Becky Smith,Gary Tarpinian,Ann Toler,Deborah Blum,Josh Hanig,J.V. Martin,Dean Vallas,Lisa Bourgoujian,Silvia Gambardella,Barry D. Hill,David Massar,Mike Mathis,Pam Moore,Jude Gerard Prest,Christof Ritter,Cynthia Crompton,Howard Dratch,Jon Crowley,Martin Gillam,Colin Barratt,Douglas Cohen,Jerry Decker,Taylor Downing,Lee Fulkerson,Hildie Katibah,Jeff Martin,Gretchen Morning,Scott Paddor,Darryl Rehr,Mark Rowland,Susan Smiley,Rob Stone,Paul Amirault,Joanne Fish,Michael Hacker,Jon Jefferson,Laura Sobel,Greg DeHart,Richard Jones,Gloria Morris,Steve Durgin,Lawrence Givens,John Griffin,Lee Robinson,Nathan Antila,Jenny Kubo,Wynette Yao,Laura Casey,Annabelle Hester,Scott Michnick,Kent Kitzman,Bill Ferehawk,Dylan Robertson"
+tt0202179,"Richard Kinon,Joseph Barbera,Harry Harris,William Hanna,Ken Kwapis,Joan Darling,Bruce Malmuth,Eric Till,Claudia Weill,Gabrielle Beaumont,Sharron Miller,Sandy Smolan,Victor Lobl,Arthur Allan Seidelman,Anson Williams,Nell Cox,Helen Whitney,Kristoffer Tabori,Jeremy Kagan,Tom Skerritt,Richard Masur,Jesús Salvador Treviño,Thomas Schlamme,Harry Winer,Victor Du Bois,Lynn Hamrick,Allen Coulter,Robert Mandel,Alexander Grasshoff,Aviva Slesin,Jeffrey Hornaday,Gordon Edelstein,Neal Miller,John Herzfeld,Jeff Bleckner,Alan Handley,Dianah Wynter,Virgil W. Vogel,Michel Legrand,Susan Rohrer,James B. Clark,Beau Bridges,Eamon Harrington,Fred Barzyk,James Scott,Martin Tahse,Claude Kerven,Gilbert Moses,Consuelo González,Wes Kenney,Ian MacNaughton,Neal Baer,Joan Van Ark,Art Wolff,Tom Blank,John Watkin,Joey Ford,Camille Thomasson,Gwen Arner,Tom G. Robertson,Jack Regas,Victoria Hochberg,Pamela Berlin,Kevin Hooks,Mark Cullingham,Robert C. Thompson,Robert Chenault,Tony Frangakis,John Rubinstein,Jim Gates,Steven Schachter,Catlin Adams,Stan Lathan,Herbert Klynn,Larry Elikann,Fern Field,Anthony Lover,Peter Horton,John Florea,Robert Lieberman,Nancy Cooperstein,Clay Eide,Arthur Barron,Charles A. Nichols,Lloyd Kramer,Melissa Gilbert,Joseph Manduke,Stephen Gyllenhaal,Richard Slote,Mel Ferber,Albert Waller,Peter Kimball,Robert Fuest,Richard C. Bennett,James Becket,Ralph Rosenblum,William Schreiner,Lee Grant,Joanna Lee","Harvey Bullock,Bob Rodgers,Gerald Gardner,Alfred Lewis Levitt,Helen Levitt,Howard Rayfiel,William Shakespeare,Clyde Ware,Lisa Melamed,Betty G. Birney,Jeri Taylor,Michael McGreevey,Christopher Whitesell,Durrell Royce Crays,Jeffrey Kindley,Bruce Harmon,Jeanne Betancourt,Arthur Heinemann,Paul W. Cooper,Betsy Byars,Judy Engles,D.J. MacHale,Jan Hartman,Larry Spiegel,Thomas Baum,Fern Field,Courtney Flavin,Kat Smith,Gordon Rayfield,Yan Moore,Regge Bulman,Albert Waller,Gloria Banta,Patricia Nardo,Duane Poole,Arthur Barron,Jean Robinson,Joan Oppenheimer,Jim Inman,Gloria Gonzalez,Daryl Warner,Johnny Dawkins,Francine Pascal,Marisa Gioffre,Sydney Julien,Josef Anderson,Marjorie Rosen,Todd Strasser,Joanna Lee,Marilyn Webber,Clay Eide,Fred Bodsworth,Alvin Boretz,Jameson Brewer,Guy Fraumeni,James Ivory,Elinor Karpf,Stephen Karpf,Peggy Mann,Hildy Parks,Ruth Prawer Jhabvala,Isabella Taves,Lee Kalcheim,Edmond Rostand,Ronald Rubin,Richard Slote,Leonard Spigelgass,Betty Baker,Tony Kayden,Mildred Lee,Ellen Conford,Kay Cousins Johnson,Jeff Millar,Stella Pevsner,Fred Pressburger,Constance Greene,Susan Fichter Kennedy,Emily Cheney Neville,Elaine Evans Rushnell,Barbara Cohen,E. Jack Kaplan,Robert C. Lee,Michel Legrand,George A. Mendoza,Irma Reichert,Dick Robbins,Marjorie L. Sigley,Alfred Slote,Harry Winer,George Malko,Howard Rayfield,Sandra Scoppettone,Marcia L. Simon,Mildred Ames,Michael Bonadies,Jeannette Eyerly,John Herzfeld,Len Jenkin,Nancy Garden,Paul R. Hunter Jr.,Barbara Morgenroth,Anne Snyder,Hila Colman,Carolyn Miller,Sandra Peden Miller,Harold Peters,Virginia L. Carter,Ray Cunneff,Chris Manheim,Gloria D. Miklowitz,Richard Glatzer,Adoley Odunton,Mary Rodgers,Franklin Thompson,Louise Moeri,Craig Storper,Anson Williams,Jerry Blatt,Eve Bunting,Linda Elstad,David Hoffman,Dolores Morris,Mary Pleshette Willis,Leslie Daryl Zerg,Victoria Hochberg,Mardee Kravit,Donald Margulies,Linda Movish,Donald MacDonald,John Alan Palmer,David Perlmutter,James Pirone,Susan Rohrer,Camille Thomasson,Neal Baer,Linda Bergman,Penny DuPont,David Leslie,Nicky Noxon,Caryl Rivers,Martin Tahse,Brenda Wilson,Peg Haller,Bob Schneider,Beth Thompson,Tracey Thompson,David Villaire,Chuck Menville,Ilene Cooper,Casey Kurtti,Neal Miller,Bich-Nga Nguyen,Tony Blake,Lorna Davis,David J. Eagle,Eamon Harrington,Paul Jackson,Carol Starr Schneider,John Watkin,Madeline Di Maggio,Harriet Dickey,Karen Kasaba,Marilyn Reynolds,Jeanne Romano,Paula Sweeney"
+tt0202207,"Bernard Freimovitz,Peter Sander,Rick Morrison","Cheryl Blakeney,Mary Crawford,Peter Landecker,Alan Templeton,Christophe Izard,Patrick Granleese,Thor Bishopric,Diana West,Ken Ross,Jean-Marc Lofficier,Randy Lofficier,Peter Sander,Todd Swift,Gilles Adrien,Stewart Dudley,Patrick Galliano,Thomas LaPierre,Lucie Lortie,Olivier Montegut,Michael O'Mahony"
+tt0203259,"Jud Taylor,Peter Medak,Lesli Linka Glatter,Steve Shill,Elodie Keene,Rick Wallace,Edwin Sherin,Michael Zinberg,Nick Gomez,Chris Eyre,Kate Woods,James Quinn,James Hayman,Michael Pressman,David Hugh Jones,Martha Mitchell,Donna Deitch,Alan Metzger,Henry Bronchtein,Stephanie A. Marquardt,Rick Rosenthal,Michelle MacLaren,Alex Zakrzewski,Laura Belsey,Gloria Muzio,Sharat Raju,Marita Grabiak,Tom DiCillo,Batan Silva,Monica Raymund,Chad Lowe,Christopher Misiano,Ed Bianchi,Jonathan Herron,Fred Berner,Timothy Busfield,Courtney Hunt,Clark Johnson,Leslie Hope,Helen Shaver,Joyce Chopra,Tricia Brock,Peter Leto,Mariska Hargitay,Yelena Lanskaya,Alik Sakharov,Félix Enríquez Alcalá,Jim McKay,Paul Black,Jonathan Starch,Daniel Sackheim,Laurie Collyer,Jonathan Kaplan,Christopher Zalla,Jean de Segonzac,Jono Oliver,Constantine Makris,Paul McCrane,Holly Dale,Matt Earl Beesley,Amy Redford,Peter Werner,Adam Bernstein,Aaron Lipstadt,Michael Slovis,Richard Dobbs,Patrick Creadon,Ray McKinnon,George Pattison,Stephen Wertimer,Lucy Liu,Jennifer Getzinger,Norberto Barba,Juan José Campanella,Kevin Bray,Ted Kotcheff,Michael Smith,Guy Norman Bee,Rosemary Rodriguez,David Platt,Eriq La Salle,Darnell Martin,Arthur W. Forney,Michael Fields,Alex Chapple,Alexander Cassini","Julie Martin,Patrick Harbinson,Ed Zuckerman,Jose Molina,Ian Biederman,Marjorie David,Chris Levinson,Neal Baer,Dick Wolf,Warren Leight,Brianna Yellen,Robert Brooks Cohen,Céline C. Robinson,Dawn DeNoon,Jonathan Greene,Amanda Green,Judy McCreary,Kevin Fox,Michele Fazekas,Tara Butters,Elizabeth Rinehart,Lisa Marie Petersen,Michael S. Chernuchin,Peter Blauner,Robert F. Campbell,Daniel Truly,Allison Intrieri,John Paul Roche,Richard Sweren,Lawrence Kaplow,Rick Eid,Wendy West,Jeff Eckerle,Jill Abbinanti,Brendan Feeney,Samantha Corbin-Miller,Ken Storer,Mick Betancourt,Paul Grellong,Michael R. Perry,Gwendolyn M. Parker,Barbie Kligman,Robert Nathan,Christine M. Torres,David Matthews,Gavin Harris,Micharne Cloughley,Kathy Dobie,Robert Palm,David J. Burke,Nick Kendrick,Joshua Kotcheff,Speed Weed,Bryan Goluboff,Robin Veith,A. Zell Williams,Ryan Causey,Matt Klypka,Lisa Takeuchi Cullen,Denis Hamill,Monet Hurst-Mendoza,Roger Garrett,Kathy Ebel,Stephen Belber,Ruth Fletcher,Christos N. Gage,Mark Goffman,Kam Miller,Josh Singer,Charley Davis,Chris Brancato,Jeffrey Baker,Kinan Copen,Jordan Barsky,John Chambers,Miriam Kazdin,Rene Balcer,Nick Harding,Eva Nagorski,Janet Tamaro,Clifton Campbell,Javier Grillo-Marxuach,Marilyn Osborn,Todd Robinson,Tracey Stern,Martin Weiss,Liz Friedman,Adisa Iwa,Vanessa Place,Roger Wolfson,David Foster,Michael Angeli,George Huang,Lisa Loomer,Brian Fagan,Stuart Feldman,Marygrace O'Shea,Pedro Garcia,Aaron Tracy,Matt Olmstead,Jill Lorie Hurst,Penelope Koechl,Cheryl L. Davis"
+tt0204110,"Daniel Barone,Adrián Suar","Gustavo Belatti,Mario Segade,Adrián Suar"
+tt0207919,"Bruce Pittman,Steve DiMarco,Jorge Montesi,Holly Dale,Jean-Pierre Prévost,Julian Grant,Mark Roper,Jonathan Hackett,David Wu,John Bell,Don McCutcheon,Paolo Barzman,Ken Girotti,Wade Eastwood,Stefan Scaini,Clay Borris,Chris Bould,Ian Toynton,Graeme Lynch,Larry A. McLean,Milan Cheylov,Terry Ingram,Jeff King,George Mendeluk","Rio Fanning,Naomi Janzen,Gil Grant,Jurgen Wolff,Rob Gilmer,Bill Taub,Jeff King,Charles Heit,Leonard Dick,André Jacquemetton,Ronald A. Levinson,Michelle Lovretta,Elizabeth Baxter,Martin Brossollet,Kristy Dobkin,Edwina Follows,David Wolkove,Maria Jacquemetton,Frank Encarnacao,Ian Toynton,William Gough,Julie Lacey,Becky Southwell,Alison Lea Bingeman,David Koslove,Peter Mohan,Larry Mollin,James Thorpe,Tracey Forbes,Peter Hume,Damian Kindler,Arne Olsen"
+tt0209095,Rob Spera,"Mark Jones,William Wells,Alan Reynolds,Rob Spera,Doug Hall,Jon Huffman"
+tt0212395,"Bob Balaban,Sandy Smolan,David Hugh Jones,Stephen Cragg,Martha Mitchell,Harry Winer,Timothy Van Patten,Alan Taylor,Christopher Misiano,Aaron Lipstadt,Vincent Misiano,Bryan Spicer,Glenn Gordon Caron,Jace Alexander,Ronald L. Schwary,Susan Seidelman","René Echevarria,Michael Angeli,Glenn Gordon Caron,Ted Humphrey,Marlane Meyer,Thom Bray,Debbie Sarjeant,Hans Tobeason,Dan E. Fesman,Harry Victor"
+tt0213377,"Tom Burton,Mary Cim","Peter Keefe,Michael Maurer,Larry Bischof,William Brian Lowry,Richard Merwin,Tony Marino,Marc Handler,Doug Lefler,Lynn Lefler,Pamela Hickey,Dennys McCoy"
+tt0217869,M. Night Shyamalan,M. Night Shyamalan
+tt0218475,Steve Dunning,Steve Dunning
+tt0226430,Isaac H. Eaton,Isaac H. Eaton
+tt0227976,Maurits Balfoort,"Maurits Balfoort,Ernest Claes,Myriam de Lille,Cornelis Staes"
+tt0228040,Neil Kinsella,"Peter Beckwith,Neil Kinsella,David R. Williams"
+tt0228502,Betsan Morris Evans,"Mary Elizabeth Braddon,Donald Hounam"
+tt0232734,Raj Khosla,Bobby Tappia
+tt0233283,Laurent Boutonnat,Laurent Boutonnat
+tt0237123,Martin Dennis,Steven Moffat
+tt0237501,Clifton Ko,Raymond To
+tt0238936,Sanjay Leela Bhansali,"Saratchandra Chatterjee,Prakash Kapadia,Sanjay Leela Bhansali"
+tt0240149,Christian Carion,"Christian Carion,Eric Assous"
+tt0240285,"John Ammonds,Keith Beckett","Eric Morecambe,Ernie Wise,Barry Cryer,Eddie Braben,John Junkin"
+tt0241822,Stanley Jacobs,Stanley Jacobs
+tt0242160,"Zsolt Végh,Angéla Stefanovics,Zoltán Kálmánczhelyi","Zsolt Végh,Angéla Stefanovics,Zoltán Kálmánczhelyi"
+tt0243073,"Carolyn Mee,David Summons,Samantha Brampton,Ian Stevenson,Craig Meade,Greg Quail",Andrew Farrell
+tt0243155,Sharon Maguire,"Helen Fielding,Andrew Davies,Richard Curtis"
+tt0245916,Edward Lucas,"Michael A. Graham,Ted Haimes"
+tt0246460,Lee Tamahori,"Ian Fleming,Neal Purvis,Robert Wade"
+tt0250161,David Burton Morris,"Donald Spoto,Eric Ellis Overmyer,Tina Andrews"
+tt0250687,Jerry Zucker,Andy Breckman
+tt0253358,Robert M. Mansfield,Robert M. Mansfield
+tt0253831,Jackie May,"Catherine May,Al Rae"
+tt0254024,Sally Brady,"John Flanagan,Gary Reilly"
+tt0258501,Don Thompson,Don Thompson
+tt0258854,Carl Seaton,"Carl Seaton,Kenny Young"
+tt0261012,André Vaillancourt,André Vaillancourt
+tt0262975,"Artur Urbanski,Teresa Kotlarczyk,Jakub Skoczen,Monika Figura,Maciej Dejczer,Grzegorz Lewandowski,Artur Zmijewski,Kinga Debska,Krzysztof Rogala,Janusz Dymek,Wojciech Wójcik,Maciej Pieprzyca,Jerzy Lukaszewicz,Waldemar Szarek,Ryszard Zatorski,Adam Guzinski,Kordian Piwowarski,Malgorzata Imielska,Grzegorz Pacek,Piotr Weresniak,Radoslaw Piwowarski,Greg Zglinski","Agnieszka Krakowiak,Ilona Lepkowska,Renata Frydrych,Ryszard Zatorski,Maria Ciunelis,Joanna Olczakówna,Robert Maka,Maciej Maciejewski,Bartosz Blaschke,Andrzej Golda,Grzegorz Lewandowski,Przemyslaw Pilarski,Dana Lukasinska,Piotr Subbotko,Katarzyna Grochola,Lukasz Czapski,Monika Zieba,Piotr Weresniak,Piotr Chrzan,Urszula Kolodziej,Anna Stanko,Mariusz Bielinski,Monika Purzycka,Agnieszka Blotnicka,Agnieszka Kuszewicz,Agnieszka Olejnik,Marcin Strzelecki,Aneta Glowska,Lukasz Walczak,Karolina Frankowska,Dorota Jankojc-Poddebniak"
+tt0263235,Judy Chaikin,"Judy Chaikin,Gregory Burns"
+tt0264365,Walter von Huene,"Tray McKnight,Walter von Huene,Michael Hartson"
+tt0264605,Michel Qissi,"Jonathan Davenport,Michel Qissi"
+tt0266489,Danny DeVito,Larry Doyle
+tt0266647,Wim Vandekeybus,"Jan De Coster,Wim Vandekeybus"
+tt0267165,"Vincent Monnet,Christophe Douchand,Denys Granier-Deferre,Edwin Baily,Didier Le Pêcheur","Eric Kristy,Philippe Setbon,Christophe Douchand,Thierry Jonquet,Andréa H. Japp,Pierre Filoche,Michel Leydier,Olivier Thiébaut,Louis C. Thomas,Pierre Bourgeade,Jean-François Coatmeur,Didier Daeninckx,Sylvie Granotier,Brigitte Kernel,Roger Martin,Sophie Révil,Thierry Aguila,Philippe Huet"
+tt0267490,Lucho Bender,"Lucho Bender,Pablo Cedrón,Pedro Loeb"
+tt0267539,Zsombor Dyga,Balázs Lovas
+tt0270116,"Caitlin Jay,Joe Nocerito,Kate Roth Knull,Mark Dickison,Mike Jay,Bob Morris,Christopher Sgueglia,Victor Mathews",Charlie Rose
+tt0271894,"Nora Gerard,T.J. Asprea,Susan Spencer,Star Telegram,Peter Doyle,Chip Colley,Gabriel Koura,Bill Brady,Jack Kelly,James McGrath,Matthew DeVoe,Eric Shapiro,Rob Klug","Craig Wilson,Nancy Kramer,Barry Leibowitz,Judy Tygard,Kathleen O'Connell,Thomas Flynn,Susan Spencer,Amanda Pike,Jerry Cipriano,James Patterson"
+tt0274680,Filippos Tsitos,Filippos Tsitos
+tt0276971,Herman Yau,Yee Shan Yeung
+tt0278657,"Melissa White,Michael Sciulli",Michael Kane
+tt0280994,Roy Mack,Herman Ruby
+tt0282292,"Daniel Aguirre,Carlos Luna","Fidel Chiatto,Amparo Iribas,Claudio Lacelli,Betina Sancha"
+tt0284498,Joëlle Bentolila,Joëlle Bentolila
+tt0286106,M. Night Shyamalan,M. Night Shyamalan
+tt0286336,"Elphin Lloyd-Jones,Philippe Leclerc","Valerie Georgeson,Colin Dann,Jenny McDade,Steve Walker"
+tt0287467,Pedro Almodóvar,Pedro Almodóvar
+tt0289360,Igor Filipovic-Fila,"Igor Filipovic-Fila,Renato Orlic"
+tt0291943,Hanns Christian Müller,"Gerhard Polt,Franco Ferrini,Hans Weth,Hanns Christian Müller"
+tt0292367,Chiu Feng Yuan,Weibang Ma-Xu
+tt0293113,Guy Maddin,"Bram Stoker,Mark Godden"
+tt0296831,Marc-André Grynbaum,"Marc-André Grynbaum,Philippe Triboit"
+tt0297607,"Greg Francis,Joe Wiecha,Bertrand Morin,John Kavanaugh,Stuart Taylor,J. Darin Wales,Jeffrey Fine","Peter Koper,Tom Jennings,Allison Erkelens,David O'Donnell,Steven Sessions,Michael Ray Brown,Joe Amodio,Michael Martin,Tom Naughton,Mike Sinclair,Emmanuelle Wiecha,Paul Sauer,E.M. Kennedy,Victoria Fraser,Marc Weinberg"
+tt0298865,Glen Baisley,Glen Baisley
+tt0300406,Wladyslaw Pasikowski,Wladyslaw Pasikowski
+tt0301043,Sylwester Latkowski,Sylwester Latkowski
+tt0302244,Georg Schiemann,"Gert Billing,Hans Jürgen Faschina,Georg Schiemann"
+tt0302447,"Irene Arzuaga,Gracia Querejeta,Ramón Fernández,Cecilia Bartolomé,Azucena Rodríguez,Miguel Ángel Bernardeau,Sergio Cabrera,Antonio Cano,Antonio Cuadri,Agustín Crespi,Manuel Gómez Pereira,José María Caro,Óscar Aibar,Manuel Palacios,Moisés Ramos","Miguel Ángel Bernardeau,Eduardo Ladrón de Guevara,Sonia Sánchez,Jacobo Delgado,Alberto Macías,Ignacio del Moral,Patrick Buckley,Joaquín Oristrell,Curro Royo,Laura Pousa,Carlos Molinero,Bárbara Alpuente,Javier G. Amezúa,Verónica Fernández,Marisol Ferré,Carlos Asorey,Bernardo Sánchez,Pablo Bartolomé,Ángeles González Sinde,Moisés Gómez Ramos,Oscar Lurueña,Antonio Onetti,Miguel Ángel Fernández,Joaquín Górriz,Cecilia Bartolomé,Montserrat Fernández,Azucena Rodríguez,Mireia Llinàs,Laura León,Antonio Cano"
+tt0303184,Gábor Herendi,"Gábor Herendi,Gyula Márton"
+tt0308670,Steven Lo,"Canny Leung,Chi Shan Leung"
+tt0310029,Fernando Fragata,Fernando Fragata
+tt0311792,Man Kei Chin,Man Kei Chin
+tt0312528,Bo Welch,"Dr. Seuss,Alec Berg,David Mandel,Jeff Schaffer"
+tt0315850,Pablo Trapero,"Nicolas Gueilburt,Ricardo Ragendorfer,Dodi Shoeuer,Pablo Trapero,Daniel Valenzuela"
+tt0317186,Pierre Erwan Guillaume,Pierre Erwan Guillaume
+tt0319509,Bernardo Spoliansky,"Alberto Fonseca,Leonidas Labanca,Nathán Pinzón"
+tt0327733,Sergio Martino,"Sergio Martino,Sauro Scavolini"
+tt0328731,Wolfgang Liebeneiner,"Eckart Hachfeld,Jaroslav Hasek,Grete Reiner"
+tt0329512,Davor Zmegac,Davor Zmegac
+tt0331341,Christian Braad Thomsen,Christian Braad Thomsen
+tt0332452,Wolfgang Petersen,"Homer,David Benioff"
+tt0340109,Nisha Ganatra,"Tassie Cameron,Jackie May"
+tt0344647,"Michael Weinstein,Steve Goodman",Jacklyn Thrapp
+tt0346457,Ketan Mehta,"H. Banerjee,Farrukh Dhondy,Ranjit Kapoor"
+tt0355364,Daniel Springen,"Rory Penland,Bill Suchy"
+tt0359423,Michael Mayer,Michael Cunningham
+tt0360735,Andy Kumpon,Andy Kumpon
+tt0360845,Jean-Luc Godard,Jean-Luc Godard
+tt0360890,Ralf Schmerberg,"Antonia Keinz,Hermann Hesse,Claire Goll,Ernst Jandl,Heiner Müller,Johann Wolfgang von Goethe,Selma Meerbaum-Eisinger,Mascha Kaleko,Ingeborg Bachmann,Kurt Tucholsky,Erich Kästner,Hans Arp,Else Lasker-Schüler,Georg Trakl,Heinrich Heine,Paul Celan,Rainer Maria Rilke,Isabel Tuengerthal,Friedrich Schiller,Ralf Schmerberg,Hilde Domin"
+tt0361177,Édgar Liendo,"Milagros del Valle,Ana Mercedes Escámez,Delia Fiallo"
+tt0362582,Daniel Barone,"Adrián Suar,Marcos Carnevale,Marcela Guerty"
+tt0363092,Peter Patzak,Stefan Kolditz
+tt0364656,Gary Yates,Gary Yates
+tt0371746,Jon Favreau,"Mark Fergus,Hawk Ostby,Art Marcum,Matt Holloway,Stan Lee,Don Heck,Larry Lieber,Jack Kirby"
+tt0373812,Brent Ray,"Brent Ray,David Yim"
+tt0375782,Michael D. Akers,Michael D. Akers
+tt0382222,Chris Cook,Chris Cook
+tt0382477,Yuichi Abe,Yoshiyuki Tomino
+tt0382491,"Eric Till,Axel Engstfeld,Jens-Peter Behrend,Niobe Thompson,Dieter Grossherr,Sahar Eslah,Tim Walker,Kay Siering,Daniel Gerlach,Andreas Gutzeit,David Flamholc,Kirstin Bergmann,Cristina Trebbi,Uta von Borries,Hans von Kalckreuth,Thomas Lischak,Thomas Bakels,Frank Papenbroock,Achim Zeilmann,Christopher Gerisch,Christian Feyerabend,Peter Moers,Friedrich Klütsch,Tilman Remme,Christel Fomm,Florian Breier,Daniel Sich,Jürgen Stumpfhaus,Christian Schwochow,Wolfgang Würker,Jens Monath,Simone Rosner,Gerhard J. Rekel,Heike Schmidt,Gisela Graichen,Mira Thiel,Petra Thurn,Meike Hemschemeier,Hamid Herraf,Philipp Grieß,Martin Widman,Jeremy Hall,Christian Heynen,Michael Lachmann,Alexander Ziegler,Mark Daniels,Hannes Schuler,Jens Afflerbach,Robert Wortmann,Hajo Bergmann,Kathrin Beck,Luise Wagner,Karl Vandenhole,Martin Becker,Eike Schmitz,Rolf Pflücke,Sabine Bier,Willi Waschull,Tamara Spitzing,Nina Koshofer,Ralf Blasius,Frederic Eger,Volker Arzt,Saskia Weisheit,Marc Brasse,Iris Gesang,Hans Fricke,Isabelle Lange,Georg Graffe,Ulla Lohmann,Claudia Ruby,Renate Beyer,Jérôme Julienne,Gerhard Thiel,Helga Lippert,Stephan Koester,Nanje Teuscher,Matthew Wortman,Alfredo Mario Segers,Franz Leopold Schmelzer,Judith Voelker,Dennis Wells,Stefan Schneider,Peter Pippig,Gudrun Ziegler,Peter Prestel,Ewa Pytka,Gabriele Wengler,Juliane Zerbst,Friedrich Steinhardt,Oliver Frohnauer,Volker Schmidt,Anja Kindler,Jan Biekehör,Francesca D'Amicis,Axel Sand,Christian Stiefenhofer,Sigrun Laste,Robert Wiezorek,Martin Papirowski,Birgit Tanner,Arne Peisker,Peter Baumann,Volker Panzer,Arno Peik,Robert Schotter,André Rueedi,Eberhard Thiem,Carsten Gutschmidt,Robert Linnell,Christian Twente,Thomas Schultze-Westrum,Hans-Joachim Gally,Michael Albus,Andreas Sawall,Andrew Cochran,Béatrice Bruchez,Gottfried Kirchner","Niobe Thompson,Gottfried Kirchner,Christian Feyerabend,Susanne Utzt,Helga Lippert,Jens Afflerbach,Heike Schmidt,Robert Schotter,Andreas Sawall,Johannes Geiger,Gisela Graichen,Peter Prestel,Nina Koshofer,Christopher Gerisch,Birgit Tanner,Ingo Helm,Eike Schmitz,Luise Wagner,Martin Papirowski,Gerhard J. Rekel,Heike Nelsen-Minkenberg,Friedrich Steinhardt,Cristina Trebbi,Anja Kindler,Petra Höfer,Freddie Röckenhaus,Rolf Pflücke,Volker Arzt,Andrew Cochran,Robert Linnell,Georg Graffe,Gerhard Thiel,Daniel Gerlach,Christian Twente,Friedrich Klütsch,Daniel Sich,Claudia Ruby,Sigrun Laste,Judith Voelker,Jochen Ruderer,Jan Karitzky,Tilman Remme,Florian Breier,Christian Stiefenhofer,Alexander Hogh,Elin Carlsson,Peter Baumann,Thomas Schultze-Westrum,Jens-Peter Behrend,Hajo Bergmann,Dieter Grossherr,Béatrice Bruchez,Hans-Joachim Gally,André Rueedi,Jan Biekehör,Ewa Pytka,Gudrun Ziegler,Matthias Kopfmüller,Renate Beyer,Claudia Moroni,Tamara Spitzing,Christoph Spielberger,Christian Schwochow,Peter Moers,Frank Papenbroock,Stephan Arapovic,Tahir Shah,Kay Siering,Tim Walker,Uta von Borries,Jürgen Stumpfhaus,Jens Monath,Simone Rosner,Petra Thurn,Tamar Baumgarten-Noort,Sabine Clauser,Meike Hemschemeier,Stefan Schneider,Philipp Grieß,Christoph Weinert,Martin Widman,Sebastian Scherrer,Alexander Ziegler,Volker Schmidt,Jörg Wagner,Mark Daniels,Ruth Omphalius,Kathrin Beck,Sabine Bier,Fred Fougea,Iris Gesang,Jens Hahne,Isabelle Lange,Arne Peisker,Larissa Richter,Stefan Schulze,Nanje Teuscher,Dennis R. Wells,Sahar Eslah,Uwe Kersken"
+tt0384237,Lawrence Gardner,"Lawrence Gardner,Marvin Gardner,Bruce Inglis"
+tt0384766,"Steve Shill,Julian Farino,Timothy Van Patten,Allen Coulter,Alan Taylor,Alik Sakharov,Roger Young,Carl Franklin,Jeremy Podeswa,Adam Davidson,Mikael Salomon,John Maybury,Michael Apted,Alan Poul","John Milius,Bruno Heller,William J. MacDonald,Scott Buck,Todd Ellis Kessler,Mere Smith,Alexandra Cunningham,David Frankel,Adrian Hodges,Eoghan Mahony"
+tt0385705,Nick Love,"John King,Nick Love"
+tt0387199,"Julian Farino,Daniel Attias,Craig Zisk,David Nutter,Adam Bernstein,Adam Davidson,Seith Mann,David Frankel,Doug Ellin,Patty Jenkins,Ken Whittingham,Mark Mylod,Tucker Gates,Kevin Connolly,Leslie Libman,Roger Kumble","Marc Abrams,Michael Benson,Doug Ellin,Wesley S. Nickerson III,Lisa Alden,Ally Musika,Kenny Neibart,Ben Nedivi,Matt Wolpert,Rob Weiss,Cliff Dorfman,Brian Burns,Larry Charles,Tim Griffin,Stephen Levinson,Chris Henchy,Jerry Ferrara,Dusty Kay"
+tt0388795,Ang Lee,"Annie Proulx,Larry McMurtry,Diana Ossana"
+tt0388980,Bill Paxton,Mark Frost
+tt0389670,"Janusz Dymek,Jerzy Lukaszewicz,Ewa Pytka,Jerzy Sztwiertnia,Wojciech Solarz,Kazimierz Tarnas,Iwona Siekierzynska,Ryszard Brylski,Kinga Lewinska,Jacek Lenczowski,Tomasz Szafranski","Miroslaw Bork,Stanislaw Krzeminski,Olaf Olszewski,Ewa Popiolek"
+tt0390474,Wayne Spitzer,Wayne Spitzer
+tt0393494,"Andy Kumpon,Wayne Spitzer,Kevin J. Lindenmuth,Chris Mack","Andy Kumpon,Wayne Spitzer,Todd French,Chris Mack"
+tt0396269,David Dobkin,"Steve Faber,Bob Fisher"
+tt0396570,Graham Cantwell,Brian O'Tiomain
+tt0399336,Jalmari Helander,"Jalmari Helander,Jorma Tommila"
+tt0399633,Bibi Bozzato,"Bibi Bozzato,Lorenzo Soccoli"
+tt0400998,"Uri Gal-Ed,Adam Heydt,Shilpa Mankikar,Rebecca Staley",Shilpa Mankikar
+tt0403505,David Nicholas,"Edward Gorsuch,April White"
+tt0405266,Rituparno Ghosh,"Rituparno Ghosh,O. Henry"
+tt0408196,P.J. Pesce,"J.S. Cardone,Michael Frost Beckner,Crash Leyland,Ross Helford"
+tt0409673,Yves Pelletier,Yves Pelletier
+tt0414476,Filip Jan Rymsza,Filip Jan Rymsza
+tt0415342,Scott Beck,Scott Beck
+tt0417552,Andrey Novoselov,Irina Borodulina
+tt0417686,Johannes Roberts,"Joseph London,Johannes Roberts"
+tt0419253,Wenn V. Deramas,"Mel Mendoza-Del Rosario,Artemio Abad,Raymond Diamzon,Francis Xavier Pasion"
+tt0419821,Macoto Tezuka,Macoto Tezuka
+tt0420982,Aleksey Balabanov,"Stas Mokhnachev,Aleksey Balabanov"
+tt0421082,Anton Corbijn,"Deborah Curtis,Matt Greenhalgh"
+tt0421316,"Barnet Kellman,Gary Halvorson,Mark Cendrowski,Terry Hughes,Steve Zuckerman","Eileen Heisler,DeAnn Heline,Katy Ballard,Rob Bragin,Rodney Rothman,Bill Daly,Judah Miller,Murray Miller,Justin Spitzer,Vincent Brown"
+tt0428452,Mars Horodyski,"Mars Horodyski,Jay Prychidny"
+tt0430770,Diane English,"Anita Loos,Diane English,Clare Boothe Luce,Jane Murfin"
+tt0435370,Antonio Dyaz,Antonio Dyaz
+tt0435680,Menhaj Huda,Noel Clarke
+tt0436869,David Tufford,Kevin Ross
+tt0437086,Robert Rodriguez,"James Cameron,Laeta Kalogridis,Yukito Kishiro"
+tt0437741,"Ariel Boles,Paul Starkman,Tony Sacco,Ryan Bunnell,Rich Kim,Craig Spirko","Eli Holzman,Heidi Klum"
+tt0438315,Victor Salva,"Kevin Bernhardt,Dan Millman"
+tt0439389,"Ewa Pytka,Marzena Szoltysik,Katarzyna Buda,Katarzyna Klimkiewicz,Jerzy Owczaczyk,Okil Khamidov,Gala Kowal,Marcin Bortkiewicz,Wojciech Todorow,Jakub Miszczak,Dominik Matwiejczyk,Mateusz Kowalski,Sebastian Buttny,Pawel Chmielewski,Krzysztof Lebski","Anna Stanko,Pawel Nowicki,Grazyna Wilczynska,Maura Ladosz,Ilona Morusek,Marzena Szoltysik,Marcin Wysocki,Miroslaw Tomaszewski,Dominik Gasiorowski,Agnieszka Kruk,Katarzyna Grenke-Piesiewicz,Andrzej Staszczyk,Katarzyna Stelmaszczyk,Joanna Budzowska,Aleksandra Woloszczuk,Maciej Prykowski,Andrzej Sliwak,Marcin Grabowski,Dominik Matwiejczyk,Przemyslaw Hoffmann,Agnieszka Glebicka,Wiktoria Molenda,Martyna Kulczycka"
+tt0439401,"Claire Winyard,Julian Smith,Tim Verrinder,Ralph Spark,Tony Grech-Smith,Kate Douglas-Walker,Mick Thomas,Toby Baker,Jeanette Goulbourn,Stuart McDonald,Helen Scott,Claire Popplewell,Victoria Simpson","James Bachman,Mark Evans"
+tt0439670,Mars Horodyski,Kurtis Scott
+tt0443272,Steven Spielberg,"Tony Kushner,Doris Kearns Goodwin"
+tt0445900,"Buboo Kakati,Dean Irwin,Charles Nuckolls,Harry Hunkele,Philip Ng,Kelly Choi","Harry Hunkele,Buboo Kakati,Kelly Choi,Philip Ng,Dean Irwin,Arick B. Wierson,Adele Merlino"
+tt0447590,"Lex Lang,Susumu Kudo","Lex Lang,Yuki Enatsu,Kazuyuki Fudeyasu,Mizuna Kuwabara,Ryôsuke Nakamura,Hiroko Tokita"
+tt0449089,Barry Sonnenfeld,Geoff Rodkey
+tt0453317,Honggen Tang,"Qihua Du,Jiongjia Li"
+tt0454839,"Adam Mason,Simon Boyes","Simon Boyes,Adam Mason"
+tt0457275,Eduardo Sánchez,"Jamie Nash,Eduardo Sánchez"
+tt0457572,Andrew Currie,"Robert Chomiak,Andrew Currie,Dennis Heaton"
+tt0458290,"Brian O'Connell,Nathaniel Villanueva,Kyle Dunlevy,Justin Ridge,Walter Murch,Dave Bullock,Dave Filoni,Robert Dalva,Rob Coleman,Steward Lee,Atsushi Takeuchi,Danny Keller,Giancarlo Volpe,Jesse Yeh,Duwayne Dunham,Bosco Ng,Saul Ruiz","Jose Molina,Brent V. Friedman,Eoghan Mahony,George Lucas,Henry Gilroy,Drew Z. Greenberg,Scott Murphy,Christian Taylor,Katie Lucas,Dave Filoni,Steven Melching,Matt Michnovetz,Chris Collins,Charles Murray,Paul Dini,George Krstic,Daniel Arkin,Steven Long Mitchell,Craig W. Van Sickle,Cameron Litvack,Bonnie Mark,Melinda Hsu Taylor,Brian Larsen,Craig Titley,Julie Siege,Jonathan Rinzler,Tim Burns,Kevin Campbell,Kevin Rubio,Bill Canterbury,Jen Klein,Andrew Kreisberg,Wendy Mericle,Ben Edlund"
+tt0462125,"Mark Davis,Daniel McCabe,Thomas Lucas,Lisa Quijano Wolfinger,Caius Julyan,Martin Williams,Jenny Kubo,Paul Nelson,Martin Gorst,Neil Ferguson,Christina Bavetta,Gabriella Polletta,Stéphane Bégoin,Hayma Washington,Henri de Gerlache,Helen Britton,Chris Hale,Vincent Tardieu,Cynthia Page,Lorne Townend,Harriet Smith,Bo Landin,Billie Pink,Ben Fox,Jonathan Barker,Yavar Abbas,Johann Sigfússon,Simon Mansfield,Duncan Bulling,Cecile Bouchardeau,Dana Ross,Steve Baker,Matthew Huntley,Malcolm Clark,Jonathan Santos,Chris Holt,Stuart Everett,Paul Reddish,Emma Hawley,Tom Stubberfield,Kazuli Ueda,Rick Beyer,Robert Ferrier,Kevin Bachar,Simon Martin,Ryan Miller,Emily Bernhard,Kate Dart,Anna Thomson,Stavros C. Stavrides,Susannah Ward,Anna Keel,Richard Smith,Jed Rauscher,Gareth Williams,Mark Marabella,Sarah Cain,Melisa Akdogan,Scott Martin,Paul Scott,Maire Tracey,Manfred Christ,Sara Kenney,Nick Clarke Powell,Shaun Trevisick,Alex Williamson,James Buchanan,Dana Berry,Alex Hearle,Stephen Carroll,Jo Locke,Ted Poole,Daniel H. Birman,Tony Lee,Mark Bender,Pedro Lima,Jobim Sampson,Gary Lang,Simon Ludgate,Richard Burke-Ward","Ken Chowder,Daniel McCabe,Bill Lattanzi,Rocky Collins,Mark Davis,Clare Nolan,Jonathan Wickham,Phil Kruener,Yavar Abbas,Michael Allcock,Joey Allen,Larry Bambrick,Mark Bender,Emily Bernhard,Dana Berry,Rick Beyer,Daniel H. Birman,Manfred Christ,Malcolm Clark,Rushmore DeNooyer,Stuart Everett,Klaus Feichtenberger,Ben Fox,Ben Fox,Martin Gorst,Alex Hearle,William Hicklin,Gonzalo Infante,Chris Kugelman,Bo Landin,Gary Lang,Dan Levitt,Simon Ludgate,Simon Mansfield,Mark Marabella,Scott McEwing,Ryan Miller,Stephen Milton,Rabinder Minhas,Mark Mori,Bob Niemack,Cynthia Page,Billie Pink,Ted Poole,Nick Clarke Powell,Jed Rauscher,Paul Reddish,Richard Reisz,Dana Ross,Jonathan Santos,John F. Schwally,Paul Scott,Stavros C. Stavrides,Rhys Thomas,Lorne Townend,Shaun Trevisick,Kazuki Ueda,Susannah Ward,Gareth Williams,Martin Williams,Kirk Wolfinger,Lisa Quijano Wolfinger,Henri de Gerlache"
+tt0465676,Xiaogang Feng,"William Shakespeare,Gangjian Qiu,Heyu Sheng"
+tt0467723,Bernard Uzan,"Francis Nief,Fabien Suarez,Bernard Uzan"
+tt0472989,"Brian Campbell,Steve Paley,Joe DeMaio,Liz Patrick,Nick Cannon,Mack Hodges,Charles Clemmons","Chico Bean,Julia Young,Rip Micheals,Nick Cannon,Joshua Funk,Rj Barnes,Javen Cannon,Tyler Does,Prince Eazy,Clayton English,Clayton Thomas,Cipha Sounds,Cameron Smith,Ethan T. Berlin,Ronnie Jordan,Pretty Ricki,Hugh Moore,Kevin Parker,Anthony 'Doboy' Belcher,Brian Moses,Jared Snow,Darren 'Big Baby' Brand,KyLee Evans,Ayanna Dookie,Jamie Moyer,Akaash Singh,James Davis,Alex Kavutskiy,Johnny Mack,Jeremy Christian,Nate Jackson,Kevin Barnett,Damien Lemon,Jonathan Bourne,Bob Kusbit,Chris Spencer,Sydney Castillo,Munirah Jones,Marvelous Miles,Kenny Buford,Doug Shaffer"
+tt0473697,Andrés Baiz,"Andrés Baiz,Mario Mendoza"
+tt0475207,"Geneviève Poulette,Frédéric D'Amours,Chantal Limoge,Michel Beaudin,Bernard Nadeau,Sebastien Godron","Michelle Allen,Marie-Helene Dube,Dominique Lachance,Sonia Marcoux,Isabelle Poissant,Léonard Poissant,Manon Vallee"
+tt0475365,Narhee Ahn,Narhee Ahn
+tt0476230,Cathrine McVeigh,Claire Tonkin
+tt0477587,Nathan Gopen,"Garrett Gopen,Nathan Gopen"
+tt0477604,Isabel Galvan,Jennifer Mattern
+tt0478440,"Arnar Thor Thorisson,Lone Bodholt","Lone Bodholt,Svanhild Sveindotter Grov,Johanna Grönqvist,Neta Norrmo,Silja Sahlgren,Arnar Thor Thorisson,Sara Wennerblom"
+tt0478970,Peyton Reed,"Stan Lee,Larry Lieber,Jack Kirby,Edgar Wright,Joe Cornish,Adam McKay,Paul Rudd"
+tt0481327,Daniel Grou,"Michelle Allen,Isabelle Poissant"
+tt0483556,Max Benator,Max Benator
+tt0483754,Mladen Dizdar,"Aleksandar Holiga,Zoran Lazic"
+tt0487823,Fernando Ávila,"Isabel Costa,Claudio Figueira"
+tt0490438,Petra Brix,Petra Brix
+tt0491522,"Anthony Atkins,Gary Harvey,Kelly Senecal,John Fawcett,Rachel Talalay,Grant Harvey,James Dunnison","James Phillips,Tony Blake,Paul Jackson,Alison Lea Bingeman,Patrick Banister,John Barbisan,Mindy Heslin,Susan James,Kelly Senecal,Abigail Kinch,Matt MacLennan,Lisa Steele,Russ Cochrane"
+tt0492956,Andy Fickman,"Nichole Millard,Kathryn Price,Audrey Wells"
+tt0495669,João Cayatte,"Francisco Moita Flores,Aquilino Ribeiro"
+tt0757996,Robert Benfer,Robert Benfer
+tt0758784,Andrew Wagner,"Brian Morton,Fred Parnes,Andrew Wagner"
+tt0772124,Ian Madden,Karin Alvtegen-Lundberg
+tt0790602,Alain Desrochers,"Benoît Guichard,Alain Desrochers"
+tt0790663,Justin Chadwick,Ann Peacock
+tt0790712,Oren Moverman,"Alessandro Camon,Oren Moverman"
+tt0795439,Harris Goldberg,Harris Goldberg
+tt0796366,J.J. Abrams,"Gene Roddenberry,Roberto Orci,Alex Kurtzman"
+tt0801017,Carlos Bidó,José Ramón Díaz
+tt0801515,Charles Howard Thomas,Charles Howard Thomas
+tt0803023,Miikko Oikkonen,"Samu Heikkilä,Miikko Oikkonen"
+tt0805493,Joe Lewis,"Joe Lewis,Joseph Daniel Lewis,Michael Pomranz"
+tt0806910,"Axel Corti,Frank Strecker,Klaus Biedermann,Hermine Huntgeburth,Dominik Reding,Arend Agthe,Herwig Fischer,Filippos Tsitos,Hanns Christian Müller,Wolfgang Petersen,Peter Patzak,Christian Schwochow,Mira Thiel,Iwan P. Schumacher,Hans-Reinhard Müller,Umut Dag,Ciro Cappellari,Karl-Heinz Bieber,Christian von Castelberg,Hartmut Griesmayr,Tom Toelle,Volker Vogeler,Michael Knof,Friedemann Fromm,Robert Dornhelm,Rupert Henning,Michael Gutmann,Peter Carpentier,Heinz Schirk,Jürgen Bretzinger,Friederike Jehn,Rainer Kaufmann,Florian Froschmayer,Samira Radsi,Max Zähle,Walter Davy,Ed Herzog,Hansgünther Heyme,Udo Witte,Dagmar Knöpfel,Erhard Riedlsperger,Herrmann Zschoche,Justus von Dohnányi,Dietrich Brüggemann,Hans-Jürgen Tögel,Michael Verhoeven,Harald Sicheritz,Olaf Kreinsen,Daniel Helfer,Mike Schaerer,Andreas Kopriva,Elmar Fischer,Helmut Krätzig,Diethard Küster,Florian Gärtner,Jürgen Roland,Thomas Freundner,Georg Tressler,Jörg-Michael Baldenius,Josef Rödl,Emily Atef,Franziska Buch,Alexander Dierbach,Claudia Prietzel,Petra Haffter,Markus Imboden,Zoltan Spirandelli,Felix Herzogenrath,Achim von Borries,Bastian Günther,Helmut Förnbacher,Marvin Kren,Hartmut Schoen,Christof Schertenleib,Hans-Dieter Schwarze,Bernd Schadewald,Pim de la Parra,Ulrich Stark,Thomas Jahn,Torsten C. Fischer,Stephan Lacant,Matthias Glasner,Vivian Naefe,Erwin Keusch,Berthold Mittermayr,Christoph Valentien,Christian Alvart,Stephan Wagner,Erich Neureuther,Marc Rensing,Wolfgang Becker,Petra Katharina Wagner,Sylvia Hoffmann,Wilma Kottusch,Wolf Gremm,Fritz Eckhardt,Dror Zahavi,Peter F. Bringmann,Özgür Yildirim,Vanessa Jopp,Hans Werner,Dieter Wedel,Klaus-Peter Weber,Mark Schlichter,Axel Ranisch,Francis Meletzky,Robert Sigl,Kilian Riedhof,Oliver Kienle,Peter Henning,Christoph Stark,Peter Fratzscher,Houchang Allahyari,Andreas Herzog,Theodor Kotulla,Martin Weinhart,Julia von Heinz,Niki Stein,Isabel Prahl,Martin Gies,Ben Verbong,Klaus Emmerich,Jürgen Brauer,Manfred Stelzer,Max Färberböck,Claudia Garde,Züli Aladag,Vadim Glowna,Jürgen Kaizik,Peter Schulze-Rohr,Franz Peter Wirth,Horst Flick,Sascha Bigler,Wolf Dietrich,Kurt Junek,René Heisig,Markus Fischer,Thomas Stiller,Hannu Salonen,Rolf Schübel,Mia Spengler,Eberhard Itzenplitz,Berno Kürten,Georg Marischka,Michael Lähn,Stephan Meyer,Katrin Gebbe,Wolfgang Glück,Werner Masten,Sabine Derflinger,Carlheinz Caspari,Konrad Sabrautzky,Florian Kern,Jens Wischnewski,Randa Chahoud,Nicole Weegmann,Lars Becker,Jens Becker,Peter Weck,Wolfgang Becker,Wolfgang Storch,Thomas Fantl,Claus-Michael Rohne,Raymond Ley,Tobias Ineichen,Ottokar Runze,Theo Mezger,Walter Bannert,Christoph Schnee,Aelrun Goette,Josh Broecker,Hannes Stöhr,Brigitte Bertele,Rainer Wolffhardt,Philip Koch,Jan Georg Schütte,Stanislav Barabas,Ute Wieland,Uwe Janson,Wolfgang Murnberger,Peter Adam,Oliver Hirschbiegel,Stephan Rick,André Erkau,Lars Montag,Miko Zeuschner,Hajo Gies,Sebastian Ko,Andreas Senn,Jochen Bauer,Wolfgang Luderer,Stefan Kornatz,Dagmar Seume,Markus Welter,Michael Schneider,Thomas Stuber,Nico Hofmann,Lutz Büscher,Dominik Graf,Michael Braun,Walter Weber,Pia Strietmann,Roland Suso Richter,Peter Beauvais,Wolfgang Staudte,Ilse Hofmann,Matthias Tiefenbacher,Buddy Giovinazzo,Peter Payer,Thomas Roth,Susanne Zanke,Hans-Werner Honert,Rainer Matsutani,Fritz Umgelter,Sabine Bernardi,Heiko Schier,Bernhard Giger,Catalina Molina,Karin Hercher,Eberhard Fechner,Hans-Christoph Blumenberg,Florian Baxmeyer,Helmut Metzger,Samuel Fuller,Manuel Siebenmann,Miguel Alexandre,Wilm ten Haaf,Bodo Fürneisen,Anne Zohra Berrached,Nils Willbrandt,Holger Barthel,Clemens Klopfenstein,Johannes Fabrick,Hans Noever,Urs Egger,Matti Geschonneck,Robert-Adrian Pejo,Nicolai Rohde,Patrick Winczewski,Dietrich Haugk,Florian Schwarz,Erich Hörtnagl,Sven Bohse,Andy Fetscher,Hüseyin Tabak,Bruno Jantoss,Piotr J. Lewandowski,Henk Handloegten,Claus Peter Witt,Thorsten Näter,Christiane Balthasar,Nina Grosse,Andreas Kleinert,Dieter Kehler,Alexander Adolph,Wolfgang Tumler,Connie Walter,Thomas Bohn,Uli Möller,Christian Görlitz,Detlef Rönfeldt,Marianne Lüdcke,Margarethe von Trotta,Peter Vogel,Rolf von Sydow,Nina Wolfrum,Johannes Grieser,Reinhard Schwabenitzky,Rainer Bär,Bernd Böhlich,Georg Lhotzky,Klaus Krämer,Till Endemann,Michael Mackenroth,Gregor Schnitzler,Pete Ariel,Didi Danquart,Bruno Kaspar,Robert Thalheim,Michael Kehlmann,Alexander Eslam,Martin Enlen,Barbara Eder,Jobst Oetzmann,Thomas Engel,Urs Odermatt,Sabine Boss,Jochen Nitsch,Lars Jessen,David Wnendt,Helmuth Ashley,Helena Hufnagel,Titus Selge,Dustin Loose,Theresa von Eltz,Peter Keglevic,Nikolaus Leytner,Kaspar Heidelbach,Klaus Gietinger,Kristian Kühn,Lars Henning,Christine Hartmann,Manuel Flurin Hendry,Dieter Schlotterbeck,Maris Pfeiffer,Christian Theede,Katalin Gödrös,Christian Zübert,Jochen Alexander Freydank,Peter Ristau,Richard Huber,Dani Levy,Ralph Bohn,Eoin Moore,Martin Eigler,Imo Moszkowicz,Kurt Ockermueller,Rüdiger Graf,Bruno Voges,Michael Riebl,Maria Knilli,Fabian Eder,Jan Bonny,Stefan Schaller,Nina C. Wolfrum,Lars Kraume,Peter Sämann,Tim Trageser,Christopher Schier,Dieter Berner,Tom Gerber,Hagen Müller-Stahl,Jörg Grünler,Günter Gräwert,Andreas Prochaska,Wolfgang Panzer,Thomas Jauch,Sebastian Marka,Judith Kennel,Martin Buchhorn,Edward Berger,Angelina Maccarone","Werner Jörg Lüddecke,Uwe Erichsen,Philip LaZebnik,Horst Johann Sczerba,Volker Einrauch,Fritz Eckhardt,Dominik Reding,Jens Maria Merz,David Ungureit,Stefan Kolditz,Gerhard J. Rekel,Jens-Peter Behrend,Peter Adam,Alexander Adolph,Urs Aebersold,Feo Aladag,Züli Aladag,Lukas Alexander,Miguel Alexandre,Houchang Allahyari,Tom-Dariusch Allahyari,Georg Alten,Martin Ambrosch,Doris Andreas,Sönke Andresen,Bernd Anger,Judith Angerbauer,Gerd Angermann,Friedrich Ani,Sascha Arango,Volker Maria Arend,Emily Atef,Walter Bannert,Holger Barthel,Kurt Bartsch,Rolf Basedow,Patrick Bassenge,Annette Bassfeld-Schepers,Thomas Baum,Daniela Baumgärtl,Florian Baxmeyer,Thommie Bayer,Lars Becker,Ingeborg Bellmann,Claus Bender,Peter Bender,Felix Benesch,Rainer Berg,Hilde Berger,Rudolf Bergmann,Dieter Berner,Johannes W. Betz,Ilse Biberti,Charlie Bick,Daniel Bickermann,Horst Bieber,Sascha Bigler,Richard Binder,Jochen Bitzer,Ulrike Bliefert,Hartmut Block,Hans-Christoph Blumenberg,Marc Blöbaum,Knut Boeser,Johannes Boesiger,Ralph Bohn,Thomas Bohn,Sven Bohse,Rainer Boldt,Hans-Henning Borgelt,Horst Bosetzky,Benjamin Braeunlich,Martina Brand,Ulrich Brandt,Jan Braren,Peter Braun,Fred Breinersdorfer,Léonie-Claire Breinersdorfer,Wolfgang Brenner,Josh Broecker,Natja Brunckhorst,Patrick Brunken,Stefan Brunner,Uli Brée,Anna Brüggemann,Dietrich Brüggemann,Stephan Brüggenthies,Franziska Buch,Robert Buchschwenter,Urs Buehler,Alex Buresch,Hans Burger,Markus Busch,Rainer Butt,Klaus Bädekerl,Rainer Bär,Lars Böhme,Katrin Bühlig,Sabine Bühring,Stefan Cantz,Daniel Christoff,Murmel Clausen,Michael Comtesse,Peter Conolly-Smith,Martin Conrath,Jane Corbett,Axel Corti,Jan Cronauer,Claude Cueni,Christoph Darnstädt,Dieter De Lazzer,Boris Dennulat,Matthias Dinter,Peter Dommaschk,Thea Dorn,Hans Drawe,Brigitte Drodtloff,Hans Dräxler,Stefan Dähnert,Jürgen Dünnwald,Daniel Martin Eckhart,Fabian Eder,Urs Egger,Waltraud Ehrhardt,Norbert Ehry,Jan Eichberg,Martin Eigler,Max Eipp,Khyana El Bitar,Jacki Engelken,André Erkau,Orkun Ertener,Frédéric Fajardie,Claudia Falk,Stephan Falk,Eberhard Fechner,Wolfgang Fechtner,Georg Feil,Michael Fengler,Markus Fenner,Erna Fentsch,Andy Fetscher,Alrun Fichtenbauer,Claus Cornelius Fischer,Ernst Fischer,Markus Fischer,Hans Frank,Leo Frank,Niklas Frank,Dörte Franke,Peter Fratzscher,Horst Freund,Thomas Freundner,Bernhard Frey,Mats Frey,Christoph Fromm,Friedemann Fromm,Pea Fröhlich,Samuel Fuller,Maria Furtwängler,Max Färberböck,Andreas Föhr,Helmut Förnbacher,Dagmar Gabler,Michael Gantenberg,Claudia Garde,Ute Geber,Franz Geiger,André Georgi,Moritz Gerber,Matti Geschonneck,Hajo Gies,Martin Gies,Klaus Gietinger,Mario Giordano,Michael Glasauer,Matthias Glasner,Vadim Glowna,Aelrun Goette,Felice Goetze,Dinah Marte Golch,Peter Goslicki,Sonja Goslicki,Wolfgang Graetz,Dominik Graf,Ingmar Gregorzewski,Jochen Greve,Hartmut Griesmayr,Raul Grohte,Birgit Grosz,Max Gruber,Bartosz Grudziecki,Hartmut Grund,Günter Gräwert,Jörg Grünler,Frank Grützbach,Roland Gugganig,Patrick Gurris,Michael Gutmann,Harald Göckeritz,Frank Göhre,Axel Götz,Bastian Günther,Kai Hafemeister,Stefan Hafner,Rochus Hahn,Bruno Hampel,Henk Handloegten,Michael Haneke,Danuta Harrich-Zandberg,Christine Hartmann,Kai-Uwe Hasenheit,Michael Hatry,Meike Hauck,Ingrid Haunold,Peter Hebel,Roland Heep,Christian Heider,Leo W. Heim,Andrea Heller,Frank Hemjeoltmanns,Peter Hemmer,Johannes Hendrich,Manuel Flurin Hendry,Lars Henning,Peter Henning,Rupert Henning,Michael Herzig,Wolfgang Hesse,Benjamin Hessler,Richard Hey,Jan Hinter,Dieter Hirschberg,Lothar Hirschmann,Sylvia Hoffmann,Nico Hofmann,Nina Hoger,Stefan Holtz,Hans-Werner Honert,Lars Hubrich,Felix Huby,Wilfried Huismann,Rüdiger Humpert,Frauke Hunfeld,Ralf Husmann,Henner Höhs,Hendrik Hölzemann,Robert Hültner,Christiane Hütter,Michael Illner,Florian Iwersen,Manfred Jacobs,Wolf Jakoby,Holger Jancke,Christian Jeltsch,Joachim Jessen,Rudolf John,Holger Joos,Kurt Junek,Jürgen Kaizik,Mika Kallwass,Bruno Kaspar,Hans-Peter Kaufmann,Michael Kehlmann,Matthias Keilich,Hans Kelch,David Keller,Hans Werner Kettenbach,Bodo Kirchhoff,Thomas Kirchner,Scarlett Kleint,Werner Kließ,Clemens Klopfenstein,Thomas Knauf,Andreas Knaup,Karlheinz Knuth,Philip Koch,Henry Kolarz,Frank Koopmann,Stefan Kornatz,Olaf Kraemer,Rüdiger Kramer,Volker Krappen,Lars Kraume,Tim Krause,Melody Kreiss,Stefanie Kremser,Marvin Kren,Ulrich Kressin,Paul Kroker,Richard Kropf,Manfred Krug,Klaus Krämer,Helmut Krätzig,Verena Kurth,Werner Kurz,Raimund Kusserow,Karl-Heinz Käfer,Dirk Kämper,Manfred R. Köhler,Kristian Kühn,Berno Kürten,Hans-Christian Laaber,Jacques Labib,Frank Laemmel,Günter Lamprecht,Bernd Lange,Lorenz Langenegger,Beate Langmaack,Peter Lennartz,Maxim Leo,Detlef Lerch,Thomas Letocha,Ralf Leuther,Dani Levy,Raymond Ley,Herbert Lichtenfeld,Bernd Liepold-Mosser,Christian Limmer,Georg Lippert,Erich Loest,Elke Loewe,Karin Lomot,Boy Lornsen,Wolfgang Luderer,Marianne Lüdcke,Petra Lüschow,Norbert Maass,Angelina Maccarone,Christian Mackrodt,Raimund Maessen,Verena Mahlow,Birgit Maiwald,Henning Mankell,Alex Martin,Hansjörg Martin,Joachim Masannek,Werner Masten,Rainer Matsutani,Martin Maurer,Josy Meier,Wolfgang Menge,Carl Merz,Clemens Meyer,Stephan Meyer,Simon Michaël,Detlef Michel,Ulf Miehe,Eva Maria Mieke,Harald Mini,Felix Mitterer,Daniela Mohr,Mohammad Ali Mohsenipour,Ulrike Molsen,Michael Molsner,Mark Monheim,Lars Montag,Eoin Moore,Andreas Morell,Dirk Morgenstern,Peter Moser,Fedor Mosnak,Martina Mouchot,Clemens Murath,Wolfgang Murnberger,Stefan Murr,Peter Märthesheimer,Wolfgang Mühlbauer,Detlef Müller,Hans Gerd Müller,Michael B. Müller,Volkmar Nebe,Joachim Nelson,Marcus P. Nester,Sönke Lars Neuwöhner,Johannes Niem,Daniel Nocke,Hans Noever,Arne Nolting,Joachim Nottke,Thorsten Näter,Peter Obrist,Florian Oeller,Jobst Oetzmann,Chris Ohnemus,Nils-Morten Osburg,Leonie Ossowski,Carolin Otto,Christine Otto,Richard Otto,Matthias Pacht,Alain Page,Plym Pahl,Wolfgang Panzer,Astrid Paprotta,Gaby Pauler,Charlotte I. Pehlivani,Robert-Adrian Pejo,Axel Petermann,Wolfgang Petersen,Andreas Pflüger,Barbara Piazza,Henriette Piper,Agnes Pluch,Hasso Plötze,Jiri Polák,Jürgen Pomorin,Sven Poser,Frank Posiadly,Claudia Prietzel,Martin Pristl,Peter Probst,Michael Proehl,Peter Purtschert,Willy Purucker,Sabine Radebold,Sathyan Ramesh,Gino Rapisarda,Klaus Recht,Theo Regnier,Marion Reichert,Gerd Reinhard,Richard Reitinger,Helmut Richter,Klaus Richter,Pim Richter,Kilian Riedhof,Herbert Riehl-Heyse,Ljubisa Ristic,Kurt Rittig,Irene Rodrian,Stefan Rogall,Claus-Michael Rohne,Jürgen Roland,Herbert Rosendorfer,Thomas Roth,Johannes Rotter,Josef Rödl,Heike Rübbert,Sabine Rückert,Konrad Sabrautzky,Bernd Sad,Uwe Saeger,Dirk Salomon,Hannu Salonen,Isolde Sammer,Peter Sandmeyer,Bernd Schadewald,Stefan Schaller,Jan Martin Scharf,Asta Scheib,Peter Scheibler,Jochim Scherf,Jürgen Scheschkewitz,Heiko Schier,Heinz Schirk,Niklaus Schlienger,Andreas Schlüter,Holger Karsten Schmidt,Erhard Schmied,Hartmann Schmige,Simone Schneider,Susanne Schneider,Sarah Schnier,Hartmut Schoen,Achim Scholz,Georg Schott,Hans Dieter Schreeb,Hannah Schröder,Dieter Schubert,Elke Schuch,Catharina Schuchmann,Peter Schulze-Rohr,Bernd Schwamm,Thomas Schwank,Florian Schwarz,Hans-Dieter Schwarze,Robert Schwentke,Dorothee Schön,Clemens M. Schönborn,Theodor Schübel,Nicole Schürmann,Jan Georg Schütte,Günter Schütter,Matthias Seelig,Xao Seffcheque,Roswitha Seidel,Titus Selge,Jochen Senf,Michael Seyfried,Harald Sicheritz,Peter Sichrowsky,Manuel Siebenmann,Chris Silber,Rolf Silber,Zoran Solomun,Gunther Solowjew,Rafael Solá Ferrer,Claudia Sontheim,Zoltan Spirandelli,Luigi Squarzina,Jürgen Starbatty,Wolfgang Stauch,Niki Stein,Peter F. Steinbach,Bert Steingoetter,Manfred Stelzer,Ulli Stephan,Oke Stielow,Thomas Stiller,Wolfgang Storch,Oliver Storz,Peter Stripp,Markus Stromiedel,Thomas Stuber,Hardi Sturm,Lukas Sturm,Eveline Stähelin,Britta Stöckle,Hannes Stöhr,Martin Suter,Norbert Sütsch,Jörg Tensing,Fabian Thaesler,Eckhard Theophil,Katrin Thiemer,Hans-Georg Thiemt,Sabine Thiesler,Peter Trabner,Ulf Tschauder,Matthias Tuchmann,Magnus Vattrodt,Stefanie Veith,Ben Verbong,Pascal Verdosci,Michael Vershinin,Harald Vock,Horst Vocks,Peter Vogel,Willi Voss,Stephan Wagner,Werner Waldhoff,Dieter Waldmann,Najem Wali,Martin Walser,Anika Wangard,Lienhard Wawrzyn,Raimund Weber,Jochen Wedegärtner,Dieter Wedel,Gisela Weilemann,Thomas Weingartner,Peter Weissflog,Petra Welzel,Franz-Xaver Wendleder,Thomas Wendrich,Hans Werner,Jürgen Werner,Friedhelm Werremeier,Thomas Wesskamp,Thorsten Wettcke,Marco Wiersch,Bettina Wilhelm,Uwe Wilhelm,Nils Willbrandt,Karl Heinz Willschrei,Thomas Wittenburg,Michael Wogh,Daniel Wolf,Gerlinde Wolf,Klaus-Peter Wolf,Gabriella Wollenhaupt,Christoph Wortberg,Karsten Woydelek,Günther Wulff,Stefan Wuschansky,Wolfgang Wysocki,Erol Yesilkaya,Christos Yiannopoulos,Eva Zahn,Volker A. Zahn,Fred Zander,Peter Zeindler,Werner Zeindler,Peter Zender,Mischa Zickler,Hans-Heinrich Ziemann,Heinz-Dieter Ziesing,Max Zihlmann,Peter Zingler,Pim de la Parra,Chiem van Houweninge,Jan van der Bank,Achim von Borries,Edgar von Cossart,Justus von Dohnányi,Veith von Fürstenberg,Jörg von Schlebrügge,Rolf von Sydow,Florian Öller"
+tt0808315,Andreas Prochaska,"Thomas Baum,Andreas Prochaska"
+tt0808357,Ang Lee,"Eileen Chang,James Schamus,Hui-Ling Wang"
+tt0811128,Chris Eigeman,Chris Eigeman
+tt0815230,Kenny Young,"Carl Seaton,Kenny Young"
+tt0815235,John Banovich,"Erik Vilio,Steve Vilio"
+tt0819701,John Charter,John Charter
+tt0825695,Phil Price,"Phil Price,Myles Hainsworth,Brandon Milbradt,Ian Johnston"
+tt0833595,Jean-François Pouliot,Ken Scott
+tt0835489,Cassie Dart,Cassie Dart
+tt0837143,"Philippe Guyenne,Stephane Juffé","John Shirley,Stan Lee,Don Heck,Larry Lieber,Jack Kirby,Henry Gilroy,Craig Kyle,Christopher L. Yost,Brandon Auman,Romain van Liemt,Alexandre de La Patellière,Thomas Barichella,Julien Magnat,Alexx Van Dyne,Kevin Burke,Chris Wyatt,Eugene Son,Philippe Guyenne,Mark Henry,Guillaume Enard,Andrew Robinson,Gavin Hignight,Thomas Krajewski,Bob Layton,David Michelinie,Clélia Constantine,Paul Giacoppo,Len Uhley,Sean McKeever,Ken Pontac,Cyril Tysz"
+tt0845088,Orhan Oguz,"Ahmet Yurdakul,Ozan Emre Yurdakul,Sinan Yurdakul,Omer Genc,Azime Aktas,Serap Gazel,Barkin Senüren,Tolga Aydogan"
+tt0847880,Aleksey Balabanov,Aleksey Balabanov
+tt0856200,Mario Cornejo,Jade Castro
+tt0867222,"Ian Connacher,Shelley Ayres,Mark Stevenson,Stephen Grant",Stephen Grant
+tt0867334,Dan Ireland,"Dennis Yares,E.L. Doctorow,Michael Gilio"
+tt0871019,Bodie Norton,"Kevin Greene,Bodie Norton"
+tt0877333,D.J. Matrundola,"D.J. Matrundola,Raphaël Simard"
+tt0882741,Jeremy Osbern,"Chris Blunk,Jeremy Osbern"
+tt0887912,Kathryn Bigelow,Mark Boal
+tt0890886,Lasse Spang Olsen,"Nikolaj Peyk,Lasse Spang Olsen,Henning Bahs"
+tt0891311,Michael Merriman,Michael Nolan
+tt0901476,Gary Winick,"Greg DePaul,Casey Wilson,June Diane Raphael"
+tt0902982,Aaron Woolfolk,Aaron Woolfolk
+tt0915463,"Rory McHenry,Edward McHenry","Edward McHenry,Rory McHenry"
+tt0932859,Lennie Little-White,Damali Little-White
+tt0942385,Ben Stiller,"Justin Theroux,Ben Stiller,Etan Cohen"
+tt0943690,"James Henry,Adrian McDowall,Simon Hook,Toby Haynes,Richard Senior,Adrian Mead,Zam Salim,Mat King,Richard Elson,Simon Hynd","Katie Douglas,Nathan Cockerill,Jeff Dodds,Keith Brumpton,Ben Ward,Jonny Kurzman,Simon Allen,Adrian Hewitt,Malcolm McGonigle,Elly Brewer,Jess Williams,Simon Hook,Peter Kerry,David Hancock,Chris Lindsay"
+tt0944947,"Timothy Van Patten,Alan Taylor,Jack Bender,David Nutter,Michelle MacLaren,Alik Sakharov,Daniel Sackheim,Michael Slovis,Jeremy Podeswa,Mark Mylod,D.B. Weiss,David Petrarca,David Benioff,Brian Kirk,Miguel Sapochnik,Matt Shakman,Daniel Minahan,Neil Marshall,Alex Graves","George R.R. Martin,Jane Espenson,David Benioff,D.B. Weiss,Dave Hill,Bryan Cogman,Ethan J. Antonucci,Gursimran Sandhu,Vanessa Taylor"
+tt0961117,"Rick Caine,Debbie Melnyk","Debbie Melnyk,Rick Caine"
+tt0969676,Emmanuel Duprez,"Camila Barragán,Dante Hernández,Martín Luna,Araceli Monsell,Lupita Obon,Elvin Rivera"
+tt0974613,Richard Eyre,"Richard Eyre,Charles Wood,Bernhard Schlink"
+tt0976014,"Sandy Smolan,Fred Gerber,Michael Lange,John T. Kretchmer,Patrick R. Norris,Lee Shallat Chemel,Rick Rosenthal,Rachel Talalay,Nick Marck,Tim Matheson,Gil Junger,Michael Grossman,Linda Mendoza,Perry Lang,Norman Buckley,Shawn Piller,Melanie Mayron,Fred Savage,Ellie Kanner,Michael Lembeck,Mark Rosman,Lee Rose","Anne Kenney,Rob Bragin,Patrick Sean Smith,Jessica O'Toole,Amy Rardin,Roger Grant,Carter Covington,Matt Whitney,Michael Berns,Jed Seidel,Adam Milch,Casey Johnson,David Windsor,Sharon Bordas,Damon Tod Hill,Jonathan Abrahams,Dana Calvo,Mark Stegemann,Lisa Albert,Mike Ladd,Lana Cho,Dana Greenblatt,Jason Gavin,Stacy Rukeyser"
+tt0981224,Jack Messitt,"Sean Hood,Mark Garbett,Jack Messitt,Anthony Pittore"
+tt0982939,"Jaroslaw Sypniewski,Michal Gazda,Jacek Filipiak","Artur Kowalewski,Piotr Pytlakowski,Wojciech Tomczyk"
+tt0988045,Guy Ritchie,"Michael Robert Johnson,Anthony Peckham,Simon Kinberg,Lionel Wigram,Arthur Conan Doyle"
+tt0997147,Hitoshi Matsumoto,"Hitoshi Matsumoto,Mitsuyoshi Takasu"
+tt1001540,Slava Tsukerman,Slava Tsukerman
+tt10068158,Masayuki Kojima,Akihito Tsukushi
+tt1007029,Phyllida Lloyd,Abi Morgan
+tt10117046,Cameron B. Smith,Cameron B. Smith
+tt1012950,"Jeffrey Hayden,Ken Kwapis,Sigmund Neufeld Jr.,Arthur Allan Seidelman,Larry Elikann,Stephen Gyllenhaal,Richard C. Bennett,Dennis Kane,Michael Ray Rhodes,Jay Daniel,Randa Haines,Gerald Mayer,William P. D'Angelo","John Whelpley,Charles Pratt Jr.,Josef Anderson,Nick Anderson,Deborah Baker,Corey Blechman,Elizabeth Clark,Barney Cohen,Adam Dubov,Gretchen Ebrahim,Clare Elfman,Paul C. Elliot,Eloise Engle,Fred Freiberger,Stephen Gyllenhaal,Evan Hunter,Dennis Kane,H.B. Kay,Todd Kessler,Richard H. Landau,John McNamara,Katherine Paterson,Art Wallace"
+tt1015464,Robert Benfer,Robert Benfer
+tt1023502,"Nina Pope,Karen Guthrie","Karen Guthrie,Nina Pope"
+tt1046237,"Patricia Zagarella,Jim Morgison",Lester Thomas Shane
+tt1056433,Jose Javier Reyes,Jose Javier Reyes
+tt1059786,D.J. Caruso,"John Glenn,Travis Wright,Hillary Seitz,Dan McDermott"
+tt1064932,Dany Boon,"Dany Boon,Alexandre Charlot,Franck Magnier"
+tt1071237,Shaun Trevisick,Shaun Trevisick
+tt1075110,Felix van Groeningen,"Christophe Dirickx,Dimitri Verhulst,Felix van Groeningen"
+tt1075829,Valeriy Ugarov,Maksim Romanov
+tt1083456,Will Gluck,Will Gluck
+tt1087851,Anna Novion,"Béatrice Colombier,Anna Novion,Mathieu Robin"
+tt1097642,Ramiro Medina Flores,Juan Carlos Reyes
+tt11020184,Kamil Cetin,"Seyda Delibasi,Busra Nur Karahan,Enver Sülük"
+tt1105304,Leslie Rohland,"Louis Esposito,Artie Flecher,Jim Florentine,Leslie Rohland"
+tt11192624,Taieb Louhichi,Taieb Louhichi
+tt1121786,Adam Kane,"Will Tiao,Katie Swain,Charlie Stratton,Yann Samuell,Brian Askew,Nathaniel Goodman"
+tt11219232,Yassine Naoui,"Noureddine Bouhajeba,Ahmed Essid"
+tt1129442,Olivier Megaton,"Luc Besson,Robert Mark Kamen"
+tt1132183,B. Parker,"Austen Hoogen,B. Parker"
+tt1136608,Neill Blomkamp,"Neill Blomkamp,Terri Tatchell"
+tt1140962,Jörg Bundschuh,Jörg Bundschuh
+tt1151923,Sebastián Cordero,"Sergio Bizzio,Sebastián Cordero"
+tt1153106,Paul Breuls,"Nicholas Meyer,Ronald Roose"
+tt11542758,"Pål Sletaune,Gjyljeta Berisha","Kjersti Wøien Håland,Sara Johnsen,Pål Sletaune,Erlend Loe"
+tt1160996,Jeff Renfroe,"Jeff Renfroe,Svet Rouskov,Patrick Tarr,Pascal Trottier"
+tt11732324,Francisco Márquez,"Tomás Downey,Francisco Márquez"
+tt1186366,Aleksey Balabanov,"Sergey Bodrov,Mikhail A. Bulgakov"
+tt1187579,Glenn Kirkpatrick,"Jen Klein,Benjamin Townsend,Rachel Spratt,Rob Hummel,Bryan Thompson,Peter Lawrence,Joel Metzger,Jackie Turnure"
+tt1194574,Joshua Tai Taeoalii,"Jeremy Nielsen,Joshua Tai Taeoalii"
+tt1204186,Fikret Aliev,"Fikret Aliev,Qasim Safaroglu"
+tt1212909,Dagen Merrill,Dagen Merrill
+tt1213636,Andrew Landauro,"Andrew Landauro,Ben Woodard"
+tt1220911,Jamel Debbouze,"Fred Fougea,Roy Lewis,Jean-Luc Fromental,Jamel Debbouze,Ahmed Hamidi,Victor Mayence,Pierre Ponce,Johnny Smith,Rob Sprackling,Olivier De Funès"
+tt1227804,Marit Åslein,"Line Fougner Christensen,Linn Skåber,Terje Solli"
+tt1229819,Todd J. Phelps,"Paul Whitehead,Emmett Loverde"
+tt1233605,Laurence N. Kaldor,"Michele Alden,Paul Epstein,Matthew Gardner,Alex Goldberg,Tom Gould,Laurence N. Kaldor,David L. Oltman,Raimy Rosenduft,Howard Walters,Avery O. Williams"
+tt1235830,"Javier Mariscal,Fernando Trueba,Tono Errando","Ignacio Martínez de Pisón,Fernando Trueba"
+tt1242543,Roland Suso Richter,"Richard Reitinger,Natalie Scharf,Beth Serlin,Florian Schumacher,Roland Suso Richter,Pia Hart,Sabine Kuegler"
+tt1244666,Yoshihiro Nakamura,"Kôtarô Isaka,Tamio Hayashi"
+tt1245526,Robert Schwentke,"Jon Hoeber,Erich Hoeber,Warren Ellis,Cully Hamner"
+tt1249387,Richard Martin-Jordan,Richard Martin-Jordan
+tt1252482,Istvan Criste,Istvan Criste
+tt1264879,Abner Benaim,"Abner Benaim,Lino Georg von Saenger"
+tt1270105,Clifford Fields,Clifford Fields
+tt1270798,Matthew Vaughn,"Stan Lee,Jack Kirby,Ashley Miller,Zack Stentz,Jane Goldman,Matthew Vaughn,Sheldon Turner,Bryan Singer"
+tt1270850,Claire McCarthy,Claire McCarthy
+tt1274758,"Peter Schönhofer,Frank Streller,Axel Hahne,Antje Seyferth","Christian Eisert,Simon Hauschild"
+tt1286159,Ricardo Trogi,Ricardo Trogi
+tt1291150,Jonathan Liebesman,"Josh Appelbaum,André Nemec,Evan Daugherty,Peter Laird,Kevin Eastman"
+tt1291580,Steven Soderbergh,"Richard LaGravenese,Scott Thorson,Alex Thorleifson"
+tt1291635,Sally Pearce,Sally Pearce
+tt1299368,"Stephen Cragg,Félix Enríquez Alcalá,Daniel Sackheim,Guy Norman Bee,James M. Muro,Allison Anders,Nelson McCormick,Guy Ferland,Regina King,Christopher Chulack","Mitchell Burgess,Robin Green,Ann Biderman,Sara Gran,Heather Zuhlke,Chitra Elizabeth Sampath,Chad Feehan,Zack Whedon,Jonathan Lisco,Cheo Hodari Coker,John Wells,Angela Amato,Dee Johnson,Diana Son,Will Rokos,Jason Horwitch,Aaron Rahsaan Thomas,David Graziano,Nathan Jackson,Etan Frankel"
+tt1312552,"Susanne Goldberg,Thomas Menke,Harald Spiess,Philipp Schulte,Sabine Pape","Jochen Winter,Markus Hennig,Gerburg Jahnke,Jörg Uebber,Johannes Rehmann"
+tt1314843,"Michael Tuviera,Topel Lee","Ellen Estrada,Cheryl Ann Narvasa,Penny Daza-Tuviera,Alex Vicencio"
+tt1318008,"Tomasz Szafranski,Jacek Filipiak,Kasia Adamik,Patrick Yoka,Patryk Vega,Michal Bulik,Maciej Odolinski","Andrzej Sliwak,Michal Bulik,Bartosz Kurowski,Jakub Niescierow,Maciej Odolinski,Janusz Onufrowicz,Wojciech Ziminski"
+tt1323592,"Taylor Chien,Hunter G. Williams","Hunter G. Williams,Scott Michael Campbell,Ryan O'Corrigan,Kevin Duane Carson"
+tt1324069,"Jérôme Navarro,Gilles Maillard,Renato Bracchi,Jérôme Enrico,Nicolas Hourès,Éric Duret,Philippe Proteau,Philippe Dajoux,Vincent Giovanni","Fabienne Facco,Armelle Robert,Sylvie Bailly,Blats,Jean Bobby,Elisabeth Bost,Barbara Grinberg,Stéphane Keller,Fabienne Lesieur,Elsa Valensi,Thomas Barichella,Nathalie Abdelnour,Elsa Marpeau,Mathieu Missoffe,Elodie Namer,Isabelle Boni-Claverie,Grégoire Demaison,Gioacchino Campanella,Cécile Berger,Emmanuelle Dupuy,Nadia Lakhdar,Marc Roux,Marie Vinoy,Mari Mouazan,Sophie Kovess-Brun,Aurélie Belko,Monica Rattazzi,Erwan Augoyard,Françoise Guillaume,Yves Ramonet,Marco Rivard,Nicolas Jean,Laure Doyonnax,Daphné Lora,Roland Menou,Florent Meyer,Frédéric Douté,Aurélia Morali,Iris Ducorps,Sabine Cipolla,Krystel Bazex,Delphine Maury,Camille Bongue,Marc Kressmann,Frédéric Sarais,Catherine Courel,Cathérine Guillot-Bonte,Juliette Keller,Eline Le Fur,Carine Hazan,David Nathanson,Emmanuelle Rey-Magnan,Frédéric Sabrou,Nathalie Stragier"
+tt1327799,Jesús del Cerro,"Raluca Durbaca,Maria Marinescu"
+tt1328968,"Stéphane Meunier,Vincent Trisolini","Eugénie Dard,Sébastien Viaud,Elodie Namer,Marc Roux,Aurélie Belko,Florent Meyer,Aurélia Morali,Juliette Keller,Bertrand Cohen,Laurent Daufès,Stéphane Meunier,Serge Gisquière,Sally Micaleff,Alexandre Dos Santos,David Robert,Nathalie Mathis,Victoria Bedos,Déborah Hassoun,Pauline Pinson,Roman Turlure,Olivier Szulzynger"
+tt1329225,Chris King,"Chris King,Heather King"
+tt1337566,Scott Kunkle,Adrian Horodecky
+tt1339050,Jordan Clark,"Jordan Clark,Janice Santos Valdez"
+tt1340561,Bennie Woodell,Bennie Woodell
+tt1340620,John Gonzales,John Gonzales
+tt1340834,Zsombor Dyga,Zsombor Dyga
+tt1368434,"Vojtech Nouzák,Hana Chaloupková,Vojtech Nouzákl","Jirí Hapala,Jan Kraus,Jan Stern,Ales Ulm,Josef Viewegh"
+tt1374843,Anne Welles,Anne Welles
+tt1375666,Christopher Nolan,Christopher Nolan
+tt1377521,Nick Delgado,Nick Delgado
+tt1381404,Robert Redford,"Lem Dobbs,Neil Gordon"
+tt1381872,"Cassie Dart,Paul Puccio",Cassie Dart
+tt1382588,Sarkhan Karamoglu,Sarkhan Karamoglu
+tt1392233,Stan Phillips,"Jim Aitken,H.T. Spetnagel"
+tt1394022,"Paloma Martín-Mateo,Mapi Laguna,Jesús R. Delgado","Ariana Martín,Benjamín Zafra,Olatz Arroyo,Sara Vicente,Jordi Arencón,Raúl Fernández García,Paula Fernández Membibre,Carmen Marfà,Samuel Prado,Mercedes Rodrigo,Francisco Serrano,Verónica Viñé,Alejandro Cabrera,Marta de Arriba,Marta Azcona,Mario Cuesta,Daniel del Casar"
+tt1398349,"Espen Eckbo,Aleksander Herresthal","Espen Eckbo,Aleksander Herresthal"
+tt1401236,"Tom Mattera,David Mazzoni",B. Harrison Smith
+tt1409024,Barry Sonnenfeld,"Etan Cohen,Lowell Cunningham"
+tt1426748,Alex Steyermark,"Roger Rawlings,Ed Bradin,Andrew Pope,Winn Coslick"
+tt1436564,Lonnie Schuyler,Lonnie Schuyler
+tt1440129,Peter Berg,"Jon Hoeber,Erich Hoeber"
+tt1459044,Mark Owen,Mark Owen
+tt1459990,"Mário Márcio Bandarra,José Alvarenga Jr.,José Luiz Villamarim,Rogério Gomes","Marçal Aquino,Fernando Bonassi,Álvaro Ramos"
+tt1462834,Mike Carroll,Mike Carroll
+tt1462900,Kar-Wai Wong,"Kar-Wai Wong,Jingzhi Zou,Haofeng Xu"
+tt1478964,Joe Cornish,Joe Cornish
+tt1488579,Joel Lamangan,"Lily Y. Monteverde,Roy Iglesias"
+tt1496773,Brendan Prost,Brendan Prost
+tt1498346,"David Seman,Justin Gunn,Mark Rinehart,Hassan S. Ali",Lily Hanson
+tt1509632,Pedro Brenner,"Pedro Brenner,Gabriel García Campillo"
+tt1512214,Rob Lutz,"Fiona Cambell,Steve Dinyer,Rob Lutz"
+tt1514441,Bob Pondillo,Bob Pondillo
+tt1518812,Kelly Reichardt,Jonathan Raymond
+tt1523584,Jason Sutton,Jason Sutton
+tt1524544,Stephen Cone,Stephen Cone
+tt1528313,Dany Boon,"Dany Boon,Yaël Boon"
+tt1533049,Nathan D. Lee,"Lyvia A. Martinez,Nathan D. Lee"
+tt1534994,Francois Gingras,Fabienne Larouche
+tt1541598,Sylvain Doreau,"Bryan Howell,Paul Simko"
+tt1554921,Vicky Jewson,"Ben Hervey,Vicky Jewson,Rupert Whitaker"
+tt1560954,Jessy Terrero,50 Cent
+tt1566547,Jean-Teddy Filippe,"Jean-Teddy Filippe,Vincent Maillard"
+tt1571234,Christian Rivers,"Fran Walsh,Philippa Boyens,Peter Jackson,Philip Reeve"
+tt1571243,Claudio Fäh,"Michael Frost Beckner,Crash Leyland,Ross Helford,John Fasano"
+tt1571402,Michele Placido,"Renato Vallanzasca,Carlo Bonini,Antonella D'Agostino,Andrea Purgatori,Angelo Pasquini,Kim Rossi Stuart,Michele Placido,Antonio Leotti,Toni Trupia,Andrea Leanza"
+tt1578024,Eneko Obieta,"Alvaro Godoy,Marco Lagarde,Joserra Zuniga,Arturo Castro"
+tt1579167,Donnie VanCleve,"Chuck Long,Donnie VanCleve,Becca Walls"
+tt1579313,Leopoldo Fernandez-Larghi,Leopoldo Fernandez-Larghi
+tt1584690,Noel Howell,Delsea Flowers
+tt1587934,"Christopher Bavelles,Jay Hunter,Patrick McManus","Jordan Kranis,Johnathan Walton,Constantin Traian Preda,Aaron Ginsburg,Wade McIntyre"
+tt1600739,Rudi Dolezal,Rudi Dolezal
+tt1600757,"Chris Savino,Clay Morrow,Sherm Cohen","Bob Camp,Thomas Krajewski,Sandro Corsaro,Derek Dressler,Patrick Andrew O'Connor,David Shayne,M.A. Larson,Eric Rivera,Nick Confalone,Scott O'Brien,Mike Yank,David Lewman,Joe Liss,John Derevlany,Mark Drop,Nathan Knetchel,Jonathan M. Howard,Carl Faruolo,Jennifer Keene,Adam Beechen,Devin Bunje,Marty Isenberg,Bart Jennett,Mike Kunkel,Clay Morrow,Tony Mosher,Chris Savino,Scott Sonneborn,Nick Stanton,Guy Toubes,Dean Batali,Neal Boushell,Brendan Duffy,Mark Fellows,Kevin Monk,Sam O'Neal,Tabitha Vidaurri"
+tt1604150,Pawel Regdosz,"Tom Batt,Alan Price,Pawel Regdosz"
+tt1606759,Erik Cieslewicz,"Edward Robert Bach,David J. Gannon"
+tt1608516,Pepe Danquart,"Heinrich Hadding,Pepe Danquart,Uri Orlev,Yoram Fridman"
+tt1613069,Niko Sarlin,"Timo Surkka,Niko Sarlin"
+tt1626038,"Frank Paur,Roy Burdine,Boyd Kirkland,Gary Hartle,Vinton Heuck,Sebastian Montes,Steven E. Gordon,Ciro Nieli","Jack Kirby,Christopher L. Yost,Brandon Auman,Kevin Burke,Chris Wyatt,Eugene Son,Andrew Robinson,Paul Giacoppo,Benjamin Townsend,Joe Simon,Joshua Fine,Michael Ryan,Joe Casey,Joe Kelly,Steven T. Seagle,Brian Reed,Mark Parsons,James Felder,Caroline Farah,Ciro Nieli,Joelle Sellner,Dan Abnett,Andy Lanning,Danielle Wolff,Ed Brubaker,Steve Epting,George Pérez,Jim Shooter"
+tt1629668,"Eric Ransdell,Chad Grochowski","Elise Doganieri,Bertram van Munster"
+tt1637976,Mark Quod,Naomi L. Selfman
+tt1648190,Nikolaj Arcel,"Stephen King,Akiva Goldsman,Jeff Pinkner,Anders Thomas Jensen,Nikolaj Arcel"
+tt1650062,J.J. Abrams,J.J. Abrams
+tt1651954,Max Hattler,Max Hattler
+tt1655420,Simon Curtis,"Adrian Hodges,Colin Clark"
+tt1655442,Michel Hazanavicius,Michel Hazanavicius
+tt1658820,Nirpal Bhogal,Nirpal Bhogal
+tt1663956,David Blyth,David Blyth
+tt1664654,Jaime Fidalgo,"Jaime Fidalgo,Alejandro Piña"
+tt1667113,Zdenek Flídr Sr.,"Irena Dobrovolná,Antonín Holub,Vladimír Klapka"
+tt1682181,Lee Hirsch,"Cynthia Lowen,Lee Hirsch"
+tt1682940,Michael A. Nickles,Michael A. Nickles
+tt1693592,"Rob Evans,William Sinclair,Julian Holmes,Edward Bazalgette,Thaddeus O'Sullivan,Declan O'Dwyer,Lawrence Gough,Delyth Thomas,David Leon,Chris Baugh,Louise Hooper,John Hayes,Stewart Svaasand,Jill Robertson,David Richards,Dusan Lazarevic,Paul Cotter,Adrian Shergold,Farren Blackburn,Carolina Giammetta,Lee Haven Jones,Jamie Childs,Marek Losey,Daikin Marsh,Paul Whittington,Peter Hoar,Paul Gay","Rob Gittins,Sally Abbott,Gaby Chiappe,Paul Matthew Thompson,Paul Logue,Stephen Brady,Marston Bloom,Ann Cleeves,Steve Coombes,Martha Hillier,Helen Jenkins,Colette Kane,Glen Laker,Robert Murphy,Paul Rutman,Colin Teevan,Gary Young"
+tt1693679,Alejo Mo-Sun,Alejo Mo-Sun
+tt1698648,"Robert Pulcini,Shari Springer Berman",Michelle Morgan
+tt1701218,Lucius C. Kuert,Lucius C. Kuert
+tt1708534,Mario Andreacchio,"Mario Andreacchio,John Armstrong,Philip Dalkin,Ron Saunders"
+tt1714828,Bryce Clark,Bryce Clark
+tt1715769,Belinda Green-Smith,Belinda Green-Smith
+tt1717191,Ephraim Kupferschmid,Ephraim Kupferschmid
+tt1717561,Suza Lambert Bowser,Suza Lambert Bowser
+tt1720280,Manolo Celi,"Manolo Celi,Andres De Oliveira,Maxx Maulion,Bill Sommer"
+tt1723798,Daniel Krauss,"Daniel Krauss,Lasse Nolte"
+tt1730236,Dan O'Hare,Dan O'Hare
+tt1772281,"Laura Casey,David Konschnik,Amber Engelmann,Rick Velleu","Ann Carroll,Timothy Dilworth,Chris Sondreal,Bradley Hague,David Konschnik,Alan Martin,Adam Meyer"
+tt1773020,Jai-hong Juhn,Ki-duk Kim
+tt1774286,Arturo Anaya,Arturo Anaya
+tt1781922,John Erick Dowdle,"John Erick Dowdle,Drew Dowdle"
+tt1783244,Jerzy Hoffman,"Jerzy Hoffman,Jaroslaw Sokól"
+tt1787758,Brendan Fletcher,Brendan Fletcher
+tt1794595,Tapaas Chakravarti,"David Fox,Jill Brett,Darren Jones,Rachel Murrell,Christopher Panzner,Chris Trengove,Annetta Zucchi"
+tt1807075,Mark Sharon,Mark Sharon
+tt1808045,Antoni Krauze,"Miroslaw Piepka,Michal Pruski"
+tt1825683,Ryan Coogler,"Stan Lee,Jack Kirby,Ryan Coogler,Joe Robert Cole"
+tt1828260,"Mark Noyce,Hamdy Taha",Mark Noyce
+tt1835129,"Jordan Vogt-Roberts,Peter Lauer,Eric Appel,Austin Reading,Drew Daywalt","Curtis Gwinn,Spider One,Eric Weinberg,Kristofor Brown,Matt Lawton,Mike Alber,Jenifer Rice-Genzuk,Gabe Snyder,David A. Weinstein"
+tt1844624,"Elodie Keene,Tim Hunter,David Semel,Craig Zisk,Marita Grabiak,Jeremy Podeswa,David Petrarca,Alfonso Gomez-Rejon,Howard Deutch,Barbara Brown,Michael Lehmann,Rachel Goldberg,Ryan Murphy,Liza Johnson,Michael Goi,Jennifer Lynch,Maggie Kiley,Gwyneth Horder-Payton,Loni Peristere,Michael Rymer,Jennifer Arnold,Alexis Ostrander,Michael Uppendahl,Sheree Folkson,Bradley Buecker,Angela Bassett,Sarah Paulson,John J. Gray,Liz Friedlander,John Scott,Nelson Cragg,Anthony Hemingway,Miguel Arteta,Mary Wigmore","Douglas Petrie,Brad Falchuk,Ryan Murphy,Crystal Liu,Joshua Green,John J. Gray,Todd Kubrak,Asha Michelle Wilson,Tim Minear,James Wong,Jennifer Salt,Jessica Sharzer,Andrew J. Paulsen,Rachel Rush,Ned Martel,Adam Penn,Akela Cooper,Manny Coto,Jay Beattie,Dan Dworkin"
+tt1847713,Andrew Lau,"Oi Wah Lam,Joyce Chan,Yuet-Jan Hui,Peter Tsi,Junli Guo,Koon-Nam Lui"
+tt1852001,Mariette Monpierre,"Mama Keïta,Mariette Monpierre"
+tt1856010,"Thomas Schlamme,Allen Coulter,Alik Sakharov,Carl Franklin,Tucker Gates,Daniel Minahan,Alex Graves,Charles McDougall,Kari Skogland,Ami Canaan Mann,Jodie Foster,Agnieszka Holland,John Dahl,Joel Schumacher,Roxann Dawson,James Foley,Robin Wright,Michael Morris,Jakob Verbruggen,Tom Shankland,John David Coles,David Fincher,Louise Friedberg,Stacie Passon,Ernest R. Dickerson","Andrew Davies,Jason Horwitch,Michael Dobbs,Beau Willimon,Laura Eason,Bill Kennedy,Tian Jun Gu,Sam Forman,Melissa James Gibson,Kate Barnow,Kenneth Lin,Frank Pugliese,John Mankiewicz,Sharon Hoffman,Rick Cleveland,Keith Huff,Sarah Treem,Jerome Hairston,Charlotte Stoudt,Gina Gionfriddo,Bill Cain,David Manson"
+tt1860489,"Róbert Sveda,Peter Bebjak",Roman Oleksák
+tt1872780,"Bill Bowles,Kenny Meehan",Kenny Meehan
+tt1874592,Pablo Torre,Pablo Torre
+tt1883251,Emma Cooper,Louis Theroux
+tt1887746,Peter Coggan,"Peter Coggan,Paul Lee"
+tt1891860,Will Jewell,Will Jewell
+tt1895315,Martin Koolhoven,Martin Koolhoven
+tt1898937,Jeffrey Nodelman,"Pamela Hickey,Dennys McCoy,Kevin Monk,Jeffrey Nodelman,Elizabeth Hickey-McCoy"
+tt1901024,Alexandros Avranas,"David Grann,Jeremy Brock"
+tt1906422,Eva Pervolovici,"Eva Pervolovici,Monica Stan"
+tt1918727,Marshall Lewy,Marshall Lewy
+tt1920888,Raja Sen,"Mohit Chatterjee,Narayan Gangopadhyay"
+tt1924394,Ken Loach,Paul Laverty
+tt1934293,Christopher Bryant Tucker,Christopher Bryant Tucker
+tt1934472,Tim Wolochatiuk,Jason Sherman
+tt1943174,"T.J. Asprea,James McGrath","Justin DiLauro,Steve Hartman,Joe Clines"
+tt1945034,Cesc Gay,"Tomàs Aragay,Cesc Gay"
+tt1949012,"Sturla Gunnarsson,Fred Gerber,Helen Shaver,Holly Dale,Lee Rose,Kelly Makin,Lynne Stopkewich,David Frazee,George Mihalka,David Straiton,Peter Wellington","Katie Swain,John Grisham,Lukas Reiter,Jamie Gorenberg,Peter Noah,Jonathan Shapiro,Alyson Feltes,Vincent Angell,David Feige,Ben Lee,Andrew Matisziw,William L. Rotko"
+tt1950186,James Mangold,"Jez Butterworth,John-Henry Butterworth,Jason Keller"
+tt1950799,"Ken Burns,Lynn Novick",Geoffrey C. Ward
+tt1951265,Francis Lawrence,"Peter Craig,Danny Strong,Suzanne Collins"
+tt1954630,Emma Cooper,Louis Theroux
+tt1966385,Pete Travis,Patrick Neate
+tt1974260,Lindsay Batdorf,"Lindsay Batdorf,Lindsey Batdorf"
+tt1974470,"Anthony Atkins,Anne Wheeler,Stacey Stewart Curtis,Gary Harvey,Robert Lieberman,James Dunnison,Paul Shapiro,Martin Wood,Neill Fearnley,Amanda Tapping,Mike Rohl,Kevin Fair","James Phillips,Ian Weir,Bob Carney,Susin Nielsen,Larry Bambrick,Sarah Dodd,Jordan Wheeler,Penny Gummerson,Jon Cooksey,Derek Thompson,Sara Snow,Michele McMahon"
+tt1978598,Christopher Broe,"Christopher Broe,Shalyn Kempema"
+tt1979320,Ron Howard,Peter Morgan
+tt2005156,Douglas Langway,Douglas Langway
+tt2011953,Ira Sachs,"Ira Sachs,Mauricio Zacharias"
+tt2015422,Paul Knight,"Paul Knight,Stuart Knight"
+tt2018096,Daniel Maggio,"Cory Houdyshell,Daniel Maggio"
+tt2033827,"Mladen Dizdar,Tanja Golic,Andrija Mardesic,Aleksandar Jankovic,Davor Tatic,David Kapac,Nikola Ivanda","Ivan Delas,Marija Antic,Kirsten Ittershagen,Petra Hrupelj,Tomislav Stefanac,Dinko Paleka,Nives Ivankovic"
+tt2035471,"Jeton Murtishi,Doug McDade",Jeton Murtishi
+tt2049418,Aaron Chan,Aaron Chan
+tt2097312,Carles Prats,"Antonio Jesús García,Javier Navarrete Fernández-Nieto,Carles Prats"
+tt2101393,Tikoy Aguiluz,"Roy Iglesias,Rey Ventura"
+tt2102295,Brendan Prost,Brendan Prost
+tt2113075,George Tillman Jr.,Michael Starrbury
+tt2124803,David France,"David France,Woody Richman,Tyler H. Walk,Jonathan Oppenheim,Jenny Raskin,Stephen Winter"
+tt2129470,Mark Clark,Mark Clark
+tt2133233,Diederik Ebbinge,Hans Teeuwen
+tt2146543,"Tadaaki Hôrai,Ryuichi Kitahata,Kenji Mizoguchi,Takashi Igawa","Hisashi Itasaka,Yoriko Kodama,Masayuki Kusumi,Yoshihiro Taguchi,Jirô Taniguchi"
+tt2147731,Francis Leclerc,Serge Boucher
+tt2150332,Gilles Bourdos,"Jacques Renoir,Gilles Bourdos,Jérôme Tonnerre,Michel Spinosa"
+tt2160915,"Ivan Zivkovic,Dragan Bjelogrlic","Ranko Bozic,Dimitrije Vojnov,Srdjan Dragojevic,Stevan Koprivica,Dragan Bjelogrlic"
+tt2187358,"Yvanna Osborne,Brendan Downs,Michael Heylin,Brian Berard,Jonathan Blake,Jeff Fowler,Chris Lawn,Jason Daniels,Harrison Young,Roland Khorshidianzadeh,Kristofer Gardiner,Jon Grabowski,Matthew Miller,Ross Bloomfield,Margaux Fortier,Yvana Osborne,Cristian Bracero,David Stevens,Kim Pincus",Harrison Young
+tt2217824,Carlos García Campillo,"Josh Candia,Carlos García Campillo"
+tt2217859,Joachim Trier,"Joachim Trier,Eskil Vogt"
+tt2217864,Jason James,"Jason James,Tiffany Robinson"
+tt2231351,Hatman,Hatman
+tt2238032,Renny Harlin,"Jay Longino,BenDavid Grabinski,Wen-Chia Chang"
+tt2239078,Philip Gardiner,"Warren Croyle,Joe Micallef,Philip Gardiner"
+tt2242025,"Jay Hunter,Glenn GT Taylor,German Abarca Jr.",Adeline Ramage Rooney
+tt2243123,"Arvin Chen,Wen-tang Cheng,Mong-Hong Chung,Nien-Jen Wu,Yen-Ping Chu,Te-Sheng Wei,Yu-Hsun Chen,Wi Ding Ho,Kuo-Fu Chen,Toon Wang,Ya-che Yang,Sylvia Chang,Shaudi Wang,Chi-jan Hou,Yu-Chieh Cheng,Tso-chi Chang,Leon Dai,Hsiao-Hsien Hou,Ya-chuan Hsiao,Ko-shang Shen","Chia-Lu Chang,Sylvia Chang,Tso-chi Chang,Arvin Chen,Yu-Hsun Chen,Wen-tang Cheng,Mong-Hong Chung,Chi-jan Hou,Ya-chuan Hsiao,Chi-shiang Lin,Kimmy Liu,Cheng-Da Lu,Hsin-Chih Lu,Ko-shang Shen,Toon Wang,Kelly Yuan-Ling Yang,Ya-che Yang"
+tt2250912,Jon Watts,"Stan Lee,Jack Kirby,Joe Simon,Jonathan Goldstein,John Francis Daley,Jon Watts,Christopher Ford,Chris McKenna,Erik Sommers,Steve Ditko"
+tt2262227,Jorge R. Gutiérrez,"Jorge R. Gutiérrez,Doug Langdale"
+tt2271415,Christopher Nupen,Christopher Nupen
+tt2294817,Dick Fontaine,Dick Fontaine
+tt2304426,Clio Barnard,"Clio Barnard,Oscar Wilde"
+tt2305700,Danny Boyle,"Danny Boyle,Frank Cottrell Boyce"
+tt2314348,Jerome Cloutier,Jerome Cloutier
+tt2321596,"John Dower,Matthew Evans,William Sinclair,Sallie Aprahamian,Declan O'Dwyer,Stewart Svaasand,Jermain Julien,Steve Hughes,Sarah Walker,Roger Simonsz,Ben Goodger,Andrew Gunn","Bev Doyle,Jonny Kurzman,Debbie Moon,Hannah George,James Whitehouse,Sophie Petzal,Neil Jones,Clare Saxby,Richard Kurti,Matt Sinclair,Kirstie Falkous,Furquan Akhtar,Catrin Clarke,Paul Mousley,Lee Walters,Ed Aldridge,Victoria Asare-Archer,Michelle Gayle,Simon Underwood"
+tt2333598,"Juan Carlos Maneglia,Tana Schémbori","Juan Carlos Maneglia,Tito Chamorro,Tana Schémbori"
+tt2336507,Motke Dapp,"Paul Armstrong,Motke Dapp,Josh Jones"
+tt2341987,James Richards,"Bayden Docking,Naomi Karpati,James Richards"
+tt2347134,Sang-il Lee,"David Webb Peoples,Sang-il Lee"
+tt2356464,Katja von Garnier,"Kristina Magdalena Henn,Lea Schmidbauer"
+tt2372162,"S.J. Clarkson,Matthew Penn,Phil Abraham,Clark Johnson,Tricia Brock,Constantine Makris,Adam Bernstein,Jennifer Getzinger,Allison Anders,Anthony Hemingway,Jodie Foster,Diego Velasco,Nick Sandow,Uta Briesewitz,Erin Feeley,Nicole Holofcener,Mark A. Burley,Julie Anne Robinson,Laura Prepon,Jesse Peretz,Ludovic Littee,Lev L. Spiro,Matthew Weiner,Wendey Stanzler,Daisy von Scherler Mayer,Sian Heder,Michael Trim,Andrew McCarthy,Natasha Lyonne","Liz Friedman,Jenji Kohan,Piper Kerman,Anthony Natoli,Jordan Harrison,Lauren Morelli,Merritt Tierce,Nick Jones,Sian Heder,Heather Jeng Bladt,Kirsa Rein,Rebecca Angelo,Lauren Schuker Blum,Molly Smith Metzler,Sara Hess,Tara Herrmann,Carolina Paiz,Josh Koenigsberg,Brian Chamberlayne,Jim Danger Gray,Hilary Weisman Graham,Marco Ramirez,Alex Regnery,Hartley Voss,Carly Mensch,Tami Sagher,Vera Santamaria,Gary Lennon,Stephen Falk"
+tt2388350,"Yan Lanouette Turgeon,Louis Bolduc,Jean-Philippe Duval","Geneviève Baril,Louise Danis,Danielle Trottier"
+tt2402207,"Brad Turner,Michael Katleman,Michael Nankin,Jack Bender,Tim Matheson,Nelson McCormick,Jennifer Lynch,Reza Tabrizi,Olatunde Osunsanmi,Hank Steinberg,Mario Van Peebles,Greg Beeman,Mairzee Almas,Anton Cropper,Jonathan Mostow,Bill Roe,Paul Holahan,Jann Turner,Lukas Ettlin,Kenneth Fink,Sergio Mimica-Gezzan,Steven Kane,Bud Kremp,Bobby Roth,Peter Weller","Cameron Welsh,Katie Swain,William L. Rotko,William Brinkley,Steven Kane,Hank Steinberg,Jill Blankenship,Onalee Hunter,Hiram Martinez,Jessica Butler,Nic Van Zeebroeck,Mark Malone,Ira Parker,Richard Arthur,Josh Schaer,Jorge Zamacona,Quinton Peeples,Anne Cofell Saunders,Sarah H. Haught,Sean Cook,Michael Sussman"
+tt2404241,Andibachtiar Yusuf,"Swastika Nohara,Andibachtiar Yusuf"
+tt2406566,David Leitch,"Kurt Johnstad,Antony Johnston,Sam Hart"
+tt2428184,Wade Gasque,Wade Gasque
+tt2443822,Craig William Macneill,"Craig William Macneill,Clay McLeod Chapman"
+tt2459182,Manoj Maurya,Manoj Maurya
+tt2464018,André Pellenz,"Paulo Gustavo,Fil Braz,Rafael Dragaud"
+tt2466608,Nizar Sfair,"Maxime Daher,Nizar Sfair"
+tt2481480,Raymond De Felitta,Jonathan Fernandez
+tt2482654,Chris Di Staulo,"Chris Di Staulo,Kyah Green,Libydo"
+tt2494820,Juliane Fezer,"Juliane Fezer,Charlotte Munck,Stefan Beuse"
+tt2506748,Brian Skiba,Brian Skiba
+tt2514438,"Thomas De Napoli,Ben Sinclair,Katja Blichfeld,Sarah-Violet Bliss","Katja Blichfeld,Michael Cyril Creighton,Ben Sinclair"
+tt2515134,Thomas K. Phillips,"Thomas K. Phillips,Tim O'Connell"
+tt2523832,Amy S. Weber,Amy S. Weber
+tt2586120,Michaël R. Roskam,"Thomas Bidegain,Noé Debré,Michaël R. Roskam"
+tt2586134,Jaime Fidalgo,"Jaime Fidalgo,Paco Martínez,Tomás Pozzi"
+tt2589178,Doesjka van Hoogdalem,"Najib Amhali,Titus Tiel Groenestege"
+tt2593100,Ahmet Sönmez,Nalan Merter Savas
+tt2624636,"Rob Klug,Alicia Tanz-Flaum","Paul Bellinger,Michael H. Gavshon,Alan B. Goldberg,Max McClellan,Draggan Mihailovich,Ira Rosen,Gabrielle Schonder,Keith Sharman,Katie Spikes,Alan Weisman"
+tt2637956,Manohar Sarvankar,Pratap Gangavane
+tt2707408,"Andrés Baiz,José Padilha,Josef Kubota Wladyka,Fernando Coimbra,Gabriel Ripstein,Gerardo Naranjo,Guillermo Navarro","Steve Lightfoot,David Matthews,Chris Brancato,Julie Siege,Dana Calvo,Curtis Gwinn,Carlo Bernard,Doug Miro,Andrew Black,Clayton Trussell,Dana Ledoux Miller,Zachary Reiter,Nick Schenk,T.J. Brady,Rasheed Newson,Jason George,Eric Newman,Allison Abner,Zach Calig,Adam Fierro,Gideon Yago,Ashley Lyle,Bart Nickerson,Santa Sierra,Paul Eckstein,Samir Mehta"
+tt2717822,Michael Mann,Morgan Davis Foehl
+tt2778874,Mike Montgomery,Mike Montgomery
+tt2782710,"Shane Smith,Sokratis Spanos,Koukoulis Konstantinos,Nikolia Apostolou","Reid Cherlin,Thomas Morton,Shane Smith"
+tt2791026,Kirk Sullivan,Andrew Poston
+tt2797106,Eun-jin Pang,"Jeong-Beom Lee,Jung-Hwa Lee,Eun-Jin Pang,Dong-Sun Shin,Jin-ho Yoon"
+tt2798920,Alex Garland,"Alex Garland,Jeff VanderMeer"
+tt2818348,Vince Marcello,"Jessica O'Toole,Amy Rardin,Jessica Haas"
+tt2837574,David Lowery,"David Grann,David Lowery"
+tt2930604,"Justin Ridge,Dave Filoni,Steward Lee,Bosco Ng,Saul Ruiz,Steven G. Lee,Melchior Zwyer,Brad Rau,Sergio Páez","Brent V. Friedman,George Lucas,Henry Gilroy,Dave Filoni,Steven Melching,Matt Michnovetz,Charles Murray,Christopher L. Yost,Simon Kinberg,Carrie Beck,Kevin Hopps,Greg Weisman,Gary Whitta,Bill Wolkoff,Nicole Dubuc,Kiri Hart"
+tt2938306,Poochie Rivera,"Clarence Armildez,Ronnel Borja"
+tt2960012,Sameer Patel,Elena Fuller
+tt2960352,Todd Kipp,Todd Kipp
+tt2963090,"Cara E. Brewer,Alex Reyme","Lindsay Lane,Alex Reyme,Ko Wills"
+tt2970406,Stefano Bessoni,Stefano Bessoni
+tt2991922,Giorgio Amato,Giorgio Amato
+tt3004008,"James Peniata,Lily Cheng","Lily Cheng,James Peniata"
+tt3012348,Paul Chau,Paul Chau
+tt3040964,Jon Favreau,"Justin Marks,Rudyard Kipling"
+tt3069086,Jang-ho Lee,Hyun-ji Cho
+tt3075596,"Jorge Cardoso,Ricardo Inácio,José Manuel Fernandes,Lourenço de Mello","Francisco Moita Flores,Tiago Alvarez Marques,Jorge Cardoso,Lourenço de Mello,Lúcia Feitosa"
+tt3088244,Bojan Stefanovic,"Bojan Stefanovic,Uros Timotijevic"
+tt3102156,Michael Chance,Michael Chance
+tt3122870,James Richards,"Bayden Docking,Naomi Karpati,James Richards"
+tt3174322,"Sébastien Maggiani,Olivier Vidal","Sébastien Maggiani,Olivier Vidal"
+tt3181776,Stephen S. Campanelli,"Adam Marcus,Debra Sullivan"
+tt3219686,Richard Friedman,Nathan Illsley
+tt3239582,"Irwansyah,Didi Riyadi,Reza Rahadian,Teuku Wisnu","Wina Aswir,Ilma Fathnurfirda,Hotnida Harahap,Yunya Larasati,Lily Nailufar Mahbob"
+tt3259484,William Cusick,William Cusick
+tt3263674,Robert Krause,"Torsten Berg,Robert Krause,Jaron Pazi,Emanuel Rotstein"
+tt3268828,Gregg Gelfand,"Paul Greenberg,Jim Lewis"
+tt3270412,James Cunningham,"James Cunningham,Timothy Kidd,Karl Wills"
+tt3270630,L. Gustavo Cooper,"L. Gustavo Cooper,Jack Twachtman"
+tt3281548,Greta Gerwig,"Greta Gerwig,Louisa May Alcott"
+tt3282516,Emily Schooley,Emily Schooley
+tt3289378,"Ashraf Shishir,Rosa Smith,Ingrid Franchi,George Korgianitis,Stelios Pissas,John Wayne S. III,Ian Bonner,Sahil Hameed,Marty Shea,Kevin Rumley,Nik Rastia,Samantha McNern","Adam Thompson,Ingrid Franchi,Marty Shea,Ian Bonner,Aaron Majewski,Sahil Hameed,Mairtín de Barra,Samantha McNern,Aria Gmitter,Tom Salmon,Leila Steed,Christopher Hart,Cornelia Connors,Ashraf Shishir,Cailin Coane,Mark Heywood,Kevin Rumley,Nik Rastia,Jose Orraca,Cess Black,George Korgianitis,John Wayne S. III,Rosa Smith"
+tt3300542,Babak Najafi,"Creighton Rothenberger,Katrin Benedikt,Christian Gudegast,Chad St. John,Seth M. Sherwood"
+tt3315342,James Mangold,"James Mangold,Scott Frank,Michael Green,John Romita Sr.,Roy Thomas,Len Wein,Herb Trimpe,Mark Millar,Steven McNiven"
+tt3317616,Aldana Vaccaro,Aldana Vaccaro
+tt3322312,"Julian Holmes,Marc Jobst,Andy Goddard,Brad Turner,Nick Gomez,Jet Wilkinson,Phil Abraham,Alex Zakrzewski,Jennifer Getzinger,Ken Girotti,Adam Kane,Nelson McCormick,Guy Ferland,Farren Blackburn,Peter Hoar,Jennifer Lynch,Michael Uppendahl,Lukas Ettlin,Sam Miller,Stephen Surjik,Euros Lyn,Alex Garcia Lopez,Steven S. DeKnight,Floria Sigismondi,Toa Fraser","Douglas Petrie,Ruth Fletcher,Christos N. Gage,Stan Lee,Marco Ramirez,Bill Everett,Drew Goddard,Luke Kalteux,Whit Anderson,Sneha Koorse,Tonya Kong,Sarah Streicher,Steven S. DeKnight,Lauren Schmidt,Erik Oleson,Joe Pokaski,John C. Kelley,Mark Verheiden,Jim Dunn,Sam Ernst,Dara Resnik,Tamara Becher,Dylan Gallagher,Sonay Hoffman,Lewaa Nasserdeen,Wally Wood"
+tt3336094,"Titus Muntean,Gábor Xantus","Titus Muntean,Gheorghe Racovita,Gábor Xantus"
+tt3385516,Bryan Singer,"Stan Lee,Jack Kirby,Simon Kinberg,Bryan Singer,Michael Dougherty,Dan Harris"
+tt3431806,Patric Chiha,"Raphaël Bouvet,Patric Chiha,Nicolas Ducray"
+tt3483644,Jonathan Rowan,Jonathan Rowan
+tt3486834,Mike Donis,Alexander Brovedani
+tt3501632,Taika Waititi,"Stan Lee,Larry Lieber,Jack Kirby,Craig Kyle,Christopher L. Yost,Eric Pearson,Greg Pak,Walter Simonson,Carlo Pagulayan"
+tt3505714,Belinda Green-Smith,Luke Greensmith
+tt3505800,Shôtarô Kobayashi,"Akira Saso,Satoko Okudera"
+tt3524356,Simon J. Dutton,Simon J. Dutton
+tt3532216,Doug Liman,Gary Spinelli
+tt3681238,Esteban Uribe,Esteban Uribe
+tt3682770,Mabel Cheung,"Mabel Cheung,Alex Law"
+tt3691740,Steven Spielberg,"Melissa Mathison,Roald Dahl"
+tt3715300,Mike Elliott,Patricia Harrington
+tt3745558,Aaron M. Abelto,Aaron M. Abelto
+tt3749900,"Nick Copus,Oz Scott,T.J. Scott,Tim Hunter,Guy Ferland,Wendey Stanzler,Olatunde Osunsanmi,Kenneth Fink,John Stephens,Danny Cannon,Paul A. Edwards,Larysa Kondracki,Maja Vrvilo,Dermott Downs,Erin Richards,Mark Tonderai,Eagle Egilsson,Rob Bailey,Carol Banker,Hanelle M. Culpepper,Nathan Hope,Scott White,Ben McKenzie,Annabelle K. Frost,John Behring,Louis Shaw Milito,Jeffrey G. Hunt,Karen Gaviola,Bill Eagles","Kim Newton,Bruno Heller,Ben Edlund,Bill Finger,Bob Kane,Megan Mostyn-Brown,Tze Chun,John Stephens,Danny Cannon,Ken Woodruff,Robert Hull,Steven Lilien,Bryan Wynbrandt,Seth Boston,Jordan Harper,Rebecca Perry Cutter,Iturri Sosa,Peter Blake,Charlie Huston,Jim Barnes,Ben McKenzie,Chad Fiveash,James Patrick Stoteraux,Rebecca Dameron,Sue Chung,Denise Thé"
+tt3783958,Damien Chazelle,Damien Chazelle
+tt3816526,Wai-Man Yip,"Yu Lei,Manfred Wong"
+tt3835904,Massimo Cappelli,"Massimo Cappelli,Fabio Troiano"
+tt3859320,Yony Leyser,"Yony Leyser,Paula Alamillo"
+tt3876658,"Elijah Allred,Nicole Beck,Sergio Villegas,Marc Rodriguez,Daniel Hynes,Shelby Liggett,Eboni Ellinger,Jessie Curneal,Kyle Cohen,Connor Lloyd Crews,Oliver Reznik,Austin Petray,Jake Palmer,Lauren Keithley,Patrick Newman,Tyler James,Kelsey Hockmuller,Alex Bugg,Vishnu Vallabhaneni,Michael Gonzalez,Kelly Williams,Marek Mlocek,Dustin Speight,Zak Seeker,Benny Guerra,Michael Gonzalez,Noah Levine,Holly Anderson,J. Evan Parks,Desiree Jackson,Dalton Allen,Thomas Surles,Daniel Romero,Celeste Menchaca,Benny Guerra","Daniel Hynes,Connor Lloyd Crews,Zak Seeker,Dalton Allen,Celeste Menchaca,Jake Palmer,Holly Anderson,Dustin Speight,Sean Corbin,Marc Rodriguez,Noah Killeen,Thomas Surles,J. Evan Parks,Jacob Elkins,Patrick Newman,Daniel Romero,Henry Williams,Blair Kirk,Shelby Liggett,Elijah Allred,Benny Guerra,Michi Huff,Michael Gonzalez,Benny Guerra,Wyatt Miller,Alex Bugg,Kelsey Hockmuller,Tyler James,Lauren Keithley,Marek Mlocek,Austin Petray,Will Thomas,Thomas Weitzel,Jessie Curneal,Eboni Ellinger,Noah Levine,Samuel Oladejo,Matthew Tamayo,Sergio Villegas"
+tt3887818,Bastian Meiresonne,Bastian Meiresonne
+tt3896100,Enrique Gato,"Jordi Gasull,Javier López Barreira,Neil Landau,Patxi Amezcua,Paco Sáez"
+tt4008296,Michael Dollaway,Michael Dollaway
+tt4048942,"Michal Gazda,Kasia Adamik,Olga Chajdas,Jan P. Matuszynski","Artur Kowalewski,Kamil Chomiuk,Bartosz Janiszewski,Maciej Maciejewski,Krzysztof Mackowski,Ignacy Michalski,Wojciech Miloszewski,Wiktor Piatkowski,Julie Rutterford,Marta Szymanek,Piotr Szymanek,Katarzyna Tybinka"
+tt4067972,Kevin McCarthy,"Mark Gaberman,Harry Friedman,Jim Rhine,Robert McClenaghan,John Duarte,Michele Loud,Billy Wisse,Steve Tamerius"
+tt4078074,Alfonso García,Vicente Rubio
+tt4080956,Jean-Stéphane Sauvaire,"Nick Saltrese,Billy Moore,Jonathan Hirschbein"
+tt4131142,Ric Forster,"Ric Forster,Louna Maroun"
+tt4145178,Stevan Riley,"Stevan Riley,Peter Ettedgui"
+tt4154118,Jessica Sherry,Jessica Sherry
+tt4154664,"Anna Boden,Ryan Fleck","Anna Boden,Ryan Fleck,Geneva Robertson-Dworet,Nicole Perlman,Meg LeFauve"
+tt4201422,Ed Ehrenberg,"Axel Melzener,Julia Peters"
+tt4276752,Wuershan,"Chia-Lu Chang,Muye Zhang"
+tt4319464,Dave Patten,"Dave Patten,David Ricks,Josh West,Razor Rocco Rizzotti"
+tt4321754,Nesli Çölgeçen,Nesli Çölgeçen
+tt4385236,"Simon Hynd,Morag McKinnon","Bar Ben-Yossef,Erin Carter,Polly Churchill,Peter Hynes,Brian Jordan,Simon Parsons,Dean Wilkinson"
+tt4396722,Ted Marcus,Ted Marcus
+tt4419214,"Kat Candler,DeMane Davis,Cheryl Dunye,Neema Barnette,Ava DuVernay,Tina Mabry,Salli Richardson-Whitfield,Julie Dash,Amanda Marsalis,Ayoka Chenzira,Tanya Hamilton,So Yong Kim,Victoria Mahoney,Garrett Bradley,Aurora Guerrero,Maryam Keshavarz,Liesl Tommy,Christina Voros,Shaz Bennett,Patricia Cardoso,Christina Choe,Maria Govan,Nijla Mumin,Rachel Raimist,Lauren Wolkstein,Lacey Duke,C. Fitz,Deborah Kampmeier,Carmen Marrón,Stacey Muhammad,Bola Ogun,Tchaiko Omawale,Pratibha Parmar,Numa Perrier,Heidi Saman","Dana Greenblatt,Ava DuVernay,Natalie Baszile,Davita Scarlett,Chloé Hung,Anthony Sparks,Felicia Pride,Jason Wilborn,Mike Flynn,Monica Macer,Kat Candler,Erika L. Johnson,Valerie Woods,Melissa Carter,Tina Mabry,Kay Oyegun,Mimi Won Techentin,Channing Godfrey Peoples,Lisa Morales,Ali Gordon-Goldstein,Denise Harkavy,Valerie Chu,Maria Elena Rodriguez,Alison McKenzie"
+tt4447090,Ara Paiaya,"Adam Davidson,Ara Paiaya"
+tt4450806,Francisco Márquez,Francisco Márquez
+tt4498760,Jon Matthews,Jon Matthews
+tt4602554,David Del Rio,"James Andrew Oster,Justin Xavier"
+tt4630332,"Trent Waterman,Raymond J. Short,Octavian Mladin,Hugh P. McCann,Christopher Kalt,Savita Kaye,Axel Wolstenholme","Christopher Kalt,Chris Tavener,Paul Hollis,Jud Friedman,Frankie J.,Allan Rich"
+tt4653808,"Brooke Purdy,Doug Purdy",Brooke Purdy
+tt4695548,"Mehmet Kurtulus,Ayse Ünal","Levent Kazak,Bülent Üstün"
+tt4701810,Sander van Dijk,Thomas Meijer
+tt4702442,Terence Gordon,Terence Gordon
+tt4737784,Thaddäus Reich,Thaddäus Reich
+tt4781664,Rob Klug,"Nancy Kramer,Judy Tygard,Kathleen O'Connell,Alex Abramovich,Mike Harvkey"
+tt4792480,"Matthieu Donck,Valeria Zunzun","Monia Ayachi,Stéphane Bergmans,Benjamin d'Aoust,Matthieu Donck,Djamel Bennecib"
+tt4898282,"David Straiton,Meera Menon,Gregg Simon,Lin Oeding,Roel Reiné,James Roday","James Roland,Nina Fiore,John Herrera,Harrison Weinfeld,Ben Wolf,Daniel Zucker,Alex Ebel,Marc Halsey,John Hlavin"
+tt4909070,Hugo Genes,Hugo Genes
+tt4916682,Todd Newman,"Dave Navarro,Todd Newman"
+tt4953128,"Phil Matarese,Mike Luciano,Dominic Polcino,Wesley Archer","Mike Luciano,Phil Matarese"
+tt4964788,Asghar Farhadi,Asghar Farhadi
+tt5012644,"Elodie Keene,Leslie Libman,Todd Biermann,Rebecca Thomas,Joseph Kahn,Brian Dannelly","Jennifer Kaytin Robinson,Celeste Ballard,Jared Frieder,Amanda Lasher,M. Scott Veach"
+tt5024912,"Kevin Bray,Regina King,Tina Mabry,Liesl Tommy,Nijla Mumin,Pete Chatmon,Mark Sadlek,Maurice Marable,Cecile Emeke,Debbie Allen,Millicent Shelton,Prentice Penny,Rasheena Nash,Kerry Washington,Marta Cunningham,Thembi Banks,Stella Meghie,Melina Matsoukas","Issa Rae,Larry Wilmore,Natasha Rothwell,Christopher Oscar Pena,Ben Cory Jones,Fran Richter,Laura Kittrell,Jen Regan,Amy Aniobi,Syreeta Singleton,Eli Wilson Pelton,Ben Dougan,Dayna Lynne North,Prentice Penny,Regina Y. Hicks,Phil Augusta Jackson"
+tt5029630,Alfonso García,Vicente Rubio
+tt5099020,"Zsombor Dyga,Áron Mátyássy","Balázs Lovas,Eszter Angyalosy,István Tasnádi,Virág Zomborácz,Roope Lehtinen,Mikko Pöllä,Péter Vancsik,Balázs Lengyel,Oliver Vanice,Gábor Krigler,Márton Bárány"
+tt5104902,Barry Avrich,William Shakespeare
+tt5104954,"Shelagh O'Brien,Antoni Cimolino",William Shakespeare
+tt5117670,Will Gluck,"Will Gluck,Rob Lieber,Beatrix Potter"
+tt5122374,Juan Pablo Buscarini,Ramón Salazar
+tt5137338,"Delyth Thomas,Chloe Thomas,Sandra Goldbacher,Jim Loach,Daniel O'Hara,Olly Blackburn,Lisa James Larsson,Geoffrey Sax,Tom Vaughan","Daisy Goodwin,A.N. Wilson,Ottilie Wilford,Guy Andrews"
+tt5165620,Paul Chau,Paul Chau
+tt5192182,Davy Mourier,"Davy Mourier,Lewis Trondheim"
+tt5215606,Eric Spade Rivas,Eric Spade Rivas
+tt5227746,Victor Danell,"Victor Danell,Christoffer Nordenrot"
+tt5281700,Duane Adler,Duane Adler
+tt5311514,Makoto Shinkai,"Makoto Shinkai,Clark Cheng"
+tt5447962,Shu Lea Cheang,Shu Lea Cheang
+tt5493404,Alpgiray M. Ugurlu,Alpgiray M. Ugurlu
+tt5501974,Jamie Matson,"Matthew Armstrong,Marc Laidlaw,Anthony Potter"
+tt5525846,Lom Harsh,Lom Harsh
+tt5528188,Vladimir Lert,"Maksim Dankevich,Sergey Kulybyshev,Vladimir Lert"
+tt5623224,"Francisco Márquez,Andrea Testa","Francisco Márquez,Humberto Constantini,Andrea Testa"
+tt5649144,Sean Baker,"Sean Baker,Chris Bergoch"
+tt5650560,Jack Spring,"Aaron Nelson,Jack Spring"
+tt5651844,"Helen Shaver,Martin Wood,Amanda Tapping,Bryan C. Knight,Nick Hurran,Eric McCormack,William Waring,Andy Mikita","Brad Wright,Ashley Park,Pat Smith,Jason Whiting,Ken Kabatoff,S.B. Edwards,Tara Armstrong,Mika Collins,Rebecca Hales,Gillian Muller,Amanda Smith-Kolic,Heath Affolter"
+tt5688932,Boots Riley,Boots Riley
+tt5690218,Harry Nott,Harry Nott
+tt5698140,Beer ten Kate,"Beer ten Kate,Dirk van Pelt,Joep Vermolen"
+tt5768208,Pepe Danquart,"Pepe Danquart,Stefan Barth,Katrin Milhahn,Antonia Rothe,Kerstin Gier"
+tt5774660,Karim Shaker,"Pablo Schumann,Karim Shaker"
+tt5864150,Fran Vidal,Fran Vidal
+tt5952138,Stacie Passon,"Mark Kruger,Shirley Jackson"
+tt6063742,Luke Mordue,Luke Mordue
+tt6097278,Pedro Cabeleira,Pedro Cabeleira
+tt6100286,Emmanuel Hamon,"Benjamin Dupas,Emmanuel Hamon"
+tt6105098,Jon Favreau,"Jonathan Roberts,Jeff Nathanson,Irene Mecchi,Linda Woolverton"
+tt6119504,Fernando Lebrija,"Brandon Broussard,Hudson Obayuwana,Jana Savage"
+tt6166196,Kyle Henry,Carlos Treviño
+tt6194746,Melanie Laleu,Melanie Laleu
+tt6236554,Dan Moss,"David Cecil,Dan Moss"
+tt6238084,Dave Patten,"Dave Patten,Josh West,Black Deniro,John Vinson"
+tt6241942,Maksim Paramonov,"Maksim Paramonov,Olzhas Zhanaydarov"
+tt6245544,Ed Broaddus,"Danny Avelar,Leanne Caldejon,Jevonne Davis,Marquies Drake,Angel Velasquez"
+tt6270328,"Pablo De La Torre,Eugene Linkov,Jo Boag","David Witt,John Derevlany,David Evans,Peter Schmidt,Philip R. Smith,Rob Tinkler,Anthony Watt"
+tt6319346,Samuel Thivierge,"Paul Ohl,Steve Schmidt,Samuel Thivierge,Kevin B. Smith,Joey Bedard,Jean-Francois Boily"
+tt6413760,Bernhard Weber,"Maria Hinterkoerner,Daniel Trauner"
+tt6421366,Maciej Zak,Maciej Zak
+tt6450804,Tim Miller,"Charles H. Eglee,James Cameron,Josh Friedman,David S. Goyer,Justin Rhodes,Billy Ray,Gale Anne Hurd"
+tt6482138,Jack Hunter,Li Xiaolong
+tt6528564,C.J. Lazaretti,C.J. Lazaretti
+tt6688748,Arnab Bhattacharya,Arnab Bhattacharya
+tt6735754,A.L. Vijay,A.L. Vijay
+tt6823368,M. Night Shyamalan,M. Night Shyamalan
+tt6908854,Claude Lanzmann,Claude Lanzmann
+tt6948548,Alex Hardy,Tom Tyrwhitt
+tt7013194,Ran Wang,Jingjing Bao
+tt7042146,"Jos Humphrey,Kevin Dart,Kenny Park","Steven Melching,Benjamin Townsend,Duane Capizzi,May Chan,Greg Ernstrom,Becky Tinker"
+tt7125860,Barry Jenkins,"Barry Jenkins,James Baldwin"
+tt7140462,David Codeglia,Trey Nichols
+tt7189780,Joel Ferrer,"Joma Labayen,Jeps Gallon"
+tt7222086,"Masayuki Kojima,Hitoshi Haga,Shinya Iino,Toshiharu Kudo,Seung Hui Son,Satoshi Mori","Akihito Tsukushi,Keigo Koyanagi,Hideyuki Kurata"
+tt7230846,Trent O'Donnell,"Patrick Brammall,Trent O'Donnell,Nina Pedrad,Steve Toltz,Matteo Borghese,Seth Cohen,Amy Pocha,Rob Turbovsky,Adam Zwar,Allison Lyman,Ali Schouten"
+tt7284466,"Onat Diaz,Raymund Ocampo,Cathy Camarillo","Carmela Abaygar,Melchor Escarcha,Arlene Tamayo,Jones Castro,Thea Magbanua,Carol Navarro,Edeline Romero,Jose Ruel Garcia,Bridgette Ann Rebuca"
+tt7288378,Derrick Fury,Derrick Fury
+tt7336774,Sameer Asha Patil,"Mehul Agaja,Sameer Asha Patil"
+tt7344644,Emmanuelle Gignac,"Ken Scarborough,Joe Fallon,Andy Yerkes,Guy Toubes,Craig Carlisle,Becky Friedman,Leah Gotcsik,Kerri Grant,Scott Gray,Peter K. Hirsch,Ron Holsey,Laurie Israel,Raye Lankford,Elana Lesser,Laura Numeroff,Corey Powell,Cliff Ruby,Claudia Silver,Ed Valentine,Melanie Wilson LaBracio,Adam Wilson,Noelle Wright"
+tt7661932,"Merve Girgin,Nadim Güç","Hande Altayli,Can Cengiz,Elif Erdem,Ceyda Erenoglu,Yûji Sakamoto"
+tt7681112,Irene Lusztig,Irene Lusztig
+tt7714802,"Dimitri Linder,Salima Glamine","Salima Glamine,Dimitri Linder"
+tt7718088,Rightor Doyle,Rightor Doyle
+tt7772582,Eliza Hittman,Eliza Hittman
+tt7831044,Ava DuVernay,"Ava DuVernay,Twinkie Clark,Jay-Z,No I.D."
+tt7888070,Marie Monge,"Romain Compingt,Julien Guetta,Marie Monge"
+tt7920978,Onur Saylak,Hakan Gunday
+tt7932896,"Osman Sinav,Yusuf Ömer Sinav,Veli Çelik,Murat Onbul,Emre Kabakusak","Erkan Birgören,Deniz Cigal,Nehir Erdem,Sema Ali Erol,Ayse Ferda Eryilmaz,Ceylan Güleç,Seda Çalisir,Mert Özel"
+tt7986650,"Tiago Simões,Maria Inês Gonçalves,Marta Sousa Ribeiro,Joana Peralta,Víctor Neves Ferreira",Tiago Simões
+tt8101758,Yana Karin,Matisse Rose Haddad
+tt8103160,Tuva Novotny,"Anders Frithiof August,Fredrik Backman,Øystein Karlsen,Tuva Novotny"
+tt8130968,Sujoy Ghosh,"Oriol Paulo,Sujoy Ghosh,Raj Vasant"
+tt8195434,Malaka Dewapriya,Malaka Dewapriya
+tt8316274,Miguel Nunes,"Francisco Mira Godinho,Miguel Nunes"
+tt8336340,"Justin Ridge,Steward Lee,Bosco Ng,Saul Ruiz,Brad Rau,Sergio Páez,Amy Beth Christenson","George Lucas,Dave Filoni,Steven Melching,Brandon Auman,Kevin Burke,Chris Wyatt,Eugene Son,Mark Henry,Gavin Hignight,Paul Giacoppo,Carrie Beck,Kiri Hart,Jennifer Corbett,Stephany Folsom,Mairghread Scott,Sarah Carbiener,Sharon Flynn,Erica Rosbe"
+tt8400758,Martin Owen,"Seth Johnson,Elizabeth Morris,Martin Owen"
+tt8437838,Carlos Sorin,Carlos Sorin
+tt8451938,Josh Appignanesi,"Josh Appignanesi,Chloe Aridjis"
+tt8490988,Chris Thomas,Allan MacLeod
+tt8553804,Jeremy Weiss,"David Carter,Chris J. Ford,Keith Kuramoto"
+tt8669104,Reza Ghalib,Nasiful Walid
+tt8688634,Brian Kirk,"Adam Mervis,Matthew Michael Carnahan"
+tt8734578,Chao-Liang Huang,"Chao-Liang Huang,Yan Tang"
+tt8750956,Won Suk Kim,"Young-Hyun Kim,Sang-yeon Park"
+tt8758086,Owen Egerton,Owen Egerton
+tt8769848,Noble Jones,Noble Jones
+tt8886032,"Cyrille Droux,Claude Zidi Jr.","Cyrille Droux,Claude Zidi Jr."
+tt9059202,Anurag Kawatra,Anurag Kawatra
+tt9099982,Shu Zhu,"G. Wilson,Shu Zhu"
+tt9121954,Maciej Pieprzyca,Maciej Pieprzyca
+tt9124840,Kamil Cetin,Volkan Girgin
+tt9231140,Putrama Tuta,"Danny Jaka Sembada,Ilya Sigma,Putrama Tuta,Rudi Valinka"
+tt9236688,Kai Wessel,Christian Jeltsch
+tt9278408,Bahadir Ince,"Levent Cantek,Ali Demirel,Baris Erdogan"
+tt9285882,Rapman,Rapman
+tt9310372,Sujoy Ghosh,"Sujoy Ghosh,Raj Vasant,Pratim D. Gupta,Suresh Nair"
+tt9355200,Johannes Nyholm,Johannes Nyholm
